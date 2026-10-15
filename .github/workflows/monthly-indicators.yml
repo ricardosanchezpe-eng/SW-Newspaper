@@ -1,0 +1,27 @@
+name: Monthly country indicators update
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '35 5 1 * *'
+permissions:
+  contents: write
+jobs:
+  update-indicators:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Refresh official country indicators
+        run: python scripts/update_indicators.py
+      - name: Save indicator edition
+        run: |
+          git config user.name "SOLMAX Intelligence Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/indicators.json
+          git diff --cached --quiet || git commit -m "Monthly country indicator update"
+          git pull --rebase origin main
+          git push origin HEAD:main
