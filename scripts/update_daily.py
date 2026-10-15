@@ -82,6 +82,13 @@ def collect(cfg):
 def main():
  cfg=json.loads((DATA/'sources.json').read_text(encoding='utf-8'));d=json.loads((DATA/'daily.json').read_text(encoding='utf-8'));a=collect(cfg);d['updated']=datetime.now(timezone.utc).strftime('%d %B %Y, %H:%M UTC');d['articles']=a;d['executiveBrief']='Country-by-country executive brief';d['countryBriefs']=[]
  for c in COUNTRIES:
-  top=[x for x in a if x['country']==c][:3];summary='. '.join(x['title'].rstrip('.') for x in top)+'.' if top else 'No significant fresh developments were collected in this edition.';d['countryBriefs'].append({'country':c,'summary':summary})
+  pool=[x for x in a if x['country']==c]
+  main=[x for x in pool if x.get('sourceKind') in ('direct','mainstream')]
+  top=(main[:3] if len(main)>=3 else (main+[x for x in pool if x not in main])[:3])
+  d['countryBriefs'].append({'country':c,'headlines':[x['title'] for x in top]})
+ d['moreToKnow']=[]
+ for c in COUNTRIES:
+  pool=[x for x in a if x['country']==c and x.get('sourceKind') in ('sector','general')]
+  if pool:d['moreToKnow'].append(pool[0])
  (DATA/'daily.json').write_text(json.dumps(d,ensure_ascii=False,indent=2),encoding='utf-8');print('SUMMARY total=',len(a),'politics=',sum(x['category']=='Politics' for x in a),'economy=',sum(x['category']=='Economy' for x in a),'construction=',sum(x['category']=='Construction' for x in a),'sector=',sum(x['sourceKind']=='sector' for x in a))
 if __name__=='__main__':main()
