@@ -1,2 +1,2 @@
 # SOLMAX Executive Newspaper
-Browser-hosted static dashboard starter.
+Static SOLMAX-styled GitHub Pages dashboard. The workflow file is correctly located under `.github/workflows/`.

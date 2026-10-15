@@ -1,0 +1,110 @@
+{
+  "updated": "Demo edition",
+  "executiveBrief": "Starter edition. Run the GitHub Action after adding approved public RSS sources.",
+  "radar": [
+    {
+      "label": "Politics & policy",
+      "value": 82
+    },
+    {
+      "label": "Construction",
+      "value": 88
+    },
+    {
+      "label": "Water & climate",
+      "value": 84
+    }
+  ],
+  "indicators": [
+    {
+      "country": "France",
+      "flag": "🇫🇷",
+      "market": "CAC 40",
+      "construction": "Official indicator pending",
+      "macro": "GDP · inflation · confidence"
+    },
+    {
+      "country": "Spain",
+      "flag": "🇪🇸",
+      "market": "IBEX 35",
+      "construction": "Official indicator pending",
+      "macro": "GDP · inflation · confidence"
+    },
+    {
+      "country": "Italy",
+      "flag": "🇮🇹",
+      "market": "FTSE MIB",
+      "construction": "Official indicator pending",
+      "macro": "GDP · inflation · confidence"
+    },
+    {
+      "country": "Portugal",
+      "flag": "🇵🇹",
+      "market": "PSI",
+      "construction": "Official indicator pending",
+      "macro": "GDP · inflation · confidence"
+    },
+    {
+      "country": "Luxembourg",
+      "flag": "🇱🇺",
+      "market": "LuxX",
+      "construction": "Official indicator pending",
+      "macro": "GDP · inflation · confidence"
+    }
+  ],
+  "articles": [
+    {
+      "country": "Spain",
+      "flag": "🇪🇸",
+      "category": "Infrastructure",
+      "source": "Demo",
+      "title": "Example headline",
+      "summary": "This demonstration item will be replaced by collected public news.",
+      "why": "Demonstrates the site layout.",
+      "url": "https://www.solmax.com/global/en",
+      "image": "assets/news-fallback.svg"
+    }
+  ],
+  "politics": [
+    {
+      "country": "France",
+      "flag": "🇫🇷",
+      "leader": "Verify from official source",
+      "government": "Verify from official source",
+      "nationalElection": "Verify from official source",
+      "lastVerified": "Not yet verified"
+    },
+    {
+      "country": "Spain",
+      "flag": "🇪🇸",
+      "leader": "Verify from official source",
+      "government": "Verify from official source",
+      "nationalElection": "Verify from official source",
+      "lastVerified": "Not yet verified"
+    },
+    {
+      "country": "Italy",
+      "flag": "🇮🇹",
+      "leader": "Verify from official source",
+      "government": "Verify from official source",
+      "nationalElection": "Verify from official source",
+      "lastVerified": "Not yet verified"
+    },
+    {
+      "country": "Portugal",
+      "flag": "🇵🇹",
+      "leader": "Verify from official source",
+      "government": "Verify from official source",
+      "nationalElection": "Verify from official source",
+      "lastVerified": "Not yet verified"
+    },
+    {
+      "country": "Luxembourg",
+      "flag": "🇱🇺",
+      "leader": "Verify from official source",
+      "government": "Verify from official source",
+      "nationalElection": "Verify from official source",
+      "lastVerified": "Not yet verified"
+    }
+  ]
+}
