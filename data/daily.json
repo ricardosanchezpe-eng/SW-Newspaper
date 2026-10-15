@@ -1,1 +1,479 @@
-{"updated":"Demo edition","executiveBrief":"Country-by-country executive brief","countryBriefs":[{"country":"France","summary":"The next automated run will populate this card from the leading English-language developments for France."},{"country":"Spain","summary":"The next automated run will populate this card from the leading English-language developments for Spain."},{"country":"Italy","summary":"The next automated run will populate this card from the leading English-language developments for Italy."},{"country":"Portugal","summary":"The next automated run will populate this card from the leading English-language developments for Portugal."},{"country":"Luxembourg","summary":"The next automated run will populate this card from the leading English-language developments for Luxembourg."}],"radar":[{"label":"Politics & policy","value":70},{"label":"Macro economy","value":70},{"label":"Construction","value":80},{"label":"Water & climate","value":75},{"label":"Industry & energy","value":70}],"indicators":[{"country":"France","market":"CAC 40","construction":"Official indicator pending","macro":"GDP · inflation · confidence"},{"country":"Spain","market":"IBEX 35","construction":"Official indicator pending","macro":"GDP · permits · employment"},{"country":"Italy","market":"FTSE MIB","construction":"Official indicator pending","macro":"GDP · inflation · confidence"},{"country":"Portugal","market":"PSI","construction":"Official indicator pending","macro":"GDP · permits · employment"},{"country":"Luxembourg","market":"LuxX","construction":"Official indicator pending","macro":"GDP · permits · confidence"}],"articles":[],"politics":[{"country":"France","leader":"Verify from official source","government":"Verify from official source","nationalElection":"Verify from official source","lastVerified":"Not yet verified"},{"country":"Spain","leader":"Verify from official source","government":"Verify from official source","nationalElection":"Verify from official source","lastVerified":"Not yet verified"},{"country":"Italy","leader":"Verify from official source","government":"Verify from official source","nationalElection":"Verify from official source","lastVerified":"Not yet verified"},{"country":"Portugal","leader":"Verify from official source","government":"Verify from official source","nationalElection":"Verify from official source","lastVerified":"Not yet verified"},{"country":"Luxembourg","leader":"Verify from official source","government":"Verify from official source","nationalElection":"Verify from official source","lastVerified":"Not yet verified"}]}
+{
+  "updated": "15 October 2026, 18:54 UTC",
+  "executiveBrief": "Country-by-country executive brief",
+  "countryBriefs": [
+    {
+      "country": "France",
+      "summary": "Comment favoriser une réindustrialisation verte, au bénéfice des finances publiques et de la prospérité de la France. Un pipeline de 800 km en France pour relier les bassins industriels européens. France: l'inflation est revue en légère hausse, à 3,1% sur un an en septembre."
+    },
+    {
+      "country": "Spain",
+      "summary": "Tres pueblos de Zamora, ante nuevas obras para asegurar agua al ganado y ayudar a combatir incendios. La aprobación de Confederación arranca la construcción del nuevo recinto ferial. El puerto de Las Palmas se transformará con una ambiciosa obra: una descomunal cantidad de roca escondida bajo el mar."
+    },
+    {
+      "country": "Italy",
+      "summary": "STM, pace armata Francia-Italia: Chéry resta ancora un anno ma il futuro è tutto da costruire. Data center e sostenibilità: raffreddamento, acqua e recupero del calore nel report IDA 2026. Musumeci: «La nautica deve diventare una politica industriale del Paese»."
+    },
+    {
+      "country": "Portugal",
+      "summary": "Apesar do pessimismo do FMI, a era de ouro dos excedentes em Portugal pode não ter chegado ao fim. Estudo do Banco de Portugal avisa que crise da habitação só se resolve com mais oferta. Portugal visto como \"plano B\" e procura de casas dispara."
+    },
+    {
+      "country": "Luxembourg",
+      "summary": "Le gouvernement luxembourgeois veut interdire les importations en provenance des territoires occupés par Israël. Du pouvoir d’achat à la faim dans le monde : l’alimentation au cœur de nos fractures. L'ÉDITO ÉCONOMIE - \"C'est un placement pour les gens qui ont la trouille\": pourquoi les Français se ruent sur les assurances-vie au Luxembourg?."
+    }
+  ],
+  "radar": [
+    {
+      "label": "Politics & policy",
+      "value": 70
+    },
+    {
+      "label": "Macro economy",
+      "value": 70
+    },
+    {
+      "label": "Construction",
+      "value": 80
+    },
+    {
+      "label": "Water & climate",
+      "value": 75
+    },
+    {
+      "label": "Industry & energy",
+      "value": 70
+    }
+  ],
+  "indicators": [
+    {
+      "country": "France",
+      "market": "CAC 40",
+      "construction": "Official indicator pending",
+      "macro": "GDP · inflation · confidence"
+    },
+    {
+      "country": "Spain",
+      "market": "IBEX 35",
+      "construction": "Official indicator pending",
+      "macro": "GDP · permits · employment"
+    },
+    {
+      "country": "Italy",
+      "market": "FTSE MIB",
+      "construction": "Official indicator pending",
+      "macro": "GDP · inflation · confidence"
+    },
+    {
+      "country": "Portugal",
+      "market": "PSI",
+      "construction": "Official indicator pending",
+      "macro": "GDP · permits · employment"
+    },
+    {
+      "country": "Luxembourg",
+      "market": "LuxX",
+      "construction": "Official indicator pending",
+      "macro": "GDP · permits · confidence"
+    }
+  ],
+  "articles": [
+    {
+      "country": "Spain",
+      "category": "Water",
+      "source": "ZA49",
+      "published": "Thu, 15 Oct 2026 10:00:00 GMT",
+      "title": "Tres pueblos de Zamora, ante nuevas obras para asegurar agua al ganado y ayudar a combatir incendios",
+      "summary": "Tres pueblos de Zamora, ante nuevas obras para asegurar agua al ganado y ayudar a combatir incendios ZA49",
+      "why": "Relevant to Spain's water environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOelVIZGhIUnJ3N1F2N3RoaFgxZldsTUNBWEU0eUtZREZ4ZWN5N0pUV3I5d2ktMjk5UWc0R1Z6ZER4VE9hY3R4VUJYYkQ1X29HcldWeVRoMlhBalpYMWdpeDJoMTdTZXhjVmxxcnZya2ZnWjhpU3ZOWFhQem96WlI3QVlsUThMQzZKYlUxRHhKVXJVaG1CUVI3Uy1jWUJodUFOZnNmYWhn?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 9
+    },
+    {
+      "country": "Spain",
+      "category": "Construction",
+      "source": "El Corto de Loja",
+      "published": "Wed, 14 Oct 2026 09:30:17 GMT",
+      "title": "La aprobación de Confederación arranca la construcción del nuevo recinto ferial",
+      "summary": "La aprobación de Confederación arranca la construcción del nuevo recinto ferial El Corto de Loja",
+      "why": "Relevant to Spain's construction environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMVNPRHlkb3FqTXcxNUc3UThJMF8tajdYbG9MemZOdFFENzlNOEtPLXJLSjFNTnlCcFJtYklXRXl2bFFGeW1hZnBPMlZPMFBYQTNuUTJzVmpkMkE5SU1EaDV4d1E1bXFyaU16d3BTWWhtQXBEYl9mR2pCLVZKb2FvWk4yTTJ2SkpZV1Nwb25sdGVrUnpzZ1R4eXJ3aGFQYWcyRTNuOVRuTFBROHdZRjFYOURWX0VqTWh4NVBNMmJ3?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 9
+    },
+    {
+      "country": "Spain",
+      "category": "Construction",
+      "source": "Xataka",
+      "published": "Wed, 14 Oct 2026 18:30:27 GMT",
+      "title": "El puerto de Las Palmas se transformará con una ambiciosa obra: una descomunal cantidad de roca escondida bajo el mar",
+      "summary": "El puerto de Las Palmas se transformará con una ambiciosa obra: una descomunal cantidad de roca escondida bajo el mar Xataka",
+      "why": "Relevant to Spain's construction environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMVduY3paYzNZWENUTGgtQnhpazBhNEx0cmRIak9PcnBvWDFsZkZ0elJ3c1l1Q1IwWTVyUGlHVk52OWRIYVA3ZTRGU1c0eE1iTy1FV1BwWTF5UXZqYV9MbnNrRXNNZFhNX25uUU1MUEZTV2ZwblJxRzdGUHFMUVRoeGdENklYMFdIcFVEYlVYMU5HTTlaMnM0eHQzcmdmRHNRQ3BEM0pvWGxjZS1XMTdVUlRRMjNTbUJLalRZbE9UUzhyY2sxRUltYkJDSTB4dkkxNFg1aNIB2gFBVV95cUxOaXlUVDN3RUF2djFzYV9NWlotcGpoZmR2LXZ4TmZzU0w1enRBVHBlSzhiYy1GZS1ua2dBeldnZDJFVk9KMk1kY0NTczJ5NVJwM3RfRk4tUUV5UFM3Rlp3aEplMHhuQ3ZFa0tldE9xUEQ0NjlKVnZfZkowNkFSaklrSDVacEdOcHo0dUVocndLLS01RlN5b1FaNEh4dVhxQ0ttWVFNOUNQaUJraXg5d2tMMXA3X1h3YU5USWNNOHJlUHhSaFZnai1yMVh4LUd5Rnp6QUJ2UXVmMFpNUQ?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 9
+    },
+    {
+      "country": "Spain",
+      "category": "Construction",
+      "source": "Gizmodo en Español",
+      "published": "Thu, 15 Oct 2026 08:00:23 GMT",
+      "title": "El puerto de Las Palmas prepara una obra millonaria bajo el mar: enormes estructuras de hormigón y toneladas de roca transformarán sus instalaciones",
+      "summary": "El puerto de Las Palmas prepara una obra millonaria bajo el mar: enormes estructuras de hormigón y toneladas de roca transformarán sus instalaciones Gizmodo en Español",
+      "why": "Relevant to Spain's construction environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOOHktMlhWMExFVzNlU3lBVWNYV2piX243YkdnNzRBWmlNY2psUXJZZ1ZHelM3V2Y5ZWJPdXY4TjdBWHZjdzluUUhmaWgwbFNoT05vTzJyclFra3hvdmdKRm5tSGR5VG1QUTM2SW5LTzlYd1RMNy1SdzVYYmNUNGtSVVR1RVRnWF96SkpRR19hamZ5UXMyZ1FCRWdNWkZDbkQtOWs1LVB5YXlFLXU3TGZWcjJTZndYbGdXeV81TUJtX2NiZ3RVOS1WMXM4S1hHZ3h1alFCMDlnMnhCTEkyLTVUWVNpZ1JBekg4OFZiTmFvdE4xbE9vNTM4MENUR0staUU1bWNObno2Ml9WeFRkMlE?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 9
+    },
+    {
+      "country": "Spain",
+      "category": "Water",
+      "source": "Cinco Días",
+      "published": "Wed, 14 Oct 2026 06:38:49 GMT",
+      "title": "Cox firma con el Gobierno de El Salvador un acuerdo para invertir 2.588 millones de euros en energía y agua",
+      "summary": "Cox firma con el Gobierno de El Salvador un acuerdo para invertir 2.588 millones de euros en energía y agua Cinco Días",
+      "why": "Relevant to Spain's water environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdWxqNWJrd1l6RnN6cG85X3IzTkIzWXBHaVVnd1VXRDFiWlpaQ2J2MV9FVHBDVXdNMUt0c0Iwc0phOFBuZEtmaWNBM1RXdW9QOTM2R3NncWtucng3SnlHR0o1dVRGckNjbHVmdVp0NUJUUXRDUkI2b2tmZ3ViSmNHWER2enNlTEJ4RGhsQ044VmE3dHhBWEw5aEs4Mkl0M0NYSGJFVGdXS3d5a1EtOERWWHFpNUhxd1Zkaks0c2hJQkkxUTZ6ZU5uU18xTGlJcWs1aEU1X092QTlMRmxpYWxxWG0td19RRXZkV0tzTHNCM0doNjjSAYcCQVVfeXFMTWNka0FkZDl5UXBoSzB1YzJVZ3dFMDJ2VHBxVE83ck5reW04NGFQVEhNLXNUOVNnbU1DQ3U1MjN0RXhJSTRucTVvNzFQVnRFR3BLT3c0VEhheXlfMGhwZGk5T09ZM0FmdXgyeWYySFk3MUJpMEhseXJ6NTVjU19TaVhMNTQ3UnB2YWVLV1BiNVNQeTdQUEF1ZGtfLWswbWJqWXdjdXUwQzZpWlBuUGpZWFRzSFUyRzZEYnZLUHZQV193UDdKR0hmX0JoTlJkVkhHMGtmbFhnTlBsUGFleENKOTcxNVNYZV9YUEJFcThCV2xSd1NQNWlKT2NVN1FHcmF1aW4xY1E3VWM?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 9
+    },
+    {
+      "country": "Italy",
+      "category": "Construction",
+      "source": "Il Giorno",
+      "published": "Thu, 15 Oct 2026 12:57:51 GMT",
+      "title": "STM, pace armata Francia-Italia: Chéry resta ancora un anno ma il futuro è tutto da costruire",
+      "summary": "STM, pace armata Francia-Italia: Chéry resta ancora un anno ma il futuro è tutto da costruire Il Giorno",
+      "why": "Relevant to Italy's construction environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVRDR5VWR1NHB1WEdKTkhiZ1FFUnRIODJBSEppTTdYTUd1R1VlYUZEbkZUUEd1WGF6cXhWUU56czBXQmJ6V3NyREVGamJFN0tmMzBPbEJiTi1GLW5uYmFvVXdfd1lWNWp6cmtXd1hjWlFKbXIyTkN4QUF4b1pCV28?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 9
+    },
+    {
+      "country": "Italy",
+      "category": "Water",
+      "source": "Ingenio",
+      "published": "Wed, 14 Oct 2026 10:22:00 GMT",
+      "title": "Data center e sostenibilità: raffreddamento, acqua e recupero del calore nel report IDA 2026",
+      "summary": "Data center e sostenibilità: raffreddamento, acqua e recupero del calore nel report IDA 2026 Ingenio",
+      "why": "Relevant to Italy's water environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORDlXMFlxNnBKdkNMc2w5ZjZaM0hKYnJnM2NxV2JFSTc3Uks3MHJ4bjV4MWxHemVFVEhsMHp0WXUxTlAzdWJYSW8xM2VLNGVWOGM5Ym9OVzhfbjUyRzJXWlBkS3Y3a25mdlJVeFdoWmtNTUhDSks5a2FsdjNrVy15cEFvYUtGendDTFlyM1dWd0JaQQ?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 9
+    },
+    {
+      "country": "Portugal",
+      "category": "Construction",
+      "source": "Expresso",
+      "published": "Thu, 15 Oct 2026 10:54:04 GMT",
+      "title": "Apesar do pessimismo do FMI, a era de ouro dos excedentes em Portugal pode não ter chegado ao fim",
+      "summary": "Apesar do pessimismo do FMI, a era de ouro dos excedentes em Portugal pode não ter chegado ao fim Expresso",
+      "why": "Relevant to Portugal's construction environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORWRJT0ViS1pWVmdLdm1BS3AzelVvbWRKbXRVaWhmVXliV0RlakNYcXQxRjRZc29BZG9XdzRaU3NfeU9Qak9KVk50RjNTb2Z6aFRieEp0aS1aeFQ4bEd0REpZWVNwMVpOOWdDdEVXLVlqdG13aDhYU3FQRUZ4V1NpUDlfV2hfM2d2SzF2ZC1IZDc1LTJBbkd3bmUtdFpTYzh1Tkk2SHdmRTcyN3BEcnJNWW5NT2NaRDFqTEMtSGcwRG11TTRPVVpsaEJhazZwZl9hOGN6YUlObGJCZ2hWbmc?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 9
+    },
+    {
+      "country": "Portugal",
+      "category": "Construction",
+      "source": "Jornal SOL",
+      "published": "Thu, 15 Oct 2026 17:45:28 GMT",
+      "title": "Estudo do Banco de Portugal avisa que crise da habitação só se resolve com mais oferta",
+      "summary": "Estudo do Banco de Portugal avisa que crise da habitação só se resolve com mais oferta Jornal SOL",
+      "why": "Relevant to Portugal's construction environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcjJvV3F6SUExOUg0aEtZRHF1QmRjM1MyN1R4YUxKVk1MTVdDN1k0Tkw3alpYTkdhdmpWV2dXUlFoZlJZR0Z6dW5rQXYzUm9ub3pCZ0FZTmVocXhjNUJWbG43b1p5UWR3Z0QwbU5NeVliNG4zWXd0NEZnb3VxMFNIcWpQNzdaZmIxT2gtcUFiUzVnSy1UOUIwbDhHZ2JVVk5GTVFjY2t4NjhJQzVwTWhxQ3FNSUNSWWtpbEtzeXVGNC12dTVab2pNZ0NyX3F2RHY3SDNlQ3pxSDNWcXBraC0ydnVYeXE1TjlYVC0yQnNn?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 9
+    },
+    {
+      "country": "Portugal",
+      "category": "Construction",
+      "source": "RTP",
+      "published": "Thu, 15 Oct 2026 07:19:53 GMT",
+      "title": "Portugal visto como \"plano B\" e procura de casas dispara",
+      "summary": "Portugal visto como \"plano B\" e procura de casas dispara RTP",
+      "why": "Relevant to Portugal's construction environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWnpUUmhYOEc2N2JEMDhvaU9rdU5MemhDTnJBbjRiSXBsQWFZV0NnWFYtNnNHLVdBNVpqQW9lMVJ4SS02RnFUZzE1QVVLUlhoTktOdndkOVdtdFYyV1dXRVE2dEVybVFQQUFyemNtQkUxd29ncFlTVWxnNWRaUmR5Mjg4QzJwcUFlc3pjZGlibEc5N1V6STE1U3V0bDNDQkVtUFE?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 9
+    },
+    {
+      "country": "Portugal",
+      "category": "Water",
+      "source": "Jornal Económico",
+      "published": "Thu, 15 Oct 2026 18:00:00 GMT",
+      "title": "CAP exige salvaguarda da PAC e proteção do segundo pilar no próximo orçamento europeu",
+      "summary": "CAP exige salvaguarda da PAC e proteção do segundo pilar no próximo orçamento europeu Jornal Económico",
+      "why": "Relevant to Portugal's water environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVS02RnNlX1ZGQVRFQ3lheHZFNjlXcTJRSHd6U2l4QnRHNTU5cXdJN3BWalZYeHJmdk1EZDdxRUVkWGZwbTJGbWlpdkUtdHZQVEI4aF94TlBMYmIxbW5RWFNjbFFTY2JKdlFyNkRKZjVXQ1JrVGdjX2g2dk1tTF9kWEpOcDdqSFBNb3haeHpOY0xwcE1wejZ2Qm5EQ2VrNHV3RnRyZ2pjTWgwV3Bva3lneDg5aTBBNG14X0hYRWNkbzJUR0gxb2c?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 9
+    },
+    {
+      "country": "Portugal",
+      "category": "Construction",
+      "source": "Observador",
+      "published": "Thu, 15 Oct 2026 16:16:57 GMT",
+      "title": "\"É um tema. Investidores estrangeiros hesitam em apostar no país porque faltam casas\", afirma Ricardo Amaro, português da Oxford Economics",
+      "summary": "\"É um tema. Investidores estrangeiros hesitam em apostar no país porque faltam casas\", afirma Ricardo Amaro, português da Oxford Economics Observador",
+      "why": "Relevant to Portugal's construction environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMmxES0ptN0hBWUR5ZkUyUEJNZHhZMjRLZHhyemR5cV9DOFBxRVpZb05HNWlQNXBSU0ZQNjJUTENvNTJwTFVuSmJ0WVlva3NzMXl2ZHpxVm5KYm9Mc3hpNGFNYXJSOGxRMjAwT2xhOXQzMHRxekdfVFlKanVsZ3NKYkFPVWJwSHl6bFJCbktSang2azRrenRrWThFRl9LQ2lGeDhPaElieHRqZ2tKVk9QZHFlZVlZYm9KelAwemRFRTNpWFZuYXFVSmYwRmtQb0lEUjFJZFcyRHlVLXhhYmoyOXZ6SHFDZnlOUk8tcWt0SFg0cE44ejhGQkFR?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 9
+    },
+    {
+      "country": "Portugal",
+      "category": "Construction",
+      "source": "Expresso",
+      "published": "Thu, 15 Oct 2026 06:00:00 GMT",
+      "title": "Austeridade vai ter de regressar: FMI não acredita em mais excedentes em Portugal",
+      "summary": "Austeridade vai ter de regressar: FMI não acredita em mais excedentes em Portugal Expresso",
+      "why": "Relevant to Portugal's construction environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWjBKQmxRbFVkZk9UZXd4LUM2d1NzNUlYeUxLeGRLV3BuMFFiQkpmcnJlSDA5NldHVHg1Nl92YWZrbU1PYk9FZE5QLXlmV1NRa05reEY2d1NWNmlvaVl3TWdXU1dQZFVNZUZ4THpHSmpuWHZVSUNSNnpLTThBQjVESDVxZzZjcDlGbXpKakx1RXFZak13WURsclBkajRyeXJ5X2t0S3FJWkJVWEZQVGVybUo2QzB1THBmdGp3aERVOWx3VXk4blFscg?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 9
+    },
+    {
+      "country": "Luxembourg",
+      "category": "Construction",
+      "source": "Virgule.lu",
+      "published": "Thu, 15 Oct 2026 16:31:59 GMT",
+      "title": "Le gouvernement luxembourgeois veut interdire les importations en provenance des territoires occupés par Israël",
+      "summary": "Le gouvernement luxembourgeois veut interdire les importations en provenance des territoires occupés par Israël Virgule.lu",
+      "why": "Relevant to Luxembourg's construction environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUERPeFhKclM1dG1VTGtfZHpwSUtPLVZpeklNYkFycUZ3QTRyNUxQVUxhTTA3R2lPX3dJR2pBXzFpbHN1Zm5RY2h4TTN2OW95NEZxQWd1ZVdKRXZ0amRhZS1ieDFNZlFYdVltZ2FqMkhaNUEzT21EUnhOZm5ZbUJBdkhOLUV0ZkYzcGNWdkI2YmxOamQ0OGNnWG1oeUZrN0xYRmxTYzdfcHJ0NHZuSmxwSWNkUnVLRWlrblZJei04cGttY3lJbnRRbDRhWFNKTm1kYWR6clZ3TE1IX3lqRnFhbVFaZFhHZlRrSm9CejFLZk1yWHl6STFtOWZ3U3Ffb2s?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 9
+    },
+    {
+      "country": "France",
+      "category": "Industry",
+      "source": "L'Express",
+      "published": "Thu, 15 Oct 2026 13:34:38 GMT",
+      "title": "Comment favoriser une réindustrialisation verte, au bénéfice des finances publiques et de la prospérité de la France",
+      "summary": "Comment favoriser une réindustrialisation verte, au bénéfice des finances publiques et de la prospérité de la France L'Express",
+      "why": "Relevant to France's industry environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMGVCNk9zaFkxMUdZb21NRWxqcmRIZU1DX2JQZUtjNWFPOVZzOC1RbUFzcE41aDY4WGFJUTEtSDFjd2RrOVN5cEVZV0lMT1Q3VUtOQ2RHUzBMWkQtNE9CaEs3TWtqcmhyZkpLXzZUWDdEZDZINmFOeDQ2WFNBQUY0dDZwZ1RGdlFvdXl4em5KZUJWcFdQdWpJaF9VTjNMeW1KS1Q0ZEEwNEpaZ2dHMmZWV3VDTURheC0yMHZ4d0w0b2NVN056cS1oN21JdGt2eGxTeXE1ak1vMjQ0T1JFbDlnUHRKQ2R2THo2RGVQcVUwT1FqZlZwVDl4U090YVloTFNnREln?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 8
+    },
+    {
+      "country": "France",
+      "category": "Industry",
+      "source": "Techniques de l'Ingénieur",
+      "published": "Thu, 15 Oct 2026 06:36:58 GMT",
+      "title": "Un pipeline de 800 km en France pour relier les bassins industriels européens",
+      "summary": "Un pipeline de 800 km en France pour relier les bassins industriels européens Techniques de l'Ingénieur",
+      "why": "Relevant to France's industry environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNU1qSjVvQlFMN0taXzllMENBMXRnank4RkVhVkVFaHFzdUFMck55NjVNMDRtRXF2UlVsaHFXaWNsZWpEbnBsTW5rSllUR0FSaUVxMlBld081SlZxRjV3MWZkUTRvUmhtNkx6WmZ6U19ReGRoM1pVczlzUVhQbEVSei1WM3U2WjQydUJVcVZFb3NMOXlVTzMxY1lUcjRPMXVnRlJZWm5RZ3lnZmxGbDNkUWFJWno0Y2dtd20yc0tpcUlUWVRlUGRydDJ6YTRhYnFTNU1mb204QdIB3AFBVV95cUxQbG5qamY0c2FaU3FPalZMQkQyakpNdjZHVU1Va2p1UkFJSTNNamFFUjJWX2hWLWZxdlpvdnJFX3BpcExydno0bHlScmN3TmNNMUE3LUh3ME1YaDhFVHJUWlRnTFdPdmNmZFZJWFkxVDM2RVpyQlhPTEc5NFB5cFBkblpoUmRnRnU1WXZ6SEpOaGFhbUNoRTNqYUFwX0sycTZ5T3lKNXRnNHZ6c2hGV05JZkdDNWlfanBSa2pPMG91TmpCVC0tbkFvV2tiU0o3NWJpM2ozNmJaR0t2dHVp?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 8
+    },
+    {
+      "country": "Spain",
+      "category": "Industry",
+      "source": "Interempresas Media",
+      "published": "Wed, 14 Oct 2026 14:41:01 GMT",
+      "title": "Un cielo de acero junto al Horno Alto homenajea la memoria industrial de Sestao e inaugura la quinta edición de TAC! Festival de Arquitectura Urbana",
+      "summary": "Un cielo de acero junto al Horno Alto homenajea la memoria industrial de Sestao e inaugura la quinta edición de TAC! Festival de Arquitectura Urbana Interempresas Media",
+      "why": "Relevant to Spain's industry environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ZWmV4eVhDQ0lHUFh3NWpQMng5UkFwcTR3emV3MlFPWnE0aGlncERsUVNnVnlKc0FGZzJHMk1UTDhvVy1PT3hxMkFmSVdFZw?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 8
+    },
+    {
+      "country": "Italy",
+      "category": "Industry",
+      "source": "The Watcher Post",
+      "published": "Thu, 15 Oct 2026 09:14:25 GMT",
+      "title": "Musumeci: «La nautica deve diventare una politica industriale del Paese»",
+      "summary": "Musumeci: «La nautica deve diventare una politica industriale del Paese» The Watcher Post",
+      "why": "Relevant to Italy's industry environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpSi1TWlQySXBablE2a3M2UENHNDRqWDN6Z2VDbkctbzhaazNDaVZhbS03SlAtWlhxMndiaG1uS2R6VFZtMmFRUG9jWFBLejhxRnZpZV9MSFB0V3Z1bmxQN0FMM2YwWk9aQzB5U2s2dnRHMGgtMUkzNkgycUVTQQ?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 8
+    },
+    {
+      "country": "France",
+      "category": "Economy",
+      "source": "Investir Les Echos",
+      "published": "Thu, 15 Oct 2026 06:45:00 GMT",
+      "title": "France: l'inflation est revue en légère hausse, à 3,1% sur un an en septembre",
+      "summary": "France: l'inflation est revue en légère hausse, à 3,1% sur un an en septembre Investir Les Echos",
+      "why": "Relevant to France's economy environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQ3JwNC1UbFVGeFhBTVJsNmNwVFB0dG1SclRUVlF2dDdpN2hiaDlNSUJfQ28xR0JsRGF4M3RmM0tJMjZFcXBYQ2EzVThTc1lfS3ZDcWY2NTV5TnVFTU15Skh5LU9BVkxING5FOTFSSGN5MUd2clhKWGQ5a1laSVlnczFJa2w5dUtRSVowS1RsN3pWTVgybVQyMmRFWl96NlB5TFhHZWpFNlEwUC1TdDhkd0tPSHRTdEhRdFd6WDB1VUltXy11LUdOaDdsWk1QWXhySVgxM09mem5hZUoz?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 7
+    },
+    {
+      "country": "France",
+      "category": "Economy",
+      "source": "https://renseignementeconomique.fr/",
+      "published": "Thu, 15 Oct 2026 16:41:58 GMT",
+      "title": "Christine Lagarde pressentie pour présider le Forum de Davos : quelles conséquences pour la BCE et la France",
+      "summary": "Christine Lagarde pressentie pour présider le Forum de Davos : quelles conséquences pour la BCE et la France https://renseignementeconomique.fr/",
+      "why": "Relevant to France's economy environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb21RMnJsQlpwSmF0ckpud2d5VGd4TVVGUGNNSEI1NWgzWlppVUJ0TmdTSWtrbk5FMW5lZXhwRUxabWVzSmEwTXhVNGdvSEI2S3NTSmtoR1pmbDRkQzk5Uk5DX0ZmaUI3RjJHYTBGQnlRUFBSNWg2M0ZWQ1VwZVNwMmR0STgyMjlNVGtBSDNFa1czSjdmRkt6Q2JYMUlFRnVvWHB6bXE4SUpHdVNZVGthSkFRd2cyYUE4cFBCaEktbG5sdmg0OTFKN1IxdFdhYTI3QzBuZXhiNDc?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 7
+    },
+    {
+      "country": "France",
+      "category": "Economy",
+      "source": "BFM",
+      "published": "Thu, 15 Oct 2026 06:23:14 GMT",
+      "title": "Des recettes fiscales surestimées, pas de trajectoire budgétaire, oubli de la zone euro: le contre-budget de LFI suscite le scepticisme d'économistes",
+      "summary": "Des recettes fiscales surestimées, pas de trajectoire budgétaire, oubli de la zone euro: le contre-budget de LFI suscite le scepticisme d'économistes BFM",
+      "why": "Relevant to France's economy environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPbkR3ZldYRXM1cldKMFQ1MWxBVzdEbHFWSWVrdnF2RTlTb1NHQXVlQjl5SWRUSGtMQ0o3YVFWSFN3LXVweE5vQXBkSklaR0NLZTJOaS0zYU1XcWhDaHd4b0ttTllLb3NxZlBQOWt5aVZBV3JtWjBmUng4ZnFnWFNWU09ScFY1aHlzcjVEcklIQkVvWW9aQzNFclVmSTNfMWpkdzBFdUNFdEc5ZkVLZXd5QXBDZUNfZy1TT1N4b2gxRXRRTFhhbGpVdGtGdHg2Vl9fRS1nWngyWDQ2R19aTFRUR3pHeEt6SXFkRUFld3diU1psNkhac2tocHBWR1dlRm9tQXladFg0ZzBqcVB6OXZXdGc2d3FyYzNCZFRCc2dFbUIzdHlK?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 7
+    },
+    {
+      "country": "Italy",
+      "category": "Politics",
+      "source": "Quotidiano dei Contribuenti",
+      "published": "Thu, 15 Oct 2026 11:06:02 GMT",
+      "title": "Rassegna stampa di oggi, giovedì 15 ottobre 2026: politica, economia e tensioni internazionali",
+      "summary": "Rassegna stampa di oggi, giovedì 15 ottobre 2026: politica, economia e tensioni internazionali Quotidiano dei Contribuenti",
+      "why": "Relevant to Italy's politics environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcGdrVGxWbkZGeGhodzZUOGhtQ0FKMVBMdEdmNWxfSHJHOUU1c3dtam4xemlnaVBkdjBuZGllU2o4c0JtVDQ1VHpsVFB0bk5Bd19iU0NUb0lWeXdGakY1T015YWZ3NVhRVmJFNjBxTXlkNlM2X2FvX0k3aEZ0T1dKd1B2ZHpMLWxSQzNibThXdS1kT00tVVJtdjdOQjhLTVlvVTdlMDIxcHpFY3NteXhnQW9yMThVSHh3MVBvNGFfVWhzT0Fjdnh2Nmt2aTZaUHJ30gHQAUFVX3lxTFBwZ2tUbFZuRkZ4aGh3NlQ4aG1DQUoxUEx0R2Y1bF9Ickc5RTVzd21qbjF6aWdpUGR2MG5kaWVTajhzQm1UNDVUemxUUHRuTkF3X2JTQ1RvSVZ5d0ZqRjVPTXlhZnc1WFFWYkU2MHFNeWQ2UzZfYW9fSTdoRnRPV0p3UHZkekwtbFJDM2JtOFd1LWRPTS1VUm12N05COEtNWW9VN2UwMjFwekVjc215eGdBb3IxOFVIeHcxUG80YV9VaHNPQWN2eHY2a3ZpNlpQcnc?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 7
+    },
+    {
+      "country": "Italy",
+      "category": "Economy",
+      "source": "Lavoce.info",
+      "published": "Thu, 15 Oct 2026 07:39:41 GMT",
+      "title": "Le leggi non scritte che condizionano l’economia italiana",
+      "summary": "Le leggi non scritte che condizionano l’economia italiana Lavoce.info",
+      "why": "Relevant to Italy's economy environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcHhqZkF2QU5CcWJkRF84VkdIdU03UlNNbXU4blItTFBvYWtRQnhvSEthYnFVc1hVZWN3WHF4SEh0R01MLUkxbXI4WnNWOTViUFpma2pXcFdmaThabjFVRUdvVzhsVGFvQ2xCOTQ0a05qcE1PcnlSWlhQdXZJZFgyYXNTcEdUeXNBZloxV1lvaTFOSlN3U3EyQQ?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 7
+    },
+    {
+      "country": "France",
+      "category": "General",
+      "source": "Libération",
+      "published": "Thu, 15 Oct 2026 16:32:14 GMT",
+      "title": "«En France, le coût élevé de la dette est lié à l’incertitude politique et parlementaire»",
+      "summary": "«En France, le coût élevé de la dette est lié à l’incertitude politique et parlementaire» Libération",
+      "why": "Relevant to France's general environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSDQtbnh6amowUERIOWF0STUwUjUwdjk2ZHpLd2ZwRlp6ejZsOFZrcklVMUhzVFRFVk45WVJjMWZwbm5KZ1NhTnpWUWxjcUhQNzhpZk92UTZaVEI5eHp5cDZKVkZUX2FjWTVkYWxfdUdGUmlhYmJJdDA4WDh1UEJpVnZxQkJpVldqNEFDVjVuTE1HNkhiWXM1cmcwdEFDaXEzeEZMUjJYU1VhNGwzNTduTW9jWURuOV9CMDAyeGFXUWVkaFVac1ppVFNfd1hnTnowemlFVTJSRFNQMHZUUjFKYjJaTUFYa21TN0hzVl9B?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 4
+    },
+    {
+      "country": "Italy",
+      "category": "General",
+      "source": "AgroNotizie",
+      "published": "Thu, 15 Oct 2026 11:54:06 GMT",
+      "title": "Controllo delle infestanti in vigneto e non solo",
+      "summary": "Controllo delle infestanti in vigneto e non solo AgroNotizie",
+      "why": "Relevant to Italy's general environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYWlqczNUdHZWT1NLTUVuNzBXX3ltUXF2Z3Q3ZXJfbUhiNmlHSDMyMnpYekR3bnpwcmZBV0x0aVZHeDdjeXl0M1h2a1hUU2R2NXFoOHM5VlRGYnJWczVreWMzRXFSbnVqWTJTOXc1RzNBdjJIWmRSTnBHWDA5QkxxMi14c3pIVlRWOWVZcjJESWgtMXpfVS1YcTcySU9jcjdCM2JMT3FaR2ZOSkRXWHJtTzk1enRLWXl6RTRxVzY4bE8?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 4
+    },
+    {
+      "country": "Luxembourg",
+      "category": "General",
+      "source": "L'Hémicycle",
+      "published": "Thu, 15 Oct 2026 13:26:59 GMT",
+      "title": "Du pouvoir d’achat à la faim dans le monde : l’alimentation au cœur de nos fractures",
+      "summary": "Du pouvoir d’achat à la faim dans le monde : l’alimentation au cœur de nos fractures L'Hémicycle",
+      "why": "Relevant to Luxembourg's general environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzZfMU5NV2NYekZTNGIwQThieVZuSUI0QVhCSUs4MTFOTlpsZ3VNUU85SG9rYmNNcEdJaVZ4eWNwYnI3aTlHOV92aWhTRUgyYVhlX1JqZjh5eWwzTEJoWG4tN1h4N1FUcjE4VkVNY2RPYTN6MUZEMEV4dW9LVEIzdkxYcDU2N0otcnpNRGVIVmRZYUZ1UFZkUkRHSE1wdjFQM2NicXpGSnA2VVZIVEVsTThZLXpZQUU?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 4
+    },
+    {
+      "country": "Luxembourg",
+      "category": "General",
+      "source": "BFM",
+      "published": "Thu, 15 Oct 2026 04:31:15 GMT",
+      "title": "L'ÉDITO ÉCONOMIE - \"C'est un placement pour les gens qui ont la trouille\": pourquoi les Français se ruent sur les assurances-vie au Luxembourg?",
+      "summary": "L'ÉDITO ÉCONOMIE - \"C'est un placement pour les gens qui ont la trouille\": pourquoi les Français se ruent sur les assurances-vie au Luxembourg? BFM",
+      "why": "Relevant to Luxembourg's general environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOZTJpaEw1Q2JkUllPWm9fUlB2ajZPVllRckhwTFpXVGI0Y0xiMExRWVdQSXEzM0twaG9IZDdac2VyTXowOGRPU3VwWGc0N3hrNHBGaVJPOWtsZlNadVFxOVpkTEZER3pGU3MyUmxzeVczYkNyYkVRdHRTcHp4bHlja09oLTU1VW54NHZ5cjRFMnF3NWRUMEVIbFVncHh1QTRucEc1Wnh6VlZRTGRGU2g0WVlHVk12bHZ1ZkF1UG05WWYzQ25jT0kza0lPSlg5ek96QnRxS2hMdnZuTjByLWxGaEg4OVdteFFCbzRNd3ZQMU1jcFNXMFJyVzRjem1oRlRwNEQ2bkczOVdCVXFwS2xLTGRxaHZmZkl3UFJXTTRRS2o?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 4
+    },
+    {
+      "country": "Luxembourg",
+      "category": "General",
+      "source": "parismatch.com",
+      "published": "Thu, 15 Oct 2026 13:47:28 GMT",
+      "title": "« Une humiliation pour la 7e économie mondiale » : un expert en risque politique s'inquiète pour la France",
+      "summary": "« Une humiliation pour la 7e économie mondiale » : un expert en risque politique s'inquiète pour la France parismatch.com",
+      "why": "Relevant to Luxembourg's general environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdUhWRzRKWjFZS04zNFkzeDFnTTJyNFV0VC11NlJWbnRkcUtoSUhxakNSQ2hvdVBMa2lXOS1SMTRkcTFGejRXN3NGZXZkUlpwNGVvazI4UHR2UkVGTWR5aWhxT250dWFRVDRfR1hIRVVtYzhmLTRxNU82dElmNmxEb1lyOXZuUzhGMlh5WHdTc0N1UXplLURYYy1ENUJCVFZpMlJtRlVld2htYnNHNE5UUFoxcEVoTmhzdkIyb1lLY0xLV0hzeDQtRm05bWMzaFp1Sm5DVTRXTU56Z0NIM2xxYQ?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 4
+    },
+    {
+      "country": "Luxembourg",
+      "category": "General",
+      "source": "Paperjam",
+      "published": "Thu, 15 Oct 2026 15:47:26 GMT",
+      "title": "Une eurodéputée questionne la lutte anticorruption au Luxembourg",
+      "summary": "Une eurodéputée questionne la lutte anticorruption au Luxembourg Paperjam",
+      "why": "Relevant to Luxembourg's general environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSnRKaEV3Y3NZYnY0bEg1M0NHWVBZVTltSXgtVXVRVGlXejNtRnlkZlNlSWx0UEdIbjNXUTB0cnhGV3Y4RmtnYzZsZ0V3VHRLZXVHTW54UjZjemZvTDV0YUhvNG80MVd1YWFjSFlwWkw0dnhUakVGMnJob0prWUJwOU5BR0pxeFZZdWl0SnNBOGk0YVBhVmpv?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 4
+    },
+    {
+      "country": "Luxembourg",
+      "category": "General",
+      "source": "Paperjam",
+      "published": "Wed, 14 Oct 2026 13:04:34 GMT",
+      "title": "Le Luxembourg lève 1,7 milliard sur la blockchain",
+      "summary": "Le Luxembourg lève 1,7 milliard sur la blockchain Paperjam",
+      "why": "Relevant to Luxembourg's general environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbkp1T0hZQmxhRTE5bGV2bUZiOC1RckVMbzZwSEVKTm9iR0hiR3JoNzZ2bGU5N1ZoRDNnOGxqUnZ3UXp5Z0FUZGktWlBlWTNXZkpBMHlaY0FTUGM5OW1NcnBydUstTUg4d2luU1pmWkFjdlFnRURxQmptOWhyX1o1MG02VQ?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 4
+    }
+  ],
+  "politics": [
+    {
+      "country": "France",
+      "leader": "Verify from official source",
+      "government": "Verify from official source",
+      "nationalElection": "Verify from official source",
+      "lastVerified": "Not yet verified"
+    },
+    {
+      "country": "Spain",
+      "leader": "Verify from official source",
+      "government": "Verify from official source",
+      "nationalElection": "Verify from official source",
+      "lastVerified": "Not yet verified"
+    },
+    {
+      "country": "Italy",
+      "leader": "Verify from official source",
+      "government": "Verify from official source",
+      "nationalElection": "Verify from official source",
+      "lastVerified": "Not yet verified"
+    },
+    {
+      "country": "Portugal",
+      "leader": "Verify from official source",
+      "government": "Verify from official source",
+      "nationalElection": "Verify from official source",
+      "lastVerified": "Not yet verified"
+    },
+    {
+      "country": "Luxembourg",
+      "leader": "Verify from official source",
+      "government": "Verify from official source",
+      "nationalElection": "Verify from official source",
+      "lastVerified": "Not yet verified"
+    }
+  ]
+}
