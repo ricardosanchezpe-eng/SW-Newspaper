@@ -1,5 +1,5 @@
 {
-  "updated": "15 October 2026, 20:48 UTC",
+  "updated": "15 October 2026, 20:50 UTC",
   "source": "Official TED Search API",
   "methodology": "Construction notices from TED (CPV 45 family), filtered and ranked for SOLMAX-relevant application language. Score is a transparent relevance heuristic, not an estimate of win probability.",
   "opportunities": []
