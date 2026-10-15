@@ -9,9 +9,20 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install -r requirements.txt
-      - run: python scripts/update_daily.py
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Generate daily edition
+        run: python scripts/update_daily.py
+      - name: Save daily edition
+        run: |
+          git config user.name "SOLMAX Intelligence Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/daily.json
+          git diff --cached --quiet || git commit -m "Daily newspaper update"
+          git push
