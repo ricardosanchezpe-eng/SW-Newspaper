@@ -1,3 +1,9 @@
 {
-  "sources": []
+  "sources": [
+    {"country":"France","flag":"🇫🇷","lang":"fr","gl":"FR","ceid":"FR:fr","queries":["France politique economie", "France construction infrastructure eau", "France industrie energie travaux publics"]},
+    {"country":"Spain","flag":"🇪🇸","lang":"es","gl":"ES","ceid":"ES:es","queries":["España politica economia", "España construccion infraestructura agua", "España industria energia obra publica"]},
+    {"country":"Italy","flag":"🇮🇹","lang":"it","gl":"IT","ceid":"IT:it","queries":["Italia politica economia", "Italia costruzioni infrastrutture acqua", "Italia industria energia opere pubbliche"]},
+    {"country":"Portugal","flag":"🇵🇹","lang":"pt-PT","gl":"PT","ceid":"PT:pt-150","queries":["Portugal politica economia", "Portugal construcao infraestruturas agua", "Portugal industria energia obras publicas"]},
+    {"country":"Luxembourg","flag":"🇱🇺","lang":"fr","gl":"LU","ceid":"LU:fr","queries":["Luxembourg politique economie", "Luxembourg construction infrastructure eau", "Luxembourg industrie energie"]}
+  ]
 }
