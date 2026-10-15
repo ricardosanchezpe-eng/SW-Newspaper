@@ -1,26 +1,46 @@
 {
-  "updated": "15 October 2026, 19:35 UTC",
+  "updated": "15 October 2026, 19:41 UTC",
   "executiveBrief": "Country-by-country executive brief",
   "countryBriefs": [
     {
       "country": "France",
-      "summary": "Marine Le Pen exige la démission de Richard Ferrand, le Conseil constitutionnel fait corps avec son président. Au Brésil, le succès dans les urnes et sur les réseaux d’antiféministes et de masculinistes pro-Bolsonaro. Budget de la Sécurité sociale : les députés rejettent en commission la partie « recettes » du texte."
+      "headlines": [
+        "Marine Le Pen exige la démission de Richard Ferrand, le Conseil constitutionnel fait corps avec son président",
+        "Au Brésil, le succès dans les urnes et sur les réseaux d’antiféministes et de masculinistes pro-Bolsonaro",
+        "Budget de la Sécurité sociale : les députés rejettent en commission la partie « recettes » du texte"
+      ]
     },
     {
       "country": "Spain",
-      "summary": "Feijóo dice que actualizará las pensiones con el IPC y Sánchez acusa a la derecha de mentir. Frente Amplio corta el paso a los intentos de Podemos por “trocear” el espacio. La Junta Electoral abre expediente a Sánchez por no respetar la “neutralidad electoral”."
+      "headlines": [
+        "Feijóo dice que actualizará las pensiones con el IPC y Sánchez acusa a la derecha de mentir",
+        "Frente Amplio corta el paso a los intentos de Podemos por “trocear” el espacio",
+        "La Junta Electoral abre expediente a Sánchez por no respetar la “neutralidad electoral”"
+      ]
     },
     {
       "country": "Italy",
-      "summary": "Albania, proteste in tutte le città. Gli studenti: “Rama dimettiti”, lui: “Agenti esterni”. Trump: “La fucilazione del killer di Fort Hood non sarà in streaming”. Autotrasportatori verso lo sciopero: “Prezzi del carburante troppo alti”. Il Mit fissa un incontro."
+      "headlines": [
+        "Albania, proteste in tutte le città. Gli studenti: “Rama dimettiti”, lui: “Agenti esterni”",
+        "Trump: “La fucilazione del killer di Fort Hood non sarà in streaming”",
+        "Autotrasportatori verso lo sciopero: “Prezzi del carburante troppo alti”. Il Mit fissa un incontro"
+      ]
     },
     {
       "country": "Portugal",
-      "summary": "Houthis atacam sede do Governo do Iémen e fazem pelo menos quatro mortos. Copenhaga - Sporting de Braga. Seguro alerta que será necessário um amplo consenso para a privatização total da TAP."
+      "headlines": [
+        "Houthis atacam sede do Governo do Iémen e fazem pelo menos quatro mortos",
+        "Copenhaga - Sporting de Braga",
+        "Seguro alerta que será necessário um amplo consenso para a privatização total da TAP"
+      ]
     },
     {
       "country": "Luxembourg",
-      "summary": "Orientation debate on Thursday: Government council considers possible import bans from illegal Israeli settlements. Luc Frieden arrives at EU summit: No decision yet on extending 5-cent reduction for fuel prices. 'Nothing has shifted': Infantino offers apology but 'no answers' at FIFA meeting over World Cup plan."
+      "headlines": [
+        "Orientation debate on Thursday: Government council considers possible import bans from illegal Israeli settlements",
+        "Luc Frieden arrives at EU summit: No decision yet on extending 5-cent reduction for fuel prices",
+        "'Nothing has shifted': Infantino offers apology but 'no answers' at FIFA meeting over World Cup plan"
+      ]
     }
   ],
   "radar": [
@@ -186,6 +206,19 @@
       "country": "France",
       "category": "Politics",
       "source": "Le Monde",
+      "published": "Thu, 15 Oct 2026 16:53:51 +0200",
+      "title": "Recours aux cabinets de conseil privés : l’Etat poursuit ses efforts de rationalisation, avec une baisse de 78 % des dépenses depuis 2021",
+      "summary": "Les dépenses en conseil des ministères n’ont cessé de décroître, depuis une circulaire de 2022 appelant à réduire la voilure. Elles atteignent désormais près de 60 millions d’euros en 2025, selon un document annexé au projet de loi de finances.",
+      "why": "Relevant to France's politics environment and SW Europe market awareness.",
+      "url": "https://www.lemonde.fr/politique/article/2026/10/15/recours-aux-cabinets-de-conseil-prives-l-etat-poursuit-ses-efforts-de-rationalisation-avec-une-baisse-de-78-des-depenses-depuis-2021_6794562_823448.html",
+      "image": "assets/news-fallback.svg",
+      "relevance": 17,
+      "sourceKind": "direct"
+    },
+    {
+      "country": "France",
+      "category": "Politics",
+      "source": "Le Monde",
       "published": "Thu, 15 Oct 2026 14:02:53 +0200",
       "title": "Plan de relance agricole : Sébastien Lecornu annonce une enveloppe comprise « entre 500 et 700 millions d’euros »",
       "summary": "Au début septembre, quelque 1,2 milliard d’euros ont déjà été débloqués pour aider un secteur touché par les canicules à répétition mais aussi l’augmentation du prix des carburants.",
@@ -204,19 +237,6 @@
       "summary": "Cette mesure devait en théorie rapporter 1,4 milliard d’euros à l’Etat. L’Assemblée nationale a adopté, par 116 voix contre 30, des amendements identiques supprimant l’article 3 du texte, malgré l’opposition du gouvernement.",
       "why": "Relevant to France's politics environment and SW Europe market awareness.",
       "url": "https://www.lemonde.fr/politique/article/2026/10/15/budget-2027-l-assemblee-nationale-rejette-le-plafonnement-d-un-abattement-fiscal-des-retraites_6794431_823448.html",
-      "image": "assets/news-fallback.svg",
-      "relevance": 17,
-      "sourceKind": "direct"
-    },
-    {
-      "country": "France",
-      "category": "Politics",
-      "source": "Le Monde",
-      "published": "Thu, 15 Oct 2026 12:00:06 +0200",
-      "title": "Les principales idées reçues sur les fonctionnaires, trop nombreux, trop absents… démenties par un rapport",
-      "summary": "L’édition 2026 du « rapport annuel sur l’état de la fonction publique », publié jeudi, établit que, sur plusieurs points, les écarts entre secteur public et secteur privé sont quasiment inexistants, alors même que certaines approximations alimentent les débats à l’approche de la présidentielle.",
-      "why": "Relevant to France's politics environment and SW Europe market awareness.",
-      "url": "https://www.lemonde.fr/politique/article/2026/10/15/fonction-publique-un-rapport-de-reference-dement-les-principales-idees-recues_6794429_823448.html",
       "image": "assets/news-fallback.svg",
       "relevance": 17,
       "sourceKind": "direct"
@@ -303,11 +323,11 @@
       "country": "France",
       "category": "Politics",
       "source": "Le Monde",
-      "published": "Thu, 15 Oct 2026 10:09:30 +0200",
-      "title": "Retraites complémentaires du privé : les acteurs sociaux trouvent un accord sur la revalorisation malgré leurs tensions",
-      "summary": "Les syndicats et le patronat ont décidé, mercredi 14 octobre, à une large majorité, d’augmenter de 1,4 % les pensions servies par l’Agirc-Arrco, à partir du 1ᵉʳ novembre. La CFE-CGC n’a pas pris part au vote et la CGT s’est exprimée contre la proposition des employeurs.",
+      "published": "Thu, 15 Oct 2026 12:00:06 +0200",
+      "title": "Les principales idées reçues sur les fonctionnaires, trop nombreux, trop absents… démenties par un rapport",
+      "summary": "L’édition 2026 du « rapport annuel sur l’état de la fonction publique », publié jeudi, établit que, sur plusieurs points, les écarts entre secteur public et secteur privé sont quasiment inexistants, alors même que certaines approximations alimentent les débats à l’approche de la présidentielle.",
       "why": "Relevant to France's politics environment and SW Europe market awareness.",
-      "url": "https://www.lemonde.fr/politique/article/2026/10/15/retraites-complementaires-du-prive-un-accord-sur-fond-de-tensions-entre-acteurs-sociaux_6794354_823448.html",
+      "url": "https://www.lemonde.fr/politique/article/2026/10/15/fonction-publique-un-rapport-de-reference-dement-les-principales-idees-recues_6794429_823448.html",
       "image": "assets/news-fallback.svg",
       "relevance": 17,
       "sourceKind": "direct"
@@ -406,12 +426,12 @@
     {
       "country": "Spain",
       "category": "Politics",
-      "source": "El Pais",
-      "published": "Thu, 15 Oct 2026 16:07:41 GMT",
-      "title": "La Junta Electoral ordena a la oficina del censo que remita a los 2,7 millones inscritos en el exterior la documentación para poder votar - EL PAÍS",
-      "summary": "La Junta Electoral ordena a la oficina del censo que remita a los 2,7 millones inscritos en el exterior la documentación para poder votar EL PAÍS",
+      "source": "ABC",
+      "published": "Thu, 15 Oct 2026 14:07:03 GMT",
+      "title": "Vox crea una página web para dar a conocer «los peligros electorales» de la 'ley de nietos' - ABC",
+      "summary": "Vox crea una página web para dar a conocer «los peligros electorales» de la 'ley de nietos' ABC",
       "why": "Relevant to Spain's politics environment and SW Europe market awareness.",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSVpVRjNWaTg0dDBCT2ZwYXZUc0MwOFBDVnhSbEo2aFpWYXE4UGxoUmdJWmhRS3A1bTlyYUNxUzJoTzVITzlHdTVEOUhYb3hBc2duMUdNUkZJQ3FXOWJPRF9KMXJ4ODJBcW5GcU9YYUxuRXQ3NXVkWjZqMHhqdEw4d0pJdWFHMVpIanVjU0F0WkVZVmF1UExjQXlVSXpOdHp6RFE1MFdhN2JsdndyUDBSb3p5OUx4ZTBhbFNoaWZCR2ZXNEo1N1BZdXZIdzlaVkpvejVjS3dxdU5EaHFSdERjVjZrQjl4VExSTW9wZWlia3VEZnFVMDB2YzlkQU52X1hLNHRndjlEc9IBmwJBVV95cUxPcGQ0bmpCbjJvVkNfMEZVa0xDdHhsUGNwdW9zTldBWjJQV0xVWmJjenkwWUxwSVNfbGZmaGx6S0NBV1hCa1U0aHNaeW9GeUZod3ZVd2tkcEpJcUl6R3NpU3BJRUVSVElfSHlrU2M3ZG1nczhCSGdxN00wZkZDMHdoQzJqekJRZWRyZThEZUZyb09hZUVsWE1idHhyVWRVRjNRMVJ2bmNzdHEzU095T2c1Z0Nvd0xVT0dueXpfWHNCeUNKU0Rvc19hSkpFZ0FjbmphQk9QSFFfa3hESm9CZkYzUDZWWkM5T0N3SklNQVpxVGJsUHhfcm9DM3ZRU1NMNDh5LVVuXzZDcnZWc3pmdk00NERqMlI2RkxJbjZv?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2lwOHJXc0ttWlhjYlAyZFVIcXFWLVh3VW9ZMW50dVhfNFJTOVRzUnVSUWJWSmswaXp3RE95LVo5VWZxYU95TS1NUWQxejVfZEZYYlJEWEJLdDQ0Q0FGWGFRbzhucUdxc2VkTGl6Z0o3ZjZyU0N3MWI3dW1Fak9rWk9ETjVTYjIyYUc0cmdrR1J1WDTSAZgBQVVfeXFMTUZsWm1qOF9pTDhhcGcxdl9aY2VLbGxORl9PUnNsX2pyY05xa09BQ3RsejZnLWpWelBIQ1N2YU9kTmpvTFZvdWZqTjAtc18ydHJmbUhWNjllc2tfQTRXWE00bVlCWWQtTFlnMzItYThzdENjVnpZR2ctS29EVU1jVFpXSEpLc0E0YUdicjUxdTNyaWFVNy1rMHc?oc=5",
       "image": "assets/news-fallback.svg",
       "relevance": 14,
       "sourceKind": "mainstream"
@@ -679,12 +699,12 @@
     {
       "country": "Italy",
       "category": "Politics",
-      "source": "la Repubblica",
-      "published": "Thu, 15 Oct 2026 13:54:15 GMT",
-      "title": "Gli autotrasportatori verso lo sciopero: “Prezzi del carburante troppo alti, il governo intervenga”",
-      "summary": "Gli autotrasportatori verso lo sciopero: “Prezzi del carburante troppo alti, il governo intervenga” la Repubblica Sciopero autotrasportatori dal 16 al 20 ottobre in Calabria, Sicilia e Puglia per i prezzi di diesel e olio Virgilio Puglia, coi blocchi del trasporto a rischio la filiera del grano Il Sole 24 ORE Sale l'allarme carburanti, il governo convoca...",
+      "source": "Il Sole 24 ORE",
+      "published": "Thu, 15 Oct 2026 06:04:20 GMT",
+      "title": "Manovra da 23,5 miliardi: 5 dalle banche per le misure su famiglia e welfare",
+      "summary": "Manovra da 23,5 miliardi: 5 dalle banche per le misure su famiglia e welfare Il Sole 24 ORE Il governo svela il Dpb: «Manovra da 23,5 miliardi, contributo su banche e assicurazioni per 5 miliardi. Priorità a interventi sulle famiglie» Corriere della Sera Manovra da 23,5 miliardi nel 2027, dalle banche 5 miliardi ANSA Potrebbe essere una delle leggi di...",
       "why": "Relevant to Italy's politics environment and SW Europe market awareness.",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTHVMMFVhUjdVMENSalRkUk1IeVVLc1haaTlMOXFwSVpmTlNRQ2dBTzdOdk1mVjlGTTlVM1FxU0tLNm1NRG9VLWlDQkVXV2F1YkY1T0Rtajd0a09tWEs4TkFxZlhWTGR5QVZ0OXk0WWNpQ1Y5ckVVazZaaTlVcmlDRUIwMjV6cjQ4VVZDT3FQRlZRRUhuZjhFUE1DOEphdkpuVjdNVDdwUEY1TGxPU2xKRFhwbzFZUGIzU01oR1RXQ2doWWs?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLTd3RW9Xa3B2MDVEcEVWUnJmZjdVYXR3dk1LNlU4Z0I3cE14RUZBTEdfb0tOY1gzUk9PX1lIVWE0QmxmbXc2Tkw3Yl8zQ2FjUFg2MUxNWjZwQzlPbU5sb0tSNGx1bHBUX1ZjWEk1NWtPSEpNOHNsbzNxZVZ2MkxOUm9xaWVBaHVZTS1yNTNjTmlTOXlaLXB3?oc=5",
       "image": "assets/news-fallback.svg",
       "relevance": 11,
       "sourceKind": "general"
@@ -900,12 +920,12 @@
     {
       "country": "Portugal",
       "category": "Politics",
-      "source": "RTP",
-      "published": "Thu, 15 Oct 2026 12:58:26 GMT",
-      "title": "Montenegro considera acordo entre Trump e Putin sobre combustíveis incoerente e inconsequente",
-      "summary": "Montenegro considera acordo entre Trump e Putin sobre combustíveis incoerente e inconsequente RTP Montenegro acusa EUA de incoerência com acordo com a Rússia sobre gasóleo Diário de Notícias Governo diz que compras conjuntas de energia \"não são solução\" para crise Observador Conselho Europeu: Portugal defende ação europeia concertada para estabilizar...",
+      "source": "Vatican News",
+      "published": "Thu, 15 Oct 2026 12:07:05 GMT",
+      "title": "Papa apresenta boa recuperação do pulmão",
+      "summary": "Papa apresenta boa recuperação do pulmão Vatican News Quem comanda a Igreja Católica durante a recuperação do papa Leão 14 após a cirurgia contra câncer? Folha de S.Paulo Papa Leão XIV pede orações após cirurgia de câncer de pulmão Gazeta do Povo 'Preocupado, mas confiante', diz presidente da CNBB sobre câncer do Papa Leão XIV após visita ao Vaticano G1...",
       "why": "Relevant to Portugal's politics environment and SW Europe market awareness.",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONnJTNDNrLUEzVHRiLUZoOVZpaHozSERiSFhOS1NsVm9xa0lSUmdwSzVnNENoRjlqcjJ4TFJJdnFleXZuMW85c0dhaHBQeVFUVUZLcndKVlV1RVJ0RWplajcyTU9fXzQ2ek5RVjNhZEs0STJNZ25Fal9acnhlNzRNTHZnWFNSLVoxTEIxR1NZaWcyakppNjlsN0VWN1IySjNlZnJUSlJNMklja3Y4RVprZTZsWS1QWVJvOUtmRkRSNS1XV2NmRmVCZDlzQUJxQmlKNUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSjctRnVtVlRaaDRxbHhmTFNCNXMxTUltSnBsTEFCamM5MGtoZHBnaFRyYWpoZGQyN0VIazRfUzRBMEExQ3dUWDFiU1lRSXkyOXVuUm83eXJ2djBLdEFRai1fWmFTT3ZsLTlyVlRMcEk2Q3ItZnJ0alllRXo4aEtFSUVYdTRXdEh0U0htSUVPMEFuQ0kzVjM1QjJGa3RPekNIdzA0?oc=5",
       "image": "assets/news-fallback.svg",
       "relevance": 11,
       "sourceKind": "general"
@@ -914,11 +934,11 @@
       "country": "Portugal",
       "category": "Politics",
       "source": "RTP",
-      "published": "Thu, 15 Oct 2026 13:02:05 GMT",
-      "title": "Lufthansa diz ter recebido \"sinais favoráveis\" dos sindicatos da TAP mas SINTAC exige garantias",
-      "summary": "Lufthansa diz ter recebido \"sinais favoráveis\" dos sindicatos da TAP mas SINTAC exige garantias RTP Lufthansa diz que negócio com a TAP era uma 'oportunidade imperdível', com potencial de US$ 505 milhões O GLOBO Lufthansa negocia compra dos 50,1% restantes da Tap Air Portugal, diz CFO Panrotas Governo de Portugal busca apoio da oposição para venda do...",
+      "published": "Thu, 15 Oct 2026 12:58:26 GMT",
+      "title": "Montenegro considera acordo entre Trump e Putin sobre combustíveis incoerente e inconsequente",
+      "summary": "Montenegro considera acordo entre Trump e Putin sobre combustíveis incoerente e inconsequente RTP Montenegro acusa EUA de incoerência com acordo com a Rússia sobre gasóleo Diário de Notícias Governo diz que compras conjuntas de energia \"não são solução\" para crise Observador Conselho Europeu: Portugal defende ação europeia concertada para estabilizar...",
       "why": "Relevant to Portugal's politics environment and SW Europe market awareness.",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYU55UHlyMGQ1eU9tLVg5YXZBTDZDamMwamxwQVpfcXlQYkpfUnNHbFNiZWxtQnN4YW4zbjM0YlFDaUVjaXQ0U0JzSkhFWFQ3VDhXbVJnandxWTFlbjJDZDQ5d1ZSWDB4UHBvaGVjQ19SNGxOb0d5NnFBY2JiWEt2QWpwRjVkVkJOd2N1M2dsaGtHNFdjYjlPWC1wNU84MFd1WHFMcGtlWHBnWWJSNUtDQ3BETGNDZDlhZFNRT3VDQWVWbkRKTlRBQVotTVY2VzZSWFAtaXd3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONnJTNDNrLUEzVHRiLUZoOVZpaHozSERiSFhOS1NsVm9xa0lSUmdwSzVnNENoRjlqcjJ4TFJJdnFleXZuMW85c0dhaHBQeVFUVUZLcndKVlV1RVJ0RWplajcyTU9fXzQ2ek5RVjNhZEs0STJNZ25Fal9acnhlNzRNTHZnWFNSLVoxTEIxR1NZaWcyakppNjlsN0VWN1IySjNlZnJUSlJNMklja3Y4RVprZTZsWS1QWVJvOUtmRkRSNS1XV2NmRmVCZDlzQUJxQmlKNUE?oc=5",
       "image": "assets/news-fallback.svg",
       "relevance": 11,
       "sourceKind": "general"
@@ -1284,6 +1304,60 @@
       "government": "Verify from official source",
       "nationalElection": "Verify from official source",
       "lastVerified": "Not yet verified"
+    }
+  ],
+  "moreToKnow": [
+    {
+      "country": "France",
+      "category": "Construction",
+      "source": "Le Moniteur",
+      "published": "Thu, 15 Oct 2026 13:31:29 GMT",
+      "title": "La chute de la commande publique plonge les entreprises de travaux publics dans la tourmente - Le Moniteur",
+      "summary": "La chute de la commande publique plonge les entreprises de travaux publics dans la tourmente Le Moniteur",
+      "why": "Relevant to France's construction environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObGhiV2RqaEVMNml4Y1hXSThvdms0OE41dmVnbDN0ek1KcURBcS0wZnAwUGJfRkw3ODR5YVFHZ29wMGpGZ1JZeHBTTGoyQUJyT1NhMFhlNGhPVHJuMzFBb2dzSHlFVXRSTU5HalhkWUYxLWRfZjZ4c3d4eW4xbmFEQ191NEhWYXU5SWZQZDVwOGNvaXFfX293VUZsVzJiUnlTR2V4ZWhtckVDQXZ4MGluT25KUjMyUk1Jd0YxSzc3dmVlZllBY2ZiVzdPaWlMMlVicU84cTJGVl90d1k5ZTZWbG8zd08tbVhJRVJEamVEWlBhengt?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 15,
+      "sourceKind": "sector"
+    },
+    {
+      "country": "Spain",
+      "category": "Construction",
+      "source": "Alimarket Construccion",
+      "published": "Thu, 15 Oct 2026 14:21:25 GMT",
+      "title": "La industria de la construcción analizará su presente y futuro en la Semana Internacional de la... - Alimarket.es",
+      "summary": "La industria de la construcción analizará su presente y futuro en la Semana Internacional de la... Alimarket.es",
+      "why": "Relevant to Spain's construction environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOOEp3c2FibkZYQjR1cEF3bjRwNXUyMzVLMnVidWtiY2tJZUt2N1hIX0k2V2xtQXBXZzdqSmxLRTBMaTlWMFhmRVZhaXNhakx2UG02MFVuTEp3dkRRNFd2dVhCSFlVRkVZU0xkVU8wTU1HWlA1YWZwLVFUMmhON3BwMmlib1ZNQ3FfRW1qb2p1R0RqNDQ2OHlKbDlQZnZZTER1clNTUjNOemVJOTFLUDFTREpMTzdqaWdLY2t4WndvN2dNd0RTQjlDNkNQTkZLYl9SOUxjMzVCaUx5ZGtrZVNVYzNqS1dwNUJuSzFnakw1QTVadmJobmpfRGJn0gH_AUFVX3lxTE1DVWxXRE5vQmNXMkRpTXdZZ21CRlJkYXR4THdBTVFhTHZ2dUZvRTZHM0g4UElhd1JmNkhISEtYakhqM05GWldhVUl1VW9RRkhhMFpELTFnVjd3X1d0cDhvdlJKSXFEUVNWbW9BN0VwTTFOTlpjcHpDekwzeDRxREtSU0N0RlBNUGV1SVVKQ2c4YTg1bzlFSXZSXzZzR2FsMEpycFpULUZxMHY0Y1lCV0hQU1V2cVNLTVdpdDlKVlI1TmxsR1RHYlUxelNaTTNHb09nMC1uaTZ4R2V5Ykx1c29IODhweG5UeHlDaS00UWtoWjVYSEJyVmloNjNpa1Q5UQ?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 15,
+      "sourceKind": "sector"
+    },
+    {
+      "country": "Italy",
+      "category": "Politics",
+      "source": "Il Sole 24 ORE",
+      "published": "Thu, 15 Oct 2026 06:04:20 GMT",
+      "title": "Manovra da 23,5 miliardi: 5 dalle banche per le misure su famiglia e welfare",
+      "summary": "Manovra da 23,5 miliardi: 5 dalle banche per le misure su famiglia e welfare Il Sole 24 ORE Il governo svela il Dpb: «Manovra da 23,5 miliardi, contributo su banche e assicurazioni per 5 miliardi. Priorità a interventi sulle famiglie» Corriere della Sera Manovra da 23,5 miliardi nel 2027, dalle banche 5 miliardi ANSA Potrebbe essere una delle leggi di...",
+      "why": "Relevant to Italy's politics environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLTd3RW9Xa3B2MDVEcEVWUnJmZjdVYXR3dk1LNlU4Z0I3cE14RUZBTEdfb0tOY1gzUk9PX1lIVWE0QmxmbXc2Tkw3Yl8zQ2FjUFg2MUxNWjZwQzlPbU5sb0tSNGx1bHBUX1ZjWEk1NWtPSEpNOHNsbzNxZVZ2MkxOUm9xaWVBaHVZTS1yNTNjTmlTOXlaLXB3?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 11,
+      "sourceKind": "general"
+    },
+    {
+      "country": "Portugal",
+      "category": "Politics",
+      "source": "Público",
+      "published": "Thu, 15 Oct 2026 17:51:00 GMT",
+      "title": "Seguro avisa que “o pior que pode acontecer” na luta por causas justas é violar a lei",
+      "summary": "Seguro avisa que “o pior que pode acontecer” na luta por causas justas é violar a lei Público Seguro diz compreender preocupações de quem se manifesta mas apela a respeito pela lei Diário de Notícias Seguro responsabiliza todos os partidos por falta de soluções para a habitação DianaFM » Seguro apela a manifestações \"respeitadoras da lei\" e pede...",
+      "why": "Relevant to Portugal's politics environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTnphaF9uYXk1Tk5vRmlaMF92cnplNy1nRWNtSFJiVUJPb2gtVXZodzdnM3EwQXlnM29XNk1hVE4zTnRXbkJMUGxWeVZhYVE4ZWlTX21pYVZEMTRYYTFSU2hCeXB6NldIckxPLTdPYjVfSzBneU1ub1VDcUdDX3B4cnhsUVN1ZGliMmZfSjFmbDZDeEhyX3p2dGxXb2dzemNkSXE1M0pqLWdEMmJqdHZQOEswb1Itb0U?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 11,
+      "sourceKind": "general"
     }
   ]
 }
