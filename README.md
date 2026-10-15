@@ -1,2 +1,2 @@
-# SW-Newspaper
-SOLMAX SW Europe Newspaper
+# SOLMAX Executive Newspaper
+Browser-hosted static dashboard starter.
