@@ -21,6 +21,11 @@ jobs:
         run: pip install -r requirements.txt
       - name: Generate daily edition
         run: python scripts/update_daily.py
+      - name: AI executive intelligence
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: gpt-6.1-sol
+        run: python scripts/enrich_today_ai.py
       - name: Save daily edition
         run: |
           git config user.name "SOLMAX Intelligence Bot"
