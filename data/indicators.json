@@ -1,14 +1,28 @@
 {
-  "updated": "15 October 2026, 20:19 UTC",
+  "updated": "16 October 2026, 19:00 UTC",
   "methodology": "Rates are displayed directly; levels use calculated MoM/YoY changes. Sanity bounds suppress implausible values.",
   "countries": [
     {
       "country": "France",
       "market": {
         "name": "CAC 40",
-        "value": 7934.7,
-        "mom": 0.7822872168784967,
-        "yoy": -2.314618723666706,
+        "value": 7956.7,
+        "mom": 0.2772631605479692,
+        "yoy": -2.043776030413502,
+        "history3m": [
+          {
+            "period": "2026-08",
+            "value": 7964.51
+          },
+          {
+            "period": "2026-09",
+            "value": 7934.7
+          },
+          {
+            "period": "2026-10",
+            "value": 7956.7
+          }
+        ],
         "source": "Market data"
       },
       "construction": {
@@ -61,9 +75,23 @@
       "country": "Spain",
       "market": {
         "name": "IBEX 35",
-        "value": 19177.7,
-        "mom": -0.27560100335990434,
-        "yoy": 17.140045422123084,
+        "value": 19326.3,
+        "mom": 0.7748582989618003,
+        "yoy": 18.047716777834786,
+        "history3m": [
+          {
+            "period": "2026-08",
+            "value": 19426.2
+          },
+          {
+            "period": "2026-09",
+            "value": 19177.7
+          },
+          {
+            "period": "2026-10",
+            "value": 19326.3
+          }
+        ],
         "source": "Market data"
       },
       "construction": {
@@ -113,9 +141,23 @@
       "country": "Italy",
       "market": {
         "name": "FTSE MIB",
-        "value": 49397.55,
-        "mom": -0.7164232398400139,
-        "yoy": 13.93212348928663,
+        "value": 49857.18,
+        "mom": 0.9295518037167438,
+        "yoy": 14.992227322001073,
+        "history3m": [
+          {
+            "period": "2026-08",
+            "value": 51372.0
+          },
+          {
+            "period": "2026-09",
+            "value": 49398.0
+          },
+          {
+            "period": "2026-10",
+            "value": 49857.18
+          }
+        ],
         "source": "Market data"
       },
       "construction": {
@@ -165,9 +207,23 @@
       "country": "Portugal",
       "market": {
         "name": "PSI",
-        "value": 9373.82,
-        "mom": -0.4443644211418074,
-        "yoy": 15.572932206259104,
+        "value": 9468.47,
+        "mom": 1.0097270909831702,
+        "yoy": 16.73990289418721,
+        "history3m": [
+          {
+            "period": "2026-08",
+            "value": 9666.79
+          },
+          {
+            "period": "2026-09",
+            "value": 9373.82
+          },
+          {
+            "period": "2026-10",
+            "value": 9468.47
+          }
+        ],
         "source": "Market data"
       },
       "construction": {
@@ -220,6 +276,7 @@
         "value": null,
         "mom": null,
         "yoy": null,
+        "history3m": [],
         "source": "Market data unavailable"
       },
       "construction": {
