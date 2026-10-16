@@ -22,9 +22,17 @@ def pct(a,b):return None if a is None or b in (None,0) else (a/b-1)*100
 def safe(v,lo,hi):return v if v is not None and lo<=v<=hi else None
 def market(name,ticker):
  try:
-  j=get_json(f'https://query1.finance.yahoo.com/v8/finance/chart/{ticker}?range=2y&interval=1mo')['chart']['result'][0];q=j['indicators']['quote'][0]['close'];pts=[x for x in q if x is not None];cur=pts[-1]
-  return {'name':name,'value':round(cur,2),'mom':safe(pct(cur,pts[-2]),-50,50) if len(pts)>1 else None,'yoy':safe(pct(cur,pts[-13]),-80,150) if len(pts)>12 else None,'source':'Market data'}
- except Exception as e:print('MARKET_WARNING',name,type(e).__name__);return {'name':name,'value':None,'mom':None,'yoy':None,'source':'Market data unavailable'}
+  j=get_json(f'https://query1.finance.yahoo.com/v8/finance/chart/{ticker}?range=2y&interval=1mo')['chart']['result'][0]
+  q=j['indicators']['quote'][0]['close'];ts=j.get('timestamp',[]);points=[]
+  for stamp,value in zip(ts,q):
+   if value is None:continue
+   period=datetime.fromtimestamp(stamp,timezone.utc).strftime('%Y-%m')
+   points.append({'period':period,'value':round(float(value),2)})
+  cur=points[-1]['value'];vals=[x['value'] for x in points]
+  return {'name':name,'value':round(cur,2),'mom':safe(pct(cur,vals[-2]),-50,50) if len(vals)>1 else None,'yoy':safe(pct(cur,vals[-13]),-80,150) if len(vals)>12 else None,'history3m':points[-3:],'source':'Market data'}
+ except Exception as e:
+  print('MARKET_WARNING',name,type(e).__name__)
+  return {'name':name,'value':None,'mom':None,'yoy':None,'history3m':[],'source':'Market data unavailable'}
 def index_metric(ds,geo,extra,name,unit):
  s=es(ds,geo,extra)
  if not s:return {'name':name,'value':None,'mom':None,'yoy':None,'period':'N/A','unit':unit,'source':'Eurostat'}
