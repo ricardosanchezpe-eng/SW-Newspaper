@@ -1,6 +1,9 @@
 {
-  "updated": "16 October 2026, 06:36 UTC",
+  "updated": "Run the Daily opportunity radar update workflow",
   "source": "Official TED Search API",
-  "methodology": "Construction notices from TED (CPV 45 family), filtered and ranked for SOLMAX-relevant application language. Score is a transparent relevance heuristic, not an estimate of win probability.",
+  "methodology": "Explicit SOLMAX product vs potential application radar.",
+  "months": [],
+  "activity": {},
+  "diagnostics": [],
   "opportunities": []
 }
