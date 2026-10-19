@@ -1,19 +1,15 @@
 {
-  "updated": "16 October 2026, 19:10 UTC",
+  "updated": "19 October 2026, 07:27 UTC",
   "methodology": "Rates are displayed directly; levels use calculated MoM/YoY changes. Sanity bounds suppress implausible values.",
   "countries": [
     {
       "country": "France",
       "market": {
         "name": "CAC 40",
-        "value": 7956.7,
-        "mom": 0.27726069222497873,
-        "yoy": -2.0437755593373352,
+        "value": 7863.36,
+        "mom": -1.173101826401468,
+        "yoy": -3.1928994410083122,
         "history3m": [
-          {
-            "date": "2026-07-17",
-            "value": 8338.81
-          },
           {
             "date": "2026-07-20",
             "value": 8340.11
@@ -273,6 +269,10 @@
           {
             "date": "2026-10-16",
             "value": 7956.7
+          },
+          {
+            "date": "2026-10-19",
+            "value": 7863.36
           }
         ],
         "source": "Market data"
@@ -327,14 +327,10 @@
       "country": "Spain",
       "market": {
         "name": "IBEX 35",
-        "value": 19326.3,
-        "mom": 0.7748624042696051,
-        "yoy": 18.047719594443446,
+        "value": 19127.6,
+        "mom": -1.02813664911382,
+        "yoy": 16.834032448770664,
         "history3m": [
-          {
-            "date": "2026-07-17",
-            "value": 19216.9
-          },
           {
             "date": "2026-07-20",
             "value": 19206.9
@@ -594,6 +590,10 @@
           {
             "date": "2026-10-16",
             "value": 19326.3
+          },
+          {
+            "date": "2026-10-19",
+            "value": 19127.6
           }
         ],
         "source": "Market data"
@@ -645,14 +645,10 @@
       "country": "Italy",
       "market": {
         "name": "FTSE MIB",
-        "value": 49857.18,
-        "mom": 0.9295518037167438,
-        "yoy": 14.992227322001073,
+        "value": 49483.59,
+        "mom": -0.7489620314098389,
+        "yoy": 14.130567151786334,
         "history3m": [
-          {
-            "date": "2026-07-17",
-            "value": 51882.0
-          },
           {
             "date": "2026-07-20",
             "value": 51863.0
@@ -911,7 +907,11 @@
           },
           {
             "date": "2026-10-16",
-            "value": 49857.18
+            "value": 49857.0
+          },
+          {
+            "date": "2026-10-19",
+            "value": 49483.59
           }
         ],
         "source": "Market data"
@@ -963,14 +963,10 @@
       "country": "Portugal",
       "market": {
         "name": "PSI",
-        "value": 9468.47,
-        "mom": 1.0097237235685341,
-        "yoy": 16.739899520769484,
+        "value": 9469.68,
+        "mom": 0.012782144025935693,
+        "yoy": 16.754818011129636,
         "history3m": [
-          {
-            "date": "2026-07-17",
-            "value": 9062.26
-          },
           {
             "date": "2026-07-20",
             "value": 9070.71
@@ -1230,6 +1226,10 @@
           {
             "date": "2026-10-16",
             "value": 9468.47
+          },
+          {
+            "date": "2026-10-19",
+            "value": 9469.68
           }
         ],
         "source": "Market data"
