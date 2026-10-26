@@ -1,5 +1,5 @@
 {
-  "updated": "19 October 2026, 05:54 UTC",
+  "updated": "26 October 2026, 05:56 UTC",
   "verificationMode": "official-source pipeline",
   "politics": [
     {
@@ -34,7 +34,7 @@
       "status": "Snap election called",
       "verified": true,
       "verificationStatus": "Official source matched",
-      "lastVerified": "19 October 2026",
+      "lastVerified": "26 October 2026",
       "officialSources": [
         "https://www.lamoncloa.gob.es/lang/en/presidente/news/Paginas/2026/20261005-institutional-statement.aspx",
         "https://www.juntaelectoralcentral.es/cs/jec/eleccionesEnCurso/Elecciones_generales_2026"
@@ -53,7 +53,7 @@
       "status": "Majority coalition",
       "verified": true,
       "verificationStatus": "Official source matched",
-      "lastVerified": "19 October 2026",
+      "lastVerified": "26 October 2026",
       "officialSources": [
         "https://www.governo.it/en"
       ]
@@ -71,7 +71,7 @@
       "status": "Minority government",
       "verified": true,
       "verificationStatus": "Official source matched",
-      "lastVerified": "19 October 2026",
+      "lastVerified": "26 October 2026",
       "officialSources": [
         "https://www.portugal.gov.pt/",
         "https://www.portugal.gov.pt/en/gc25/communication/news/prime-minister-congratulates-antonio-jose-seguro-and-ensures-institutional-cooperation"
@@ -90,7 +90,7 @@
       "status": "Majority coalition",
       "verified": true,
       "verificationStatus": "Official source matched",
-      "lastVerified": "19 October 2026",
+      "lastVerified": "26 October 2026",
       "officialSources": [
         "https://gouvernement.lu/en/gouvernement/luc-frieden.html",
         "https://luxembourg.public.lu/en/society-and-culture/political-system/government.html"
