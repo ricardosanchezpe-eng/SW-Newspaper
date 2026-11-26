@@ -1,37 +1,37 @@
 {
-  "updated": "26 November 2026, 13:12 UTC",
+  "updated": "26 November 2026, 15:04 UTC",
   "executiveBrief": "Country-by-country executive brief",
   "countryBriefs": [
     {
       "country": "France",
       "headlines": [
+        "Gérard Depardieu renvoyé en procès pour une partie des viols dont l’accuse Charlotte Arnould",
         "Présidentielle 2027 : Jean-Luc Mélenchon, en visite vendredi à Berlin, inquiète l’Allemagne avec sa rhétorique anti-allemande",
-        "Présidentielle 2027 : le désarroi des partis pro-Ukraine et pro-Europe alors que ces sujets ne mobilisent pas les électeurs",
-        "Ces centaines de milliers de jeunes Indiens prêts à quitter l’Inde pour étudier : « Après l’annulation du concours de médecine, j’ai énormément pleuré. J’ai trouvé cela tellement injuste »"
+        "Présidentielle 2027 : le désarroi des partis pro-Ukraine et pro-Europe alors que ces sujets ne mobilisent pas les électeurs"
       ]
     },
     {
       "country": "Spain",
       "headlines": [
+        "El español Pablo Hernández de Cos será el próximo presidente del BCE",
         "Tensión electoral: de los avisos sobre un posible fraude al último cartucho del debate a cuatro",
-        "Feijóo llama a “culminar las ganas de cambio” y echar a los “delincuentes del Gobierno”",
-        "Ernest Urtasun: “Nos jugamos un Gobierno con motor Vox o con motor Frente Amplio”"
+        "Feijóo llama a “culminar las ganas de cambio” y echar a los “delincuentes del Gobierno”"
       ]
     },
     {
       "country": "Italy",
       "headlines": [
-        "Kushner, 'Putin ha mostrato finora moderazione non usando armi nucleari'",
-        "Manovra, il governo riscrive l’exit tax. Così cambia l’imposta per i Paperoni che lasciano l’Italia",
-        "Coni, Montini vicepresidente. Di Paola, un passo indietro"
+        "Raggiunta intesa su Bce con de Cos presidente, in esecutivo Boone e Brunnermeier",
+        "Tajani, 'governo vicino a famiglie vittime italiane in Kuwait, seguiamo sviluppi'",
+        "Game over: l’Italia fuori dalla partita libica"
       ]
     },
     {
       "country": "Portugal",
       "headlines": [
-        "Constitucionalistas veem razões para pedir fiscalização de normas do OE ao Tribunal Constitucional",
-        "Plano Regional dos Açores para 2027 aprovado na generalidade",
-        "Ministério da Cultura autorizou nove pedidos de desafetação de salas de cinema"
+        "\"Crise política por birra\". PS e Chega contestam recusa de Montenegro em cumprir decisões do Parlamento",
+        "Normas orçamentais. Aguiar-Branco convoca conferência de líderes",
+        "13h Presidente pede pacto na Saúde e deixa aviso"
       ]
     },
     {
@@ -39,7 +39,7 @@
       "headlines": [
         "Increased public service accessibility : New Guichet.lu bus brings government services to citizens",
         "Israel defence minister threatens to displace 1 million Gazans if Hamas won't disarm",
-        "Aarbechtsminister Spautz: \"Nach net d'Kugel fonnt\", fir d'Berechnungsmethod vum Mindestloun"
+        "Aarbechtsminister Spautz: \"Nach net d'Kugel fonnt\" fir d'Berechnungsmethod vum Mindestloun"
       ]
     }
   ],
@@ -102,6 +102,19 @@
       "country": "France",
       "category": "Politics",
       "source": "Le Monde",
+      "published": "Thu, 26 Nov 2026 15:13:51 +0100",
+      "title": "Gérard Depardieu renvoyé en procès pour une partie des viols dont l’accuse Charlotte Arnould",
+      "summary": "Cette décision de la cour, saisie par la défense de l’acteur, qui conteste les accusations, est susceptible d’un pourvoi en cassation.",
+      "why": "Relevant to France's politics environment and SW Europe market awareness.",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/26/gerard-depardieu-renvoye-en-proces-pour-une-partie-des-viols-dont-l-accuse-charlotte-arnould_6815543_3224.html",
+      "image": "assets/news-fallback.svg",
+      "relevance": 17,
+      "sourceKind": "direct"
+    },
+    {
+      "country": "France",
+      "category": "Politics",
+      "source": "Le Monde",
       "published": "Thu, 26 Nov 2026 12:23:09 +0100",
       "title": "Présidentielle 2027 : Jean-Luc Mélenchon, en visite vendredi à Berlin, inquiète l’Allemagne avec sa rhétorique anti-allemande",
       "summary": "Le candidat de La France insoumise à l’élection présidentielle française de 2027, de passage à Berlin le 27 novembre, n’a à ce stade pas de rendez-vous prévu avec des élus du parti de gauche radicale Die Linke, qu’il nomme pourtant « notre partenaire allemand ».",
@@ -115,7 +128,7 @@
       "country": "France",
       "category": "Politics",
       "source": "Le Monde",
-      "published": "Thu, 26 Nov 2026 10:30:05 +0100",
+      "published": "Thu, 26 Nov 2026 10:30:01 +0100",
       "title": "Présidentielle 2027 : le désarroi des partis pro-Ukraine et pro-Europe alors que ces sujets ne mobilisent pas les électeurs",
       "summary": "De Raphaël Glucksmann à Gabriel Attal, en passant par Edouard Philippe, les défenseurs d’une ligne ferme face à Moscou peinent à imposer les sujets internationaux en raison des préoccupations pour le pouvoir d’achat et la dette.",
       "why": "Relevant to France's politics environment and SW Europe market awareness.",
@@ -153,19 +166,6 @@
     {
       "country": "France",
       "category": "Politics",
-      "source": "Le Monde",
-      "published": "Thu, 26 Nov 2026 14:00:11 +0100",
-      "title": "Après Jeanne d’Arc, le RN mise sur l’image fantasmée de la Renaissance",
-      "summary": "Le Rassemblement national a lancé, à l’approche de l’élection présidentielle, l’opération numérique « C’est beau, c’est français », centrée notamment sur des monuments emblématiques de la Renaissance, suscitant l’ire des propriétaires des lieux et des historiens.",
-      "why": "Relevant to France's politics environment and SW Europe market awareness.",
-      "url": "https://www.lemonde.fr/culture/article/2026/11/26/apres-jeanne-d-arc-le-rn-mise-sur-l-image-fantasmee-de-la-renaissance_6815533_3246.html",
-      "image": "assets/news-fallback.svg",
-      "relevance": 17,
-      "sourceKind": "direct"
-    },
-    {
-      "country": "France",
-      "category": "Politics",
       "source": "Les Echos",
       "published": "Thu, 26 Nov 2026 05:30:09 GMT",
       "title": "« C'est l'aboutissement de quatre ans de négociations » : comment le gouvernement a arraché l'installation de BYD en France - Les Echos",
@@ -179,21 +179,8 @@
     {
       "country": "France",
       "category": "Politics",
-      "source": "Les Echos",
-      "published": "Thu, 26 Nov 2026 08:43:11 GMT",
-      "title": "Electronique : Hensoldt Nexeya France va déposer son bilan - Les Echos",
-      "summary": "Electronique : Hensoldt Nexeya France va déposer son bilan Les Echos",
-      "why": "Relevant to France's politics environment and SW Europe market awareness.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSm5RTVBLWGJSRWNpbnJRS1lURFB2TUt5a3cxZy02NHowbzBLUVo3el9NZUhVOW5IeFJibWk2dzlWeU5PTEtMZTNHWllaaDNXNjlXT19jeWhMeGJhSFladk5kdDlWX092STlLZUZ5MndKeXFwS1JFby1KZTNzSzhtaU9Ib1pHUThnY2ktakJzMVlMVGtqa2JnS1ZhdkhyYUNSODd6blVId182Qm93UUVZ?oc=5",
-      "image": "assets/news-fallback.svg",
-      "relevance": 14,
-      "sourceKind": "mainstream"
-    },
-    {
-      "country": "France",
-      "category": "Politics",
       "source": "Liberation",
-      "published": "Wed, 25 Nov 2026 19:00:00 GMT",
+      "published": "Wed, 25 Nov 2026 19:01:13 GMT",
       "title": "LFI refuse de rencontrer les anciens insoumis de L’Après en vue «d’une éventuelle coalition» - Libération",
       "summary": "LFI refuse de rencontrer les anciens insoumis de L’Après en vue «d’une éventuelle coalition» Libération",
       "why": "Relevant to France's politics environment and SW Europe market awareness.",
@@ -201,6 +188,32 @@
       "image": "assets/news-fallback.svg",
       "relevance": 14,
       "sourceKind": "mainstream"
+    },
+    {
+      "country": "France",
+      "category": "Politics",
+      "source": "Le Parisien",
+      "published": "Thu, 26 Nov 2026 13:31:47 GMT",
+      "title": "Particules ultrafines : une nouvelle étude d’Airparif alerte sur leur présence en Île-de-France - Le Parisien",
+      "summary": "Particules ultrafines : une nouvelle étude d’Airparif alerte sur leur présence en Île-de-France Le Parisien",
+      "why": "Relevant to France's politics environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOREwwcW1XRkpuTThuYmF6VHN1MmZETy1rUG5TTFdMZmdheHBoQUNHTGVPaEtmakFOTlhYc1dobEl0aE9UZ1Q5MGxCV2MtbGJnVmVVSldkWk5mR0tzYzllQzZhU3FCQWJjYmNseU9oYkhHeVFZZnNLaWdMMHoyTjhxVmNPTVJOc3l2dXZnVmJfTVJTdEotdXRRMDIwT1JYUnl2TnpnLWpDd25PQ1pxekJITGo2SWs1RGNHbE9lSHEzR0IxN2JxSjJ6S1ZoNjRZN2ZuYnROaGJRRVU4OFQya2Z4SUszX1laS1VJaDB6MmdqR2ZLSmd4em1MaF9vTFFMRlRuRmN1aw?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 14,
+      "sourceKind": "mainstream"
+    },
+    {
+      "country": "France",
+      "category": "Politics",
+      "source": "Le Monde",
+      "published": "Thu, 26 Nov 2026 14:00:11 +0100",
+      "title": "Après Jeanne d’Arc, le RN mise sur l’image fantasmée de la Renaissance",
+      "summary": "Le Rassemblement national a lancé, à l’approche de l’élection présidentielle, l’opération numérique « C’est beau, c’est français », centrée notamment sur des monuments emblématiques de la Renaissance, suscitant l’ire des propriétaires des lieux et des historiens.",
+      "why": "Relevant to France's politics environment and SW Europe market awareness.",
+      "url": "https://www.lemonde.fr/culture/article/2026/11/26/apres-jeanne-d-arc-le-rn-mise-sur-l-image-fantasmee-de-la-renaissance_6815533_3246.html",
+      "image": "assets/news-fallback.svg",
+      "relevance": 17,
+      "sourceKind": "direct"
     },
     {
       "country": "France",
@@ -220,8 +233,8 @@
       "category": "Politics",
       "source": "Le Monde",
       "published": "Thu, 26 Nov 2026 13:01:40 +0100",
-      "title": "EN DIRECT, congrès des maires de France : David Lisnard est accusé de « compromission » avec l’extrême droite par Gérald Darmanin",
-      "summary": "« Au moment où de très nombreux messages racistes et antisémites des dirigeants d’extrême droite ressortent encore », dans une allusion aux nouvelles révélations du « Monde » et « Mediapart » sur Jordan Bardella, « David Lisnard ne veut toujours pas dire qui il choisirait entre Edouard Philippe et Marine Le Pen au second tour », a réagi sur X Gérald...",
+      "title": "EN DIRECT, congrès des maires de France : Sébastien Leconu appelle à repenser « l’organisation territoriale du pays »",
+      "summary": "Le premier ministre, David Lisnard (président réélu de l’AMF) et Gérard Larcher (président du Sénat) échangent en clôture du 108ᵉ congrès des maires organisé par l’Association des maires de France.",
       "why": "Relevant to France's politics environment and SW Europe market awareness.",
       "url": "https://www.lemonde.fr/politique/live/2026/11/26/en-direct-congres-des-maires-de-france-david-lisnard-est-accuse-de-compromission-avec-l-extreme-droite-par-gerald-darmanin_6815062_823448.html",
       "image": "assets/news-fallback.svg",
@@ -230,16 +243,16 @@
     },
     {
       "country": "France",
-      "category": "Politics",
-      "source": "Le Monde",
-      "published": "Thu, 26 Nov 2026 12:00:04 +0100",
-      "title": "Présidentielle 2027 : Les Ecologistes confrontés au risque de leur disparition",
-      "summary": "Le possible rapprochement avec La France insoumise, amorcé par les déclarations de la secrétaire générale du parti, Marine Tondelier, pourrait, s’il a lieu, aboutir à la dilution du mouvement dans une grande coalition. Ce qui sonnerait comme un constat d’échec, les Verts n’ayant jamais su incarner une alternative politique crédible.",
-      "why": "Relevant to France's politics environment and SW Europe market awareness.",
-      "url": "https://www.lemonde.fr/idees/article/2026/11/26/presidentielle-2027-les-ecologistes-confrontes-au-risque-de-leur-disparition_6815522_3232.html",
+      "category": "Construction",
+      "source": "Le Moniteur",
+      "published": "Thu, 26 Nov 2026 13:30:00 GMT",
+      "title": "Avec une 4e opération de croissance externe en 2 ans, le réseau Union Matériaux maille méthodiquement le sud de la France - Le Moniteur",
+      "summary": "Avec une 4e opération de croissance externe en 2 ans, le réseau Union Matériaux maille méthodiquement le sud de la France Le Moniteur",
+      "why": "Relevant to France's construction environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPWW4tcVVvV29PbnZrdFMyUFp0a0VtaXVTTXBJX3lraFlfOEtjdXNoeG5SckhjN2s4N0RyNGIwMVFYbGdfVjZBRWRpdktqM3pBaUZiSndsdXhPbUNYeXVTckQyOFdMeGZyNnppc0NoOWNlYmNVOVBncVJYa1RmQ0g3VDVXWVpaeDBad2FtdVNSemVwMngweGdMR0JjRTVITmJJeUlWVjVOXzd5M0dvX3cyX19GM092Um1WeHNYSE9ndUlmYUw2YjZKcE1HeFRxTDA4TUE4aDZRSDkyMElfNzd1RnVHT3ZKbnlmdUltUG1lY1NHMUJTRmhjMEtvdy1fOVlmdlgzUUI4RTAyUzNtLXJ3NVp5Zw?oc=5",
       "image": "assets/news-fallback.svg",
-      "relevance": 17,
-      "sourceKind": "direct"
+      "relevance": 15,
+      "sourceKind": "sector"
     },
     {
       "country": "France",
@@ -258,24 +271,11 @@
       "country": "France",
       "category": "Construction",
       "source": "Le Moniteur",
-      "published": "Thu, 26 Nov 2026 10:15:07 GMT",
-      "title": "Dépenses de santé : la France dépense plus que ses voisins, mais soigne-t-elle mieux ? - Le Moniteur des pharmacies",
-      "summary": "Dépenses de santé : la France dépense plus que ses voisins, mais soigne-t-elle mieux ? Le Moniteur des pharmacies",
+      "published": "Thu, 26 Nov 2026 12:19:23 GMT",
+      "title": "Essonne : déploiement du dispositif de viabilité hivernale sur 1 500 km de routes départementales - Le Moniteur",
+      "summary": "Essonne : déploiement du dispositif de viabilité hivernale sur 1 500 km de routes départementales Le Moniteur",
       "why": "Relevant to France's construction environment and SW Europe market awareness.",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQTViU2ExallhWlRWTlpOY1VxQXJGUm1wMlVMUVBzUjhVWXU4a01lSmhrTzFQYl9IT3BFa3Joa2VJcVB5dkFQbE91OXk0MzhTTjJEZ1kwWjdWSHBLcVhPbmhzbk5MMXdDalQ4ZU9rQnhJdXhOQ1dacFFUa1d6STJGZjFYS251a3BGQ3ZrdF84Z2xuTUVyeWM5YlF3N2J5UGc2endJZkx4dUpRT05YYmppOWpnWTRiRURtOHlQaDJGeHRYd181ajhjSnM4ZHkySUtDRnBKSUpuVkFGTURHU2pIVGNjMldPZw?oc=5",
-      "image": "assets/news-fallback.svg",
-      "relevance": 15,
-      "sourceKind": "sector"
-    },
-    {
-      "country": "France",
-      "category": "Construction",
-      "source": "Le Moniteur",
-      "published": "Thu, 26 Nov 2026 06:30:00 GMT",
-      "title": "Le Pays de Nemours bénéficie d’un contrat d’aménagement régional - mesinfos",
-      "summary": "Le Pays de Nemours bénéficie d’un contrat d’aménagement régional mesinfos",
-      "why": "Relevant to France's construction environment and SW Europe market awareness.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMmU0VU1IMDBGcTdCQlg3djFYLWFBN2syODd3b1E3aEZPWmswQUZmWEhyMjZkbVZjV2h4Rm1xRWlEQ1hCczFpNEwxbnhTZEFYTVBlWktJbURqTk1IU2VrUDlnNWVkczA3Vkl4RnFXNGZaUGVPZ3h4NWdTTk9PRGNEX1Z2bWhwM1c2empTdk5TX1BTbFRXenc1MTlqRUxwZ2diRDlWVmowYmZmdzhtcEww?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPcm9sa0hBV1Voek1BOWtud0xhRzlyX0xqUHVuUXg2UTRBQmJWNzN1bGZQT1NhMzNQSGZBOW93QW5wbm1XQ05zUmhYVUZhV2U0a3N3eW9wd3NzUVUwMGtpd1FRaUhHVHFGQkJoNzVIZWdhWWN3a1JMYWM3V01oTTR6Ml9mRkRrdnpMREQ2ZFlvb1RHdFFPVHRmUm9kNldzQ2ZZcmIwZWhPMVlHOW0xQnp5VThYUm0ydmd0RFNRSFdmY1ZRaUVxRW5rcWlMZUNvTlpjSzhVcGJMYWhua0pKa0k1b19KaHF6SVBVTVFWYTFHM2hKZHBmMXdWMTR0S2tXYm80RmwzLTdn?oc=5",
       "image": "assets/news-fallback.svg",
       "relevance": 15,
       "sourceKind": "sector"
@@ -297,19 +297,6 @@
       "country": "France",
       "category": "Economy",
       "source": "Le Monde",
-      "published": "Thu, 26 Nov 2026 05:45:00 +0100",
-      "title": "La saison de ski s’ouvre en pleine incertitude : « Avec la conjoncture économique, les Français veulent encore plus qu’avant avoir l’assurance de la neige »",
-      "summary": "Les premières chutes de neige ont rassuré les professionnels, mais ces derniers doivent composer avec des Français plus attentifs à leur budget, des réservations tardives et un modèle économique fragilisé par le réchauffement climatique.",
-      "why": "Relevant to France's economy environment and SW Europe market awareness.",
-      "url": "https://www.lemonde.fr/economie/article/2026/11/26/la-saison-de-ski-s-ouvre-en-pleine-incertitude-avec-la-conjoncture-economique-les-francais-veulent-encore-plus-qu-avant-avoir-l-assurance-de-la-neige_6815469_3234.html",
-      "image": "assets/news-fallback.svg",
-      "relevance": 16,
-      "sourceKind": "direct"
-    },
-    {
-      "country": "France",
-      "category": "Economy",
-      "source": "Le Monde",
       "published": "Thu, 26 Nov 2026 10:24:29 +0100",
       "title": "Budget de la « Sécu » 2027 : les députés et sénateurs échouent à s’accorder en commission mixte paritaire",
       "summary": "Les points de vue des sept députés et sept sénateurs réunis, jeudi matin, pour discuter du texte proposé pour un budget de la Sécurité sociale se sont révélés irréconciliables, et ce premier conclave budgétaire de la saison a rapidement été déclaré « non conclusif ». Il sera renvoyé à l’Assemblée.",
@@ -321,13 +308,39 @@
     },
     {
       "country": "France",
+      "category": "Economy",
+      "source": "Le Monde",
+      "published": "Thu, 26 Nov 2026 13:49:04 +0100",
+      "title": "Corse : le tourisme reste une locomotive de la croissance, malgré des résultats contrastés",
+      "summary": "Entre 2000 et 2023, le PIB insulaire a augmenté de 2,4 % par an, soit deux fois plus vite qu’en France hexagonale, notamment grâce à 2 milliards d’euros d’investissements publics. Le secteur touristique, stratégique, présente pour sa part des fragilités.",
+      "why": "Relevant to France's economy environment and SW Europe market awareness.",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/26/corse-le-tourisme-reste-une-locomotive-de-la-croissance-malgre-des-resultats-contrastes_6815532_3234.html",
+      "image": "assets/news-fallback.svg",
+      "relevance": 16,
+      "sourceKind": "direct"
+    },
+    {
+      "country": "France",
       "category": "Politics",
       "source": "Le Monde",
-      "published": "Thu, 26 Nov 2026 11:25:08 +0100",
-      "title": "Propos antisémites de Jordan Bardella : le président du RN réitère sa « contestation formelle » après des révélations du « Monde » et de « Mediapart »",
-      "summary": "« Le Monde » et « Mediapart » ont publié, jeudi, de nouveaux éléments montrant que le président du Rassemblement national est bien l’auteur de propos antisémites remontant à 2013, ce que l’intéressé conteste à nouveau « formellement ».",
+      "published": "Thu, 26 Nov 2026 12:00:04 +0100",
+      "title": "Présidentielle 2027 : Les Ecologistes confrontés au risque de leur disparition",
+      "summary": "Le possible rapprochement avec La France insoumise, amorcé par les déclarations de la secrétaire générale du parti, Marine Tondelier, pourrait, s’il a lieu, aboutir à la dilution du mouvement dans une grande coalition. Ce qui sonnerait comme un constat d’échec, les Verts n’ayant jamais su incarner une alternative politique crédible.",
       "why": "Relevant to France's politics environment and SW Europe market awareness.",
-      "url": "https://www.lemonde.fr/politique/article/2026/11/26/propos-antisemites-de-jordan-bardella-le-president-du-rn-reitere-sa-contestation-formelle-apres-des-revelations-du-monde-et-de-mediapart_6815516_823448.html",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/26/presidentielle-2027-les-ecologistes-confrontes-au-risque-de-leur-disparition_6815522_3232.html",
+      "image": "assets/news-fallback.svg",
+      "relevance": 17,
+      "sourceKind": "direct"
+    },
+    {
+      "country": "Spain",
+      "category": "Politics",
+      "source": "La Vanguardia",
+      "published": "26 Nov 2026 14:24:18 +0100",
+      "title": "El español Pablo Hernández de Cos será el próximo presidente del BCE",
+      "summary": "España liderará por primera vez la autoridad monetaria después de recibir el apoyo de los líderes en el Consejo Europeo",
+      "why": "Relevant to Spain's politics environment and SW Europe market awareness.",
+      "url": "https://www.lavanguardia.com/economia/20261126/11693870/espanol-pablo-hernandez-cos-sera-proximo-presidente-bce.html",
       "image": "assets/news-fallback.svg",
       "relevance": 17,
       "sourceKind": "direct"
@@ -375,19 +388,6 @@
       "country": "Spain",
       "category": "Politics",
       "source": "La Vanguardia",
-      "published": "26 Nov 2026 00:08:24 +0100",
-      "title": "Urtasun y Rufián acusan de “racismo” a PP y Vox, que defienden un giro en gestión migratoria",
-      "summary": "Hereu insiste en la división de bloques en esta cuestión y Nogueras tacha de “inconscientes” al Gobierno",
-      "why": "Relevant to Spain's politics environment and SW Europe market awareness.",
-      "url": "https://www.lavanguardia.com/politica/20261126/11693514/urtasun-rufian-acusan-racismo-pp-vox-defienden-giro-gestion-migratoria.html",
-      "image": "assets/news-fallback.svg",
-      "relevance": 17,
-      "sourceKind": "direct"
-    },
-    {
-      "country": "Spain",
-      "category": "Politics",
-      "source": "La Vanguardia",
       "published": "25 Nov 2026 21:47:57 +0100",
       "title": "Así han sido las entrevistas de Plex con Pedro Sánchez y Alberto Núñez Feijóo",
       "summary": "El presidente del Gobierno visita en su casa al joven youtuber y el líder del PP se sube al Porsche del influencer en el circuito del Jarama",
@@ -414,11 +414,11 @@
       "country": "Spain",
       "category": "Politics",
       "source": "El Mundo",
-      "published": "Wed, 25 Nov 2026 23:59:00 GMT",
-      "title": "La engañifa del impuesto a la banca: Hacienda elude desvelar en el BOE cómo repartirlo entre las CCAA y el Banco de España se mantiene en contra - El Mundo",
-      "summary": "La engañifa del impuesto a la banca: Hacienda elude desvelar en el BOE cómo repartirlo entre las CCAA y el Banco de España se mantiene en contra El Mundo",
+      "published": "Thu, 26 Nov 2026 13:29:00 GMT",
+      "title": "Hernández de Cos será el próximo presidente del BCE y consigue el puesto europeo de mayor poder en la historia de España - El Mundo",
+      "summary": "Hernández de Cos será el próximo presidente del BCE y consigue el puesto europeo de mayor poder en la historia de España El Mundo",
       "why": "Relevant to Spain's politics environment and SW Europe market awareness.",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fSGliT3MzRThHS19RZGRTVzhGN0REYXRnN2xXam02RGthX3hoYVhtaDZrU2dfclpIWnZlb1dRTTJLck5TUVh0MVBha0pOQVhmN082LVFIRUJWQk5YQlpkaVJZU2pzWnpKaGpsWmtpaDNic2FKcXFhN2dhbELSAXxBVV95cUxOSUFwMjZvNFF0MjVHR0pSWDNJZDFfYlNNbC11XzBTcDd1MnlqZUJDdXVURWVQWTNXY3VCZUR0ZENaWmJhOTE4ODhTZWFVRnhkRzA4bGJVZ3RwdGNOdDM0S0RnSWRlZVdWcXlOa3JtWk01WXJpc0h2QTFDWWU1?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkTFhCaTRkV0lzaWRXRGtEN1psWTAyUGg5TnIxaXo2UXdFYlNBSl9BcW8tM0draUQzNmExaUhsazlDbFpCWWpSbG1XSUtFU0o0TVFxRExuY3VzQTN1ODVvbjRuZW9pYlhPdk9XaUNHNEJUN0VWcE4xdGxLdmTSAXxBVV95cUxPWkpBUFVMMEtzRUZhbGpGYjdTdVpGWHpfb2luX3MtaFdkajVLeVNpWW0tZkhsWVpEUUV3N09hUDFuMkNnUlFLb0ZTUHJHUURxZi1TOGluV0hwMEZiQWxRNDFzT2VkOGlrLTZ4Tk5QeGF5MHFJeWpUcmlxcVFT?oc=5",
       "image": "assets/news-fallback.svg",
       "relevance": 14,
       "sourceKind": "mainstream"
@@ -453,11 +453,11 @@
       "country": "Spain",
       "category": "Politics",
       "source": "La Vanguardia",
-      "published": "26 Nov 2026 14:00:11 +0100",
-      "title": "Elecciones generales 29-N, en directo | Última hora del debate a cuatro entre Feijóo, Sánchez, Abascal y Colau y la campaña electoral",
-      "summary": "Sigue en directo la cobertura de los comicios en el penúltimo día de la campaña electoral",
+      "published": "26 Nov 2026 15:16:45 +0100",
+      "title": "El cónsul de España en Tetuán dice que el CNI le avisó de que la zona estaba “caliente” los días previos a la entrada masiva",
+      "summary": "El diplomático asegura que esa información de los servicios secretos la trasladó al embajador en Marruecos",
       "why": "Relevant to Spain's politics environment and SW Europe market awareness.",
-      "url": "https://www.lavanguardia.com/politica/20261126/11693699/elecciones-generales-29n-campana-electoral-debate-a-cuatro-rtve-ultima-hora-hoy-en-directo.html",
+      "url": "https://www.lavanguardia.com/politica/20261126/11694155/consul-espana-ceuta-dice-cni-le-aviso-zona-caliente-dias-previos-entrada-masiva.html",
       "image": "assets/news-fallback.svg",
       "relevance": 17,
       "sourceKind": "direct"
@@ -466,11 +466,11 @@
       "country": "Spain",
       "category": "Politics",
       "source": "La Vanguardia",
-      "published": "26 Nov 2026 13:28:35 +0100",
-      "title": "Las verificaciones del debate electoral del 29-N en 3Cat",
-      "summary": "Todos los fact-checks del debate de las candidaturas por Barcelona",
+      "published": "26 Nov 2026 14:53:28 +0100",
+      "title": "El Supremo calcula en 2042 la salida definitiva de José Luis Ábalos de la cárcel",
+      "summary": "El tribunal ha realizado la liquidación de su condena de 24 años teniendo en cuenta los días que el exministro de Transportes estuvo en prisión preventiva",
       "why": "Relevant to Spain's politics environment and SW Europe market awareness.",
-      "url": "https://www.lavanguardia.com/politica/20261126/11694000/verificaciones-debate-electoral-29n-3cat.html",
+      "url": "https://www.lavanguardia.com/politica/20261126/11694132/supremo-calcula-2042-salida-definitiva-jose-luis-abalos-carcel.html",
       "image": "assets/news-fallback.svg",
       "relevance": 17,
       "sourceKind": "direct"
@@ -492,6 +492,19 @@
       "country": "Spain",
       "category": "Construction",
       "source": "Alimarket Construccion",
+      "published": "Thu, 26 Nov 2026 11:45:14 GMT",
+      "title": "Fluidra entra en la finladensa Aerisio, a través de su fondo Fluidra Ventures - Alimarket.es",
+      "summary": "Fluidra entra en la finladensa Aerisio, a través de su fondo Fluidra Ventures Alimarket.es",
+      "why": "Relevant to Spain's construction environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUTVpRnpyNGJoejlSX3d4aEZocXZrTloycF9oQ3RNUWV0RllyZ3puN2plaWJCX0NBT2NKNDVQME1tcEpKaXFjSmhyZnU3eE1wOFgzN3VMeTUxWl9xa1dMNkFXRWd5c18zLXBMSFRBR005V1VjSllfLTRvaElZclduZnlyOWpxV1RhOXJUUTBmb2VKT21xS1dFUm9wa0ptZXN2YzRka1FKV2xFdzFRRTFjYWVtS1RTbUJ2TkJ0YlNSSXZuQ2JWRHFzNC1n0gHPAUFVX3lxTFBzMENlY0F1U3duYW1KdjFHVEU4V0NhcFRjUnlnMkJyNkctOVpUMldJVk9hOG9YX0JySkFwUzVLY01lbDBGVFhjd0xDUU05MTA0WTViVnBnNzU1WE91eE9HM0YxXzd1OXZKMEFKQXFJX1A2enV6Q3dzdE12YXdXdXR2WkozM3NjYm0wMzJKakEtbGRJUjRuSkdNLWwzUnZ0R0duVDV2SE9JXzBFNEpLeV9sZjZZNjQwX2dFVXdmUVVkSl9CMWdSaWNWOThvZ0c2NA?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 15,
+      "sourceKind": "sector"
+    },
+    {
+      "country": "Spain",
+      "category": "Construction",
+      "source": "Alimarket Construccion",
       "published": "Wed, 25 Nov 2026 13:24:57 GMT",
       "title": "El número de hipotecas sobre viviendas aumenta un 2,3% en septiembre - Alimarket.es",
       "summary": "El número de hipotecas sobre viviendas aumenta un 2,3% en septiembre Alimarket.es",
@@ -503,16 +516,16 @@
     },
     {
       "country": "Spain",
-      "category": "Construction",
-      "source": "Alimarket Construccion",
-      "published": "Wed, 25 Nov 2026 17:44:07 GMT",
-      "title": "Roca invierte en la británica TG0 para llevar las superficies inteligentes al baño - Alimarket.es",
-      "summary": "Roca invierte en la británica TG0 para llevar las superficies inteligentes al baño Alimarket.es",
-      "why": "Relevant to Spain's construction environment and SW Europe market awareness.",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbGFjYml5cE9GUzluaUQzbjRZZUFPUVN0bU5KVm5vdU43aTc4bVpuNU9sS1Y4Z1dYS3YyNElWUWlYNDE1a2VELWs3Z2ZPWGd5OFkwNDRVSXVaQW9STWR4Yk9sWFdIX2FPN1BYc2RIaEZTZG1Cei0tY0EwNk5LNWZwNjMwd0FOVC1DVVdsdkY2WGl5dGZ3UnRWX2x6cTI1aGhjMk1ZWVlPN1JoWlhuUDFzOEUzOXlNOGFmR0dxUV9DRGM5N3FiRkNCbmFLMTBfZFJLLVp0aW9B0gHWAUFVX3lxTE1sYWNiaXlwT0ZTOW5pRDNuNFllQU9RU3RtTkpWbm91TjdpNzhtWm41T2xLVjhnV1hLdjI0SVZRaVg0MTVrZUQtazdnZk9YZ3k4WTA0NFVJdVpBb1JNZHhiT2xYV0hfYU83UFhzZEhoRlNkbUJ6LS1jQTA2Tks1ZnA2MzB3QU5ULUNVV2x2RjZYaXl0ZndSdFZfbHpxMjVoaGMyTVlZWU83UmhaWG5QMXM4RTM5eU04YWZHR3FRX0NEYzk3cWJGQ0JuYUsxMF9kUkstWnRpb0E?oc=5",
+      "category": "Economy",
+      "source": "La Vanguardia",
+      "published": "26 Nov 2026 14:30:21 +0100",
+      "title": "Vivienda e inmigración centran los choques de los candidatos catalanes a tres días del 29-N",
+      "summary": "El Cercle d'Economia, escenario del encuentro, pide consensos y “grandes acuerdos” para aplicar medidas “que perduren más allá de una legislatura”",
+      "why": "Relevant to Spain's economy environment and SW Europe market awareness.",
+      "url": "https://www.lavanguardia.com/economia/20261126/11694095/vivienda-inmigracion-candidatos-catalunya-29n.html",
       "image": "assets/news-fallback.svg",
-      "relevance": 15,
-      "sourceKind": "sector"
+      "relevance": 16,
+      "sourceKind": "direct"
     },
     {
       "country": "Spain",
@@ -542,26 +555,13 @@
     },
     {
       "country": "Spain",
-      "category": "Construction",
-      "source": "Expansion Construccion",
-      "published": "Wed, 25 Nov 2026 01:28:04 +0100",
-      "title": "Indra puja por la gestión del tráfico del primer AVE polaco",
-      "summary": "La española compite con Siemens, Hitachi y Stadler por el centro de control de un corredor que conectará Varsovia con su nuevo aeropuerto.",
-      "why": "Relevant to Spain's construction environment and SW Europe market awareness.",
-      "url": "https://www.expansion.com/empresas/2026/11/25/indra-puja-gestion-trafico-primer-ave-polaco.html",
-      "image": "assets/news-fallback.svg",
-      "relevance": 16,
-      "sourceKind": "direct"
-    },
-    {
-      "country": "Spain",
       "category": "Politics",
       "source": "La Vanguardia",
-      "published": "26 Nov 2026 11:51:08 +0100",
-      "title": "Detenidos en Barcelona dos yihadistas que ya fueron condenados por terrorismo siendo menores",
-      "summary": "La Policía durante los registros a los arrestados, de 19 y 20 años, ha intervenido numeroso material informático que ha permitido acreditar su adhesión a los postulados más radicales del Daesh",
+      "published": "26 Nov 2026 14:50:21 +0100",
+      "title": "Elecciones generales 29-N, en directo: última hora del debate a cuatro entre Feijóo, Sánchez, Abascal y Colau, y la campaña electoral",
+      "summary": "Sigue en directo la cobertura de los comicios en el penúltimo día de la campaña electoral",
       "why": "Relevant to Spain's politics environment and SW Europe market awareness.",
-      "url": "https://www.lavanguardia.com/politica/20261126/11693912/detenidos-barcelona-dos-presuntos-yihadistas-condenados-siendo-menores.html",
+      "url": "https://www.lavanguardia.com/politica/20261126/11693699/elecciones-generales-29n-campana-electoral-debate-a-cuatro-rtve-ultima-hora-hoy-en-directo.html",
       "image": "assets/news-fallback.svg",
       "relevance": 17,
       "sourceKind": "direct"
@@ -570,11 +570,50 @@
       "country": "Italy",
       "category": "Politics",
       "source": "ANSA",
-      "published": "Thu, 26 Nov 2026 13:45:52 +0100",
-      "title": "Kushner, 'Putin ha mostrato finora moderazione non usando armi nucleari'",
-      "summary": "'E' un grande uomo della politica, una figura storica'",
+      "published": "Thu, 26 Nov 2026 15:35:41 +0100",
+      "title": "Raggiunta intesa su Bce con de Cos presidente, in esecutivo Boone e Brunnermeier",
+      "summary": "Procedura scritta entro stasera, nomine attese al vertice di dicembre.",
       "why": "Relevant to Italy's politics environment and SW Europe market awareness.",
-      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/26/kushner-putin-ha-mostrato-finora-moderazione-non-usando-armi-nucleari_c3c9a311-55cd-420d-811f-c72d8d3e6f84.html",
+      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/26/raggiunta-intesa-su-bce-con-de-cos-presidente-in-esecutivo-boone-e-brunnermeier_a6fbccd9-1146-4c56-90b9-682db933eb37.html",
+      "image": "assets/news-fallback.svg",
+      "relevance": 17,
+      "sourceKind": "direct"
+    },
+    {
+      "country": "Italy",
+      "category": "Politics",
+      "source": "ANSA",
+      "published": "Thu, 26 Nov 2026 15:18:55 +0100",
+      "title": "Tajani, 'governo vicino a famiglie vittime italiane in Kuwait, seguiamo sviluppi'",
+      "summary": "'Parlato con l'ambasciatore Morini che sta seguendo gli sviluppi minuto per minuto'",
+      "why": "Relevant to Italy's politics environment and SW Europe market awareness.",
+      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/26/tajani-governo-vicino-a-famiglie-vittime-italiane-in-kuwait-seguiamo-sviluppi_29d56ecc-986b-4521-9d25-db79d89cbbe5.html",
+      "image": "assets/news-fallback.svg",
+      "relevance": 17,
+      "sourceKind": "direct"
+    },
+    {
+      "country": "Italy",
+      "category": "Politics",
+      "source": "la Repubblica",
+      "published": "Thu, 26 Nov 2026 14:00:00 +0000",
+      "title": "Game over: l’Italia fuori dalla partita libica",
+      "summary": "L’attacco ucraino a Bengasi ha fatto riaprire gli occhi sulle insidie del Paese. Dove cresce il peso di Ankara e si dissolve quello di Roma",
+      "why": "Relevant to Italy's politics environment and SW Europe market awareness.",
+      "url": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/11/26/news/guerra_libia_rischi_italia-425751930/",
+      "image": "assets/news-fallback.svg",
+      "relevance": 17,
+      "sourceKind": "direct"
+    },
+    {
+      "country": "Italy",
+      "category": "Politics",
+      "source": "la Repubblica",
+      "published": "Thu, 26 Nov 2026 13:56:50 +0000",
+      "title": "Duran Duran e l’amore infinito delle fan: guai avanzare dubbi sui “Fab Five” degli 80’s",
+      "summary": "Furono battezzati così dalla stampa britannica per la passione sfrenata che li accompagnava. Divisero il pubblico, ma catturarono parte dell’essenza di un decennio in cui i giovani volevano leggerezza dopo anni di ferocia politica e piombo sanguinante",
+      "why": "Relevant to Italy's politics environment and SW Europe market awareness.",
+      "url": "https://www.repubblica.it/spettacoli/rubriche/schegge-di-musica/2026/11/26/news/duran_duran_e_l_amore_infinito_delle_fan_guai_avanzare_dubbi_sui_fab_four_degli_80_s-425752187/",
       "image": "assets/news-fallback.svg",
       "relevance": 17,
       "sourceKind": "direct"
@@ -595,25 +634,51 @@
     {
       "country": "Italy",
       "category": "Politics",
+      "source": "Corriere della Sera",
+      "published": "Wed, 25 Nov 2026 08:24:50 GMT",
+      "title": "Tajani: «Siamo sempre al fianco di Kiev ma non apriamo nuovi focolai» (Corriere della Sera) - Ministero degli Affari Esteri e della Cooperazione Internazionale",
+      "summary": "Tajani: «Siamo sempre al fianco di Kiev ma non apriamo nuovi focolai» (Corriere della Sera) Ministero degli Affari Esteri e della Cooperazione Internazionale",
+      "why": "Relevant to Italy's politics environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMWYzNkxKV3IyYjZSd2pGX0t2b0VnYl84RkowYlVSd0JOczJlY3lHdWdPSGNqLUZLVmZWUjNjZnZpUTF5Sl94U1h5Uzd4b0VQM0NhQ0x2WWhRdkx3aF8xT0RQNW5ONlZxMEI1dDdkaUVTbks5b1pZSm9CZkc2Mmp6RXB6V2pRQmxyRHZNdzFkUGoyUE5NUzdwTlpIX05lSlBudWNyYkNVNGVPM3lMSmViUlU5bzFZU21IMHJESHpQR1Vyb2NuRXZrOXJ3T20yV3lPYmFnRVFmUjNLNHBkdlh1SVNsNVpmd1k1bXdueWJ1Uko?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 14,
+      "sourceKind": "mainstream"
+    },
+    {
+      "country": "Italy",
+      "category": "Politics",
+      "source": "Adnkronos",
+      "published": "Thu, 26 Nov 2026 13:51:00 GMT",
+      "title": "Vincenzo Palermo nominato vicepresidente e General Manager dell’area Gulf Middle East di Gsk - Adnkronos",
+      "summary": "Vincenzo Palermo nominato vicepresidente e General Manager dell’area Gulf Middle East di Gsk Adnkronos",
+      "why": "Relevant to Italy's politics environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTWc4eW5VQi1CWXVzM25BazZVOENHYThKY2lKMl9vZUlYdklYVm9vamU5WDhMazhHWGo5dzAzOWo5RzFYLV9obHpPSlgtXzBFMGNjb0c3ckJ3MHplamlxNXkxN2hyR0J1bmtaV3pRd3RRQm1HcEVoUFBTZEtvYm90MS00dHh6TEFHdmtRc3daOUtIdVhSRXdiRnNJcDdscEVpa3Bzdk9mODZvY0pqSTNVSTlEa2o4VTZRLXFhdWUzWTBLLVFFa3BEN3ZhdlFOUWtXSUNsREZPSk1YckJPR2kzWQ?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 14,
+      "sourceKind": "mainstream"
+    },
+    {
+      "country": "Italy",
+      "category": "Construction",
+      "source": "Il Sole 24 Ore",
+      "published": "Thu, 26 Nov 2026 10:58:36 GMT",
+      "title": "BEA Italia, il triplete di Sport e Salute certifica il valore sociale dell’America’s Cup - Il Sole 24 ORE",
+      "summary": "BEA Italia, il triplete di Sport e Salute certifica il valore sociale dell’America’s Cup Il Sole 24 ORE",
+      "why": "Relevant to Italy's construction environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa05RZTlQWUlReUZBYVEzMjI3RUFiVFJ2Sl9ndzY1cFNDYnpzMkJNNU9qWGI0aUNPYjBSQ2Fwb25aRHBJUU1haDR4QkxocDhGeWdwZG92dmhHOThFNlNNdFIta1pfUUV6ZEVaMF9XNEh0ZzJmcWxQZ0h4bUxYc0xzWVBiNnd5Tm5nUnRqSDcyWHl4UFlUUW9hMFp2QmRGdHE3aFhWY3hzX3JJQ1R5ZG9uTUM2bE5UcTZiYVAw?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 13,
+      "sourceKind": "mainstream"
+    },
+    {
+      "country": "Italy",
+      "category": "Politics",
       "source": "la Repubblica",
       "published": "Thu, 26 Nov 2026 11:50:03 +0000",
       "title": "Coni, Montini vicepresidente. Di Paola, un passo indietro",
       "summary": "Open the original article for the full context.",
       "why": "Relevant to Italy's politics environment and SW Europe market awareness.",
       "url": "https://www.repubblica.it/sport/rubriche/spycalcio/2026/11/26/news/coni_montini_vicepresidente_di_paola_un_passo_indietro-425751892/",
-      "image": "assets/news-fallback.svg",
-      "relevance": 17,
-      "sourceKind": "direct"
-    },
-    {
-      "country": "Italy",
-      "category": "Politics",
-      "source": "la Repubblica",
-      "published": "Thu, 26 Nov 2026 10:44:42 +0000",
-      "title": "Dl scuola approvato alla Camera: è legge. Protestano le opposizioni: “In classe nessuno è straniero”",
-      "summary": "Il provvedimento è legge: 142 i voti a favore, 112 i contrari e 4 gli astenuti. Introduce in particolare “l'obbligo, per gli editori, di rendere disponibile una versione elettronica dei libri di testo scolastici acquistabili al 50% in meno rispetto alla versione cartacea”",
-      "why": "Relevant to Italy's politics environment and SW Europe market awareness.",
-      "url": "https://www.repubblica.it/politica/2026/11/26/news/dl_scuola_approvato_camera_ebook_tetto_stranieri-425751682/",
       "image": "assets/news-fallback.svg",
       "relevance": 17,
       "sourceKind": "direct"
@@ -633,87 +698,22 @@
     },
     {
       "country": "Italy",
-      "category": "Construction",
-      "source": "Il Sole 24 Ore",
-      "published": "Thu, 26 Nov 2026 10:58:36 GMT",
-      "title": "BEA Italia, il triplete di Sport e Salute certifica il valore sociale dell’America’s Cup - Il Sole 24 ORE",
-      "summary": "BEA Italia, il triplete di Sport e Salute certifica il valore sociale dell’America’s Cup Il Sole 24 ORE",
-      "why": "Relevant to Italy's construction environment and SW Europe market awareness.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa05RZTlQWUlReUZBYVEzMjI3RUFiVFJ2Sl9ndzY1cFNDYnpzMkJNNU9qWGI0aUNPYjBSQ2Fwb25aRHBJUU1haDR4QkxocDhGeWdwZG92dmhHOThFNlNNdFIta1pfUUV6ZEVaMF9XNEh0ZzJmcWxQZ0h4bUxYc0xzWVBiNnd5Tm5nUnRqSDcyWHl4UFlUUW9hMFp2QmRGdHE3aFhWY3hzX3JJQ1R5ZG9uTUM2bE5UcTZiYVAw?oc=5",
-      "image": "assets/news-fallback.svg",
-      "relevance": 13,
-      "sourceKind": "mainstream"
-    },
-    {
-      "country": "Italy",
-      "category": "Construction",
-      "source": "Adnkronos",
-      "published": "Thu, 26 Nov 2026 12:50:00 GMT",
-      "title": "Romeo (Sace): \"Lidl Italia volano per export imprese del Made in Italy\" - Adnkronos",
-      "summary": "Romeo (Sace): \"Lidl Italia volano per export imprese del Made in Italy\" Adnkronos",
-      "why": "Relevant to Italy's construction environment and SW Europe market awareness.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcGw0MzVNN3JZcnAzQm9QS0xsNFpIUFRnMWRRZUx6TVBtY1JQM2lLVkdWM2UzWGpsY2cyUHZzQXVSQS1uTlRycEREZlI1dFdGaGw2UmF5LXBiODQ5VVZEYVhIR0haSm14OFUyQ1FVNmhtZU5DcTQwU2NYU20xenRWSkJ6LTRkZUhVM05jR0pMbkU2WURBb1A0VEJPSTUyQ1lHTDB1RlI1VW9Hbnp2VnVWTVpQWVNhVnowc0RGeVA1am5Mdw?oc=5",
-      "image": "assets/news-fallback.svg",
-      "relevance": 13,
-      "sourceKind": "mainstream"
-    },
-    {
-      "country": "Italy",
-      "category": "Industry",
-      "source": "Il Fatto Quotidiano",
-      "published": "Wed, 25 Nov 2026 11:57:53 GMT",
-      "title": "Guardiola: “Mi sono quasi vergognato a rifiutare la Nazionale italiana. Fra uno o due anni avrei accettato” - Il Fatto Quotidiano",
-      "summary": "Guardiola: “Mi sono quasi vergognato a rifiutare la Nazionale italiana. Fra uno o due anni avrei accettato” Il Fatto Quotidiano",
-      "why": "Relevant to Italy's industry environment and SW Europe market awareness.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR3duVVB5VGc5eGJJVEdXbnIyMjhhRjNGR1RlVTRoVTM0czZ2NFhZdFFsX0Rjd0hPZkVHeG8yUXZWdEEzMHRsaUQ1dGZLNk40TXg1aE1KVGF6VGVCbWVPLUFPa1oyVklmTUVaUVpnMEt3bXVjTGhWY3RXdXF4eGI5NGROc0l0QTdOdGZ5UTktYnFEemd2dWJnekhOd2ljdw?oc=5",
-      "image": "assets/news-fallback.svg",
-      "relevance": 11,
-      "sourceKind": "mainstream"
-    },
-    {
-      "country": "Italy",
       "category": "Politics",
-      "source": "Linkiesta.it",
-      "published": "Thu, 26 Nov 2026 03:49:45 GMT",
-      "title": "Armata Brancaleone | Il campo largo non trova un accordo su Ucraina e tasse, e ora rischia di affidare tutto alle primarie",
-      "summary": "Armata Brancaleone | Il campo largo non trova un accordo su Ucraina e tasse, e ora rischia di affidare tutto alle primarie Linkiesta.it ++ Schlein, nodi nel centrosinistra sul fisco? Tavolo politico li scioglierà ++ ANSA Trenta: “Il M5s sulle armi ha bisogno di smarcarsi, dirà no a fini elettorali” la Repubblica Il sospetto del Pd: Conte vuol far...",
+      "source": "La Stampa",
+      "published": "Thu, 26 Nov 2026 13:27:00 +0100",
+      "title": "Due italiani morti in Kuwait durante un attacco iraniano di droni. Il cordoglio di Meloni",
+      "summary": "Sono tecnici della Rheinmetall. Feriti un kuwaitiano e un pakistano. Tajani: “Il governo vicino alle famiglie delle vittime”",
       "why": "Relevant to Italy's politics environment and SW Europe market awareness.",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nU25sbGpsOF9YYnJMbmlaTm1jbmlWOC0yeE50RUg0RXFmUWlhREZEbzdwdXdVdEcwVVJVNjFZMzd1Z21vZ1BIN28wVy1VcjZyUk5QS0xOZHhiaWVKOUlXM2xod1dZTlV1eVBMNTJYdHFQMG9WUGdB?oc=5",
+      "url": "https://www.lastampa.it/esteri/2026/11/26/news/kuwait_italiani_feriti-15810123/",
       "image": "assets/news-fallback.svg",
-      "relevance": 11,
-      "sourceKind": "general"
-    },
-    {
-      "country": "Italy",
-      "category": "Politics",
-      "source": "Sky TG24",
-      "published": "Thu, 26 Nov 2026 07:43:33 GMT",
-      "title": "Trump verso nuovi dazi, che effetti hanno avuto finora la tariffe Usa?",
-      "summary": "Trump verso nuovi dazi, che effetti hanno avuto finora la tariffe Usa? Sky TG24 Dagli USA minacce di nuovi dazi, la Commissione risponde: “La sovraccapacità ci colpisce, non ne siamo causa” Eunews Federvini, in 9 mesi 3 miliardi le vendite in Gdo di vini, spiriti e aceti (2) ANSA Cosa c'è dietro la scelta di Trump di ripartire dai dazi: il primo...",
-      "why": "Relevant to Italy's politics environment and SW Europe market awareness.",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOT0J0MlotNUh4blI4ZUxnM3BIZDFubkd1eC1ueHZrc3g5UVBYUlJ5ZFdEQmNMeU1hU1J2VDBWdDdhUUpkSGlqaUpjR19ydTdRbDVCRHJ2T3NiTkd1RHlsNXVRaS1POFItQzhQOFYyT0ZSMXBYYWZQVWhuaw?oc=5",
-      "image": "assets/news-fallback.svg",
-      "relevance": 11,
-      "sourceKind": "general"
-    },
-    {
-      "country": "Italy",
-      "category": "Politics",
-      "source": "Il Sole 24 ORE",
-      "published": "Thu, 26 Nov 2026 10:36:35 GMT",
-      "title": "UniCredit, arriva l’ok della Polonia per Commerz: Orcel punta alla presidenza e cambia il board",
-      "summary": "UniCredit, arriva l’ok della Polonia per Commerz: Orcel punta alla presidenza e cambia il board Il Sole 24 ORE Unicredit, arriva l'ultimo nullaosta: l'aggregazione con Commerz più vicina, Orcel sarà il nuovo presidente Corriere della Sera Unicredit, Orcel punta alla presidenza del consiglio di sorveglianza di Commerzbank Milano Finanza Unicredit, ultimo...",
-      "why": "Relevant to Italy's politics environment and SW Europe market awareness.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVXFGSk9VMC0xY3FNTGhCTUw3Ul82Rm9LMlR5ZHZSR2FhNVg2Nk1FdVB6QnFESkEtNzlVZUEtM3VrRThpMG92U2pjcUNTT3d4b3BETUhVYlJ1ZFZKNnlsWS1FY1AzUVczcXBaMi14dlk2MkJRdGtHdWNMNHZKMVBiRHI1cDNJeTY4andsM2xraGtFY3R3SEdBT3ctcEZDR3lQSTNuMzVMU3g?oc=5",
-      "image": "assets/news-fallback.svg",
-      "relevance": 11,
-      "sourceKind": "general"
+      "relevance": 17,
+      "sourceKind": "direct"
     },
     {
       "country": "Italy",
       "category": "Construction",
       "source": "Edilportale",
-      "published": "Thu, 26 Nov 2026 06:21:23 GMT",
+      "published": "Thu, 26 Nov 2026 11:39:23 GMT",
       "title": "Piano Casa, 400 milioni per l’edilizia pubblica e sociale: ecco dove saranno investiti - Edilportale",
       "summary": "Piano Casa, 400 milioni per l’edilizia pubblica e sociale: ecco dove saranno investiti Edilportale",
       "why": "Relevant to Italy's construction environment and SW Europe market awareness.",
@@ -752,11 +752,11 @@
       "country": "Italy",
       "category": "Construction",
       "source": "ANSA",
-      "published": "Thu, 26 Nov 2026 13:07:10 +0100",
-      "title": "Mattarella, allarme Papa chiaro su ritorno barbarie nei rapporti internazionali",
-      "summary": "Un messaggio che ovunque va accolto",
+      "published": "Thu, 26 Nov 2026 15:06:26 +0100",
+      "title": "Impennata dei mutui in Gb, Comitato finanziario della BoE lancia l'allarme",
+      "summary": "E' fra le preoccupazioni del suo ultimo rapporto, assieme all'allerta debito",
       "why": "Relevant to Italy's construction environment and SW Europe market awareness.",
-      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/26/mattarella-allarme-papa-chiaro-su-ritorno-barbarie-nei-rapporti-internazionali_b45f3265-430c-4087-a5c4-b934809a911a.html",
+      "url": "https://www.ansa.it/sito/notizie/topnews/2026/11/26/impennata-dei-mutui-in-gb-comitato-finanziario-della-boe-lancia-lallarme_4b36ba21-c24c-4273-9a72-f5b5426cbb38.html",
       "image": "assets/news-fallback.svg",
       "relevance": 16,
       "sourceKind": "direct"
@@ -766,7 +766,7 @@
       "category": "Construction",
       "source": "La Stampa",
       "published": "Wed, 25 Nov 2026 23:01:00 +0100",
-      "title": "Meloni avverte Zelensky: “La guerra non si deve allargare al Mediterraneo”",
+      "title": "Meloni a Zelensky: “La guerra non si deve allargare al Mediterraneo”. Mosca: i Volenterosi sono contro la pace",
       "summary": "Il Cremlino a von der Leyen: «Non puoi dettare condizioni per i negoziati». Salvini: “Zelensky non si permetta di portare la guerra qui”. Arrestato a Mosca per corruzione il vice comandante delle forze aerospaziali",
       "why": "Relevant to Italy's construction environment and SW Europe market awareness.",
       "url": "https://www.lastampa.it/esteri/2026/11/26/diretta/guerra_russia_ucraina_news_oggi-15809568/",
@@ -804,11 +804,11 @@
       "country": "Portugal",
       "category": "Politics",
       "source": "RTP Noticias",
-      "published": "Thu, 26 Nov 2026 12:35:22 +0000",
-      "title": "Constitucionalistas veem razões para pedir fiscalização de normas do OE ao Tribunal Constitucional",
-      "summary": "A aplicação ou não de medidas do Orçamento do Estado para 2027 só pode ser decidida, em última instância, pelo Tribunal Constitucional. Para especialistas jurídicos, não decorrem de uma decisão unilateral do Governo, ainda mais perante o litígio político que resultou do anúncio do primeiro-ministro. Por isso, para os constitucionalistas, a hipótese é a...",
+      "published": "Thu, 26 Nov 2026 14:26:17 +0000",
+      "title": "\"Crise política por birra\". PS e Chega contestam recusa de Montenegro em cumprir decisões do Parlamento",
+      "summary": "O PS acusa Luís Montenegro de querer \"afrontar\" a Assembleia da República e de criar uma crise política \"por birra\", depois de o primeiro-ministro ter anunciado, em entrevista à RTP, que o Governo não vai aplicar algumas das alterações ao Orçamento do Estado aprovadas pelos deputados durante a fase da especialidade.",
       "why": "Relevant to Portugal's politics environment and SW Europe market awareness.",
-      "url": "https://www.rtp.pt/noticias/politica/constitucionalistas-veem-razoes-para-pedir-fiscalizacao-de-normas-do-oe-ao-tribunal-constitucional_n1781770",
+      "url": "https://www.rtp.pt/noticias/politica/crise-politica-por-birra-ps-e-chega-contestam-recusa-de-montenegro-em-cumprir-decisoes-do-parlamento_a1781774",
       "image": "assets/news-fallback.svg",
       "relevance": 17,
       "sourceKind": "direct"
@@ -817,11 +817,11 @@
       "country": "Portugal",
       "category": "Politics",
       "source": "RTP Noticias",
-      "published": "Thu, 26 Nov 2026 11:49:59 +0000",
-      "title": "Plano Regional dos Açores para 2027 aprovado na generalidade",
-      "summary": "O Plano Anual dos Açores para 2027 foi aprovado na generalidade no parlamento regional, com votos a favor de PSD, CDS-PP e PPM, votos contra de Chega, BE e IL e abstenção de PS e PAN.",
+      "published": "Thu, 26 Nov 2026 13:52:36 +0000",
+      "title": "Normas orçamentais. Aguiar-Branco convoca conferência de líderes",
+      "summary": "O presidente da Assembleia da República, José Pedro Aguiar-Branco, convocou para as 16h30 desta quinta-feira uma reunião extraordinária da conferência de líderes parlamentares para analisar o cumprimento de normas do Orçamento do Estado para 2027.",
       "why": "Relevant to Portugal's politics environment and SW Europe market awareness.",
-      "url": "https://www.rtp.pt/noticias/politica/plano-regional-dos-acores-para-2027-aprovado-na-generalidade_n1781767",
+      "url": "https://www.rtp.pt/noticias/politica/normas-orcamentais-aguiar-branco-convoca-conferencia-de-lideres_n1781805",
       "image": "assets/news-fallback.svg",
       "relevance": 17,
       "sourceKind": "direct"
@@ -830,40 +830,53 @@
       "country": "Portugal",
       "category": "Politics",
       "source": "RTP Noticias",
-      "published": "Thu, 26 Nov 2026 11:49:45 +0000",
-      "title": "Ministério da Cultura autorizou nove pedidos de desafetação de salas de cinema",
-      "summary": "O Governo autorizou nove pedidos de desafetação de recintos de cinema que estavam pendentes desde 2024, abrangendo 40 salas no país, revelou hoje à agência Lusa a Inspeção-Geral das Atividades Culturais (IGAC).",
-      "why": "Relevant to Portugal's politics environment and SW Europe market awareness.",
-      "url": "https://www.rtp.pt/noticias/cultura/ministerio-da-cultura-autorizou-nove-pedidos-de-desafetacao-de-salas-de-cinema_n1781746",
-      "image": "assets/news-fallback.svg",
-      "relevance": 17,
-      "sourceKind": "direct"
-    },
-    {
-      "country": "Portugal",
-      "category": "Construction",
-      "source": "RTP Noticias",
-      "published": "Thu, 26 Nov 2026 13:07:31 +0000",
-      "title": "Greve dos maquinistas da CP suprime quase 30% dos comboios até às 12h00",
-      "summary": "A greve dos maquinistas da CP suprimiu 160 dos 544 comboios programados entre as 00:00 e as 12:00 de hoje, o equivalente a 29,4% das ligações previstas, segundo dados da transportadora.",
-      "why": "Relevant to Portugal's construction environment and SW Europe market awareness.",
-      "url": "https://www.rtp.pt/noticias/economia/greve-dos-maquinistas-da-cp-suprime-quase-30-dos-comboios-ate-as-12h00_n1781784",
-      "image": "assets/news-fallback.svg",
-      "relevance": 16,
-      "sourceKind": "direct"
-    },
-    {
-      "country": "Portugal",
-      "category": "Construction",
-      "source": "RTP Noticias",
-      "published": "Thu, 26 Nov 2026 13:07:03 +0000",
-      "title": "12h30 Sporting complica Champions e decide tudo no Dragão",
+      "published": "Thu, 26 Nov 2026 13:35:03 +0000",
+      "title": "13h Presidente pede pacto na Saúde e deixa aviso",
       "summary": "Open the original article for the full context.",
+      "why": "Relevant to Portugal's politics environment and SW Europe market awareness.",
+      "url": "https://www.rtp.pt/noticias/noticiario-antena1/13h-presidente-pede-pacto-na-saude-e-deixa-aviso_a1_1781800",
+      "image": "assets/news-fallback.svg",
+      "relevance": 17,
+      "sourceKind": "direct"
+    },
+    {
+      "country": "Portugal",
+      "category": "Construction",
+      "source": "RTP Noticias",
+      "published": "Thu, 26 Nov 2026 14:40:01 +0000",
+      "title": "Medidas da oposição. Recusa de Montenegro leva oposição a reacender discussão do Orçamento",
+      "summary": "Depois de o primeiro-ministro ter batido com a porta, em entrevista à RTP, à implementação de medidas como o IVA Zero e a alteração do IRS sobre as rendas, no quadro do Orçamento do Estado, sucederam-se as reações das forças da oposição. Para a tarde desta quinta-feira está marcada uma conferência de líderes. E o Chega pediu mesmo um debate de urgência....",
       "why": "Relevant to Portugal's construction environment and SW Europe market awareness.",
-      "url": "https://www.rtp.pt/noticias/noticiario-desporto/12h30-sporting-complica-champions-e-decide-tudo-no-dragao_a1_1781790",
+      "url": "https://www.rtp.pt/noticias/politica/medidas-da-oposicao-recusa-de-montenegro-leva-oposicao-a-reacender-discussao-do-orcamento_e1781811",
       "image": "assets/news-fallback.svg",
       "relevance": 16,
       "sourceKind": "direct"
+    },
+    {
+      "country": "Portugal",
+      "category": "Construction",
+      "source": "RTP Noticias",
+      "published": "Thu, 26 Nov 2026 14:25:48 +0000",
+      "title": "Nova fábrica em Portugal é a maior da Europa na transformação de fibra de linho em fio",
+      "summary": "Foi inaugurada esta quinta-feira em Santo Tirso. Conta já com 140 trabalhadores e espera chegar aos 250, no início do próximo ano.",
+      "why": "Relevant to Portugal's construction environment and SW Europe market awareness.",
+      "url": "https://www.rtp.pt/noticias/economia/nova-fabrica-em-portugal-e-a-maior-da-europa-na-transformacao-de-fibra-de-linho-em-fio_v1781818",
+      "image": "assets/news-fallback.svg",
+      "relevance": 16,
+      "sourceKind": "direct"
+    },
+    {
+      "country": "Portugal",
+      "category": "Politics",
+      "source": "Expresso",
+      "published": "Thu, 26 Nov 2026 12:13:18 GMT",
+      "title": "Patrões não querem eleições: “crise artificial, movida por interesses partidários”, “tenham juízo\", \"falta um adulto na sala\" - Expresso",
+      "summary": "Patrões não querem eleições: “crise artificial, movida por interesses partidários”, “tenham juízo\", \"falta um adulto na sala\" Expresso",
+      "why": "Relevant to Portugal's politics environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZUp2Uzh6ZTROOVJzaVlQZ3VVblZXYjh0ZGNIaDJHQjI5ejl3U0cyWFZsV3o4V1lPV1E2ZVBNbDUyYjVGcklpckJjZUpVeDFLblpkNkhXUGdsV3FVRjAtNDk0UGdMX3QwR2pvTkVNdDVHRGdxUy1wNDVRb2hSMWJzdXBqQV9IbkJtZ3Z5akFlOXVtYUFKcVpHeW9ZUEpkYko4SUFxNGR5RnR4Zzh5Vm1OTy1lQnJXZkdNWDNVc3cyaDh4bkh3dUVqSXJfOXFxQlNMc0h5X0gwMFZXTUdNS3g0TTJyTEw3Z0diWGZrYVB2QnV4RFdiVmpj?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 14,
+      "sourceKind": "mainstream"
     },
     {
       "country": "Portugal",
@@ -874,19 +887,6 @@
       "summary": "Portugal ocupa o 4.º lugar entre os países da UE com maior utilização de transportes privados Público",
       "why": "Relevant to Portugal's construction environment and SW Europe market awareness.",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdlBvQjNJQUZyaENxbDBDQm5MbVlBT3hOejc0QlItQ2lrdldqTmVhY2dHcFRVamoxNWpnWGFJRC1iTFNMeWtIVGlSbFJGQzVqSXpxSEpDU1VrTll0SlIzX1BOc05XWHU4cmdrVl9tT1VFdHVzZ3FFVjcxNDB0TmRiaGcyU05JWmNmNVVPcURmVDhScGpVMGlsaVFYeGVRengzaVJFZkQtb0swVkpycHJPOGxWb08ySGZ3N0p4SGZHOFBlaE1MN2hjcg?oc=5",
-      "image": "assets/news-fallback.svg",
-      "relevance": 13,
-      "sourceKind": "mainstream"
-    },
-    {
-      "country": "Portugal",
-      "category": "Construction",
-      "source": "Publico",
-      "published": "Thu, 26 Nov 2026 11:15:33 GMT",
-      "title": "Portugal é o país onde mais se bebe na UE, mas SNS só garante tratamento a um quinto dos alcoólicos - Público",
-      "summary": "Portugal é o país onde mais se bebe na UE, mas SNS só garante tratamento a um quinto dos alcoólicos Público",
-      "why": "Relevant to Portugal's construction environment and SW Europe market awareness.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdVQzUXdiM0hPV1JwQ0RUOHo0VDc5YTJLNWh4TmxxbHNjckd0UmdFTXF3MnAwMWRCTE9tNmczeVVrcUQwTnpKTFNvdDd5bnFQbmFHQlJPQVZ6ZDQ1eFVvLVBEdU4xMm1XNEs2Q2NCYkxDQ3htdDFxYTdZWVh1SjdWMDZRMW1qWEtKS3N5cHdmb1ZiRW51WmFmT1AzdDFpVGwweFUzQjFBa1QzZS1XR29VVm4wM3FCdlNnOFZteWNPMWVqbUxtR2FkcE1n?oc=5",
       "image": "assets/news-fallback.svg",
       "relevance": 13,
       "sourceKind": "mainstream"
@@ -910,7 +910,7 @@
       "source": "RTP",
       "published": "Thu, 26 Nov 2026 06:50:57 GMT",
       "title": "Entrevista de Montenegro à RTP. IVA Zero não avança e IRS aplicado às rendas não será alterado",
-      "summary": "Entrevista de Montenegro à RTP. IVA Zero não avança e IRS aplicado às rendas não será alterado RTP Montenegro anuncia que Governo não vai cumprir IVA zero nos alimentos, nem mexer no IRS das rendas Expresso Tribunal Constitucional é que decide se medidas do OE se aplicam ou não RTP Governo tem margem para travar alterações ao Orçamento no Constitucional...",
+      "summary": "Entrevista de Montenegro à RTP. IVA Zero não avança e IRS aplicado às rendas não será alterado RTP Montenegro anuncia que Governo não vai cumprir IVA zero nos alimentos, nem mexer no IRS das rendas Expresso Governo tem margem para travar alterações ao Orçamento no Constitucional Diário de Notícias Montenegro tenta virar o jogo e desafia Carneiro, Ventura...",
       "why": "Relevant to Portugal's politics environment and SW Europe market awareness.",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY3dqT0twZkRrbHM4Y2Q2aDllb3p4RGtzcVp0REJNU1hlZHZkaTFVQ2llbWtZVmVSQUZ5cGN6QXVuRzEwUlR3RlE3a1FNdUlaWjREWGFjcHZwNTRIcTZJeGU3dVBDVFNyZWc2T2RXZDc3aDBpd1h6d2FkdVVnVjV5QjBzTUdlWkFFa2NYRDJKTlpjWWc4UlRZY2t0b2pIU3poTUs0WFBuaFUwZWlBR2kwZlZIakFQdTVwN2JNNE5NWDAxZmpMVzZNVk5hQkhhc0ZnTEZiNG13?oc=5",
       "image": "assets/news-fallback.svg",
@@ -921,11 +921,11 @@
       "country": "Portugal",
       "category": "Politics",
       "source": "Público",
-      "published": "Thu, 26 Nov 2026 10:50:10 GMT",
-      "title": "Carneiro acusa Montenegro de fazer “ajuste de contas” com o Parlamento e recusa crise",
-      "summary": "Carneiro acusa Montenegro de fazer “ajuste de contas” com o Parlamento e recusa crise Público Carneiro diz que Montenegro não pode ter \"mau perder\". Governo deve pedir fiscalização de medidas ao TC Jornal de Negócios 10h PS acusa governo de ajuste de contas com o Parlamento RTP Receita do ISP baixa 500 milhões de euros após travão da oposição Jornal...",
+      "published": "Thu, 26 Nov 2026 11:22:40 GMT",
+      "title": "Seguro recusa antecipar envio do OE para o Constitucional e pede diálogo | Orçamento do Estado 2027",
+      "summary": "Seguro recusa antecipar envio do OE para o Constitucional e pede diálogo | Orçamento do Estado 2027 Público Perante \"divergências de interpretação\", Seguro garante que \"irá encontrar solução\" para o OE Euronews.com Seguro apela a que Parlamento e Governo tentem entendimento. Caso contrário, Belém \"encontrará uma solução\" Diário de Notícias Desafio de...",
       "why": "Relevant to Portugal's politics environment and SW Europe market awareness.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUHVDY0E3cnpzdG9NYVJ6eHRFal9DbjJIeFhidmJGTklYekRDaUlsaTJvOUZYX2tER1MzdmpESURjSmxoYk5PX2NLeVBZZ01iYXlNSXJIdE4zcmd1ZlBzU0NCd3dvU0hsREh3UkRvVGdaTUpwVTdKUHVfMGZ4REVvbTJrYXBQTDdrWEgwU0Y2QnBuODh5ZXF3RUdVa3FmZ2VJMWJEOFNXT2REYVJXYVhXOG5KUWZhU1NvRl91S053cw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcXp0Z0VWaTExdHl0dERYRmIwMUtra2tYXzlNSUtDQXZRT3NocGg4N3BJLXpTRnZIcG9kbW1SeHlodndvRnNDZE5Pa005cFcxWEMzVkpOQUpnXy1nV1hvaXpQczNnNlJlTlhCMzBqUlRtOVhDeTFSOTY0c3hfQVFzSnRlRlJjZUo2RGgtOUNSajlER1BGeVlPZ2ZGRGtDUnZ3a0lhMlUyb0RSdldVaVR0VUlCZHNJUTNiQjJz?oc=5",
       "image": "assets/news-fallback.svg",
       "relevance": 11,
       "sourceKind": "general"
@@ -933,28 +933,15 @@
     {
       "country": "Portugal",
       "category": "Politics",
-      "source": "Diário de Notícias",
-      "published": "Thu, 26 Nov 2026 11:07:56 GMT",
-      "title": "Seguro apela a que Parlamento e Governo tentem entendimento. Caso contrário, Belém \"encontrará uma solução\"",
-      "summary": "Seguro apela a que Parlamento e Governo tentem entendimento. Caso contrário, Belém \"encontrará uma solução\" Diário de Notícias Perante \"divergências de interpretação\", Seguro garante que \"irá encontrar solução\" para o OE Euronews.com Desafio de Seguro aos partidos sem margem de sucesso. Apelo do Presidente pode esbarrar na lei Observador \"Não ponham o...",
+      "source": "Expresso",
+      "published": "Thu, 26 Nov 2026 12:33:25 GMT",
+      "title": "Acampada de Lisboa só sai dos Restauradores com segurança garantida e promete resistir a “despejo sem dignidade”",
+      "summary": "Acampada de Lisboa só sai dos Restauradores com segurança garantida e promete resistir a “despejo sem dignidade” Expresso Acampada \"sai dos Restauradores quando conseguir garantir segurança\" RTP Estabelecimentos no perímetro do parlamento encerrados desde as 17:00 Correio da Manhã Canadá Pedras no caminho? Guardo todas e um dia faço… pode ser uma casa?...",
       "why": "Relevant to Portugal's politics environment and SW Europe market awareness.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdG42WV9wVVZJVi1ldndpSUZrRHNxQ2VHUlVoWE9XNmJCYjFUNTJBaFhyaFlGcExjRy03YnBERndtSWZXZmtrd05NT1dTeEhNTHpwZWtDMzQ3VVNzNXhjdjhEbTB1Snc0MjVOY0gyUHNsbGZGRHNzeFpfcG0wQ3hjdnZIT1gwUlFtY08yeHpuNDlfYTE1S2Ryei1aZVAzV0JGNngxNXNVNl9ZcUQ4VVlUSVZwQnBKcU1zQzNteW8xMTN2cGlsYUpsQUJR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNU1RHYkVhZVRrczFsdEhCTG42UzktNXZBUmEtX21SakkyUVo3VjVWMWttcHFWVTY4ZlFuVXAtMWs3S3o1d1NxNHVsajF6SWNVZG81dXVxWktPUmNRUnVRaEhjdGhibjRfaExaVmtRaHh0RHBTTWc4LTc0YzBsMjFsSndpb0JkRjVSdlByMVhTNU4tMWZZU2FzdG9MVkNjZWNMRWRnUHozODc0YlNkdkVnd2RuWUJLMzlLYlNtMTQ5X2l4V1RxcWlvWlBodk5yTDBuS3VnQlJXUkgxa3RPbGh5WEl4R1ZvWFJ3TDBlVXRmS050dw?oc=5",
       "image": "assets/news-fallback.svg",
       "relevance": 11,
       "sourceKind": "general"
-    },
-    {
-      "country": "Portugal",
-      "category": "Construction",
-      "source": "Construir",
-      "published": "Thu, 26 Nov 2026 09:24:13 GMT",
-      "title": "Wecity ultrapassa os 315M€ financiados referente a 237 projectos imobiliários - Jornal CONSTRUIR",
-      "summary": "Wecity ultrapassa os 315M€ financiados referente a 237 projectos imobiliários Jornal CONSTRUIR",
-      "why": "Relevant to Portugal's construction environment and SW Europe market awareness.",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlpUNE9pVUpYWkZRT0R0eUtGRDJyVUVaRGpKbG05WFRFYnFvME53Zno4REVSRjBtWmtBNXRrSHZIR2cwZlE5alpmWEtqdTdlcFJOMGZjekRvc0xicEphNXQ0dUxfbnRtSDBoSDZ6UWJOd2lBUDZpMXloR0RWaEhhTEJLQWdWZE1PQmJSd1Zyb05qbV9oeTBVWnp4MmdNMjhnbXF5ODZHRWV4eVM1TEE?oc=5",
-      "image": "assets/news-fallback.svg",
-      "relevance": 15,
-      "sourceKind": "sector"
     },
     {
       "country": "Portugal",
@@ -973,11 +960,24 @@
       "country": "Portugal",
       "category": "Construction",
       "source": "Construir",
-      "published": "Wed, 25 Nov 2026 16:02:46 GMT",
-      "title": "Câmara de Setúbal lança concurso para construir 131 casas de renda acessível - Público",
-      "summary": "Câmara de Setúbal lança concurso para construir 131 casas de renda acessível Público",
+      "published": "Thu, 26 Nov 2026 07:24:00 GMT",
+      "title": "Trocaram os Países Baixos pelo interior do Algarve. Estão a construir uma guesthouse - NiT New in Town",
+      "summary": "Trocaram os Países Baixos pelo interior do Algarve. Estão a construir uma guesthouse NiT New in Town",
       "why": "Relevant to Portugal's construction environment and SW Europe market awareness.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQUJMRXJwVGMzMENOWHhwcktVVFVhQXFDUGFieXVOelYxN1AyR3RxYlFuLXNkVk5IS3RIT2lLb2lSVUh6WElHbzZyS3pIdlY1d0VhbEhZaExRTEdieWZGSVA5ZnRmNGlRbE82c2NySUpEZ3dCOVpmb2I2YldwR3FVRk1lY2d1VUplckp5N1NnbE42RnNqYzl6MVh5NGtIcV8za0pnOEcxOVRZQkpFNFAxQmpZZFI4UHZabVBmdDJR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbmp0cUNmWWFxczR6SEhkaGZXVVJrVjNtRGRIQ2tndDA2cjczNlB4MUladGdTM1pKMTVDTF9ER2l3WUg5Y056bzRQVmd3NHN1NlctVTBSV010a3NvVW5PbXJaUXFjQkQ4Z2Fsem1Sa2JJTzN5TjQyeV9mbzQwNzlNRFQwVlJBOUZiVlRqRmJ0OHJyNWQ1OFZNX2FYTWdOQlNKLUNHZDFXY1RyRTZTd3VIV0cxZE5ZV3psY1gwTFRid1dGZjNfR2RvQURsN3Q0OUk?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 15,
+      "sourceKind": "sector"
+    },
+    {
+      "country": "Portugal",
+      "category": "Construction",
+      "source": "Construir",
+      "published": "Wed, 25 Nov 2026 12:55:27 GMT",
+      "title": "Mónica Ferro: «Construir uma família não pode ser um privilégio de quem tem segurança económica» - Unric",
+      "summary": "Mónica Ferro: «Construir uma família não pode ser um privilégio de quem tem segurança económica» Unric",
+      "why": "Relevant to Portugal's construction environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ1p1bkdYN29jdEtzaFdra0s3My1XZ0U0eTRUSHJ6VXJLN3JwSnNwU3ZUZ1prcGx1SVVzNzdpOEluaE51SXE3U0FLdkNTWDVjeW9oMk1GcjlRa1JiaENBbWxLZUNXdDh5cXhWU1pubWZZYzA4M1NJYVVTdzRmVFpSWkIzVG96TlF3RUJjVzhpQTdDYkQ4a1RQdXBjdE9rLWVLSHMtclBsb0RIcmRUUFZZNFNqMTNaZw?oc=5",
       "image": "assets/news-fallback.svg",
       "relevance": 15,
       "sourceKind": "sector"
@@ -986,11 +986,11 @@
       "country": "Portugal",
       "category": "Construction",
       "source": "RTP Noticias",
-      "published": "Thu, 26 Nov 2026 13:03:51 +0000",
-      "title": "Câmara de Loures desconhece impacto real das novas descolagens no Aeroporto de Lisboa",
-      "summary": "Muda esta quinta-feira a rota dos aviões que partem para norte do Aeroporto de Lisboa, uma medida que pretende reduzir o impacto do ruído sobre 35 mil pessoas no concelho de Vila Franca de Xira. Quais os potenciais impactos do desvio para oeste? A NAV não esclarece e a autarquia de Loures diz à RTP Antena 1 que não foi informada.",
+      "published": "Thu, 26 Nov 2026 14:24:05 +0000",
+      "title": "Grande Reportagem. Espanha assiste a campanha eleitoral muito tensa",
+      "summary": "A Habitação e a Imigração dominam o debate político.",
       "why": "Relevant to Portugal's construction environment and SW Europe market awareness.",
-      "url": "https://www.rtp.pt/noticias/pais/camara-de-loures-desconhece-impacto-real-das-novas-descolagens-no-aeroporto-de-lisboa_n1781735",
+      "url": "https://www.rtp.pt/noticias/mundo/grande-reportagem-espanha-assiste-a-campanha-eleitoral-muito-tensa_v1781817",
       "image": "assets/news-fallback.svg",
       "relevance": 16,
       "sourceKind": "direct"
@@ -999,11 +999,11 @@
       "country": "Portugal",
       "category": "Construction",
       "source": "RTP Noticias",
-      "published": "Thu, 26 Nov 2026 13:00:45 +0000",
-      "title": "Abel Ferreira pode voltar a fazer História na Taça Libertadores",
-      "summary": "Abel Ferreira está pela quarta vez na final da Taça Libertadores, em busca do terceiro título, no duelo de sábado com os argentinos do Estudiantes, e do quinto sucesso de um treinador português desde 2019.",
+      "published": "Thu, 26 Nov 2026 14:23:48 +0000",
+      "title": "Regresso à Guerra das Tarifas",
+      "summary": "A administração de Donald Trump volta a propor novas taxas sobre as importações da China e de mais 14 economias, entre as quais a União Europeia.",
       "why": "Relevant to Portugal's construction environment and SW Europe market awareness.",
-      "url": "https://www.rtp.pt/noticias/futebol-internacional/abel-ferreira-pode-voltar-a-fazer-historia-na-taca-libertadores_d1781788",
+      "url": "https://www.rtp.pt/noticias/economia/regresso-a-guerra-das-tarifas_v1781816",
       "image": "assets/news-fallback.svg",
       "relevance": 16,
       "sourceKind": "direct"
@@ -1012,11 +1012,11 @@
       "country": "Portugal",
       "category": "Construction",
       "source": "RTP Noticias",
-      "published": "Thu, 26 Nov 2026 12:45:57 +0000",
-      "title": "Associação Renovar a Mouraria promove aulas de português exclusivas para mulheres migrantes",
-      "summary": "Esta iniciativa, apoiada por fundos europeus, permitiu uma maior adesão das comunidades migrantes",
+      "published": "Thu, 26 Nov 2026 14:19:47 +0000",
+      "title": "Mundo assinalou Dia Internacional para a Eliminação da Violência contra as Mulheres",
+      "summary": "Em vários países, centenas de pessoas saíram às ruas contra o femicídio e a violência de género. Também em Portugal houve mobilização. Lisboa e Porto foram palco de protestos.",
       "why": "Relevant to Portugal's construction environment and SW Europe market awareness.",
-      "url": "https://www.rtp.pt/noticias/rtpeuropa-asilo-migracao-e-integracao/associacao-renovar-a-mouraria-promove-aulas-de-portugues-exclusivas-para-mulheres-migrantes_v1780588",
+      "url": "https://www.rtp.pt/noticias/pais/mundo-assinalou-dia-internacional-para-a-eliminacao-da-violencia-contra-as-mulheres_v1781815",
       "image": "assets/news-fallback.svg",
       "relevance": 16,
       "sourceKind": "direct"
@@ -1025,11 +1025,11 @@
       "country": "Portugal",
       "category": "Construction",
       "source": "RTP Noticias",
-      "published": "Thu, 26 Nov 2026 12:40:06 +0000",
-      "title": "O Pilar Europeu dos Direitos Sociais: a escolha de Ana Catarina Mendes",
-      "summary": "Neste episódio dedicado aos 40 anos de Portugal na União Europeia, a eurodeputada socialista Ana Catarina Mendes destaca este quadro estratégico europeu",
+      "published": "Thu, 26 Nov 2026 13:30:01 +0000",
+      "title": "Escolas portuguesas são lugar de risco para jovens LGBTIQ+",
+      "summary": "As escolas portuguesas são um lugar de risco para os jovens LGBTIQ+, refere o relatório de um projeto europeu, divulgado esta quinta-feira, que alude a violência ou discriminação em contexto escolar experienciada por quase 70% dos inquiridos.",
       "why": "Relevant to Portugal's construction environment and SW Europe market awareness.",
-      "url": "https://www.rtp.pt/noticias/rtpeuropa/o-pilar-europeu-dos-direitos-sociais-a-escolha-de-ana-catarina-mendes_v1781776",
+      "url": "https://www.rtp.pt/noticias/pais/escolas-portuguesas-sao-lugar-de-risco-para-jovens-lgbtiq_n1781779",
       "image": "assets/news-fallback.svg",
       "relevance": 16,
       "sourceKind": "direct"
@@ -1065,7 +1065,7 @@
       "category": "Politics",
       "source": "RTL",
       "published": "Thu, 26 Nov 2026 12:07:03 GMT",
-      "title": "Aarbechtsminister Spautz: \"Nach net d'Kugel fonnt\", fir d'Berechnungsmethod vum Mindestloun",
+      "title": "Aarbechtsminister Spautz: \"Nach net d'Kugel fonnt\" fir d'Berechnungsmethod vum Mindestloun",
       "summary": "Op der Tripartite am Juni ware sech Regierung a Sozialpartner eens ginn, fir de Mindestloun ëm 3,8% an d’Luucht ze setzen. D'EU-Mindestloundirektiv ass awer nach net ëmgesat an domadder d'Berechnungsmethod fir de Mindestloun an Zukunft festzeleeën nach ëmmer net definéiert.",
       "why": "Relevant to Luxembourg's politics environment and SW Europe market awareness.",
       "url": "https://www.rtl.lu/news/national/nach-net-dkugel-fonnt-fir-dberechnungsmethod-vum-mindestloun-1212370921",
@@ -1088,15 +1088,15 @@
     },
     {
       "country": "Luxembourg",
-      "category": "Politics",
-      "source": "RTL",
-      "published": "Thu, 26 Nov 2026 11:40:00 GMT",
-      "title": "Commentaire vum Fanny Kinsch: Drogepolitik: wou bleift d’Präventioun?",
-      "summary": "D’Regierung huet dës Woch an den zoustännege Chamberkommissioune Bilan vun hirer Drogepolitik gezunn. Virun allem den Inneminister war zefridde mat senger Aarbecht, d’LSAP an der Oppositioun huet vun ze vill Repressioun an net genuch Präventioun geschwat. A sengem Commentaire stellt d’Fanny Kinsch d’Fro, ob ee beim Drogendësch 2.0 iwwerhaapt vu...",
-      "why": "Relevant to Luxembourg's politics environment and SW Europe market awareness.",
-      "url": "https://www.rtl.lu/news/meenung/commentaire/drogepolitik-wou-bleift-dpraventioun-836542111",
+      "category": "Construction",
+      "source": "RTL Today",
+      "published": "Thu, 26 Nov 2026 06:00:00 GMT",
+      "title": "Small but mighty: Have you ever wondered who the most famous Luxembourger is?",
+      "summary": "Picture this: you're abroad, you tell someone you're from Luxembourg, and if they haven't mixed it up with Liechtenstein, they'll mention the banks, the size, or the language, but rarely a person, which raises the question: who is the best-known Luxembourger?",
+      "why": "Relevant to Luxembourg's construction environment and SW Europe market awareness.",
+      "url": "https://today.rtl.lu/news/luxembourg/have-you-ever-wondered-who-the-most-famous-luxembourger-is-2046149560",
       "image": "assets/news-fallback.svg",
-      "relevance": 17,
+      "relevance": 16,
       "sourceKind": "direct"
     },
     {
@@ -1141,12 +1141,25 @@
     {
       "country": "Luxembourg",
       "category": "Politics",
-      "source": "20 Minutes",
-      "published": "Thu, 26 Nov 2026 08:16:00 GMT",
-      "title": "Colère des lycéens : Plus de 400 élèves exclus définitivement de leur lycée après des violences",
-      "summary": "Colère des lycéens : Plus de 400 élèves exclus définitivement de leur lycée après des violences 20 Minutes Lycées bloqués : le rapport accablant de l’Inspection générale sur le rôle des adultes Le Point \"Un grand jeu de répartition\" : les proviseurs face au casse-tête d'accueillir les élèves exclus d'autres lycées après les 3.000 conseils de discipline...",
+      "source": "Le HuffPost",
+      "published": "Thu, 26 Nov 2026 11:45:11 GMT",
+      "title": "Quand Bardella, jeune, s’en prenait à Mélenchon pour son soutien à Israël « de A a Z »",
+      "summary": "Quand Bardella, jeune, s’en prenait à Mélenchon pour son soutien à Israël « de A a Z » Le HuffPost EN DIRECT, congrès des maires de France, suites des propos antisémites de Bardella, campagne présidentielle : suivez l’actualité politique Le Monde.fr «Il y a beaucoup de choses qui s’accumulent quand même» : Robert Ménard réagit aux nouveaux éléments sur...",
       "why": "Relevant to Luxembourg's politics environment and SW Europe market awareness.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVm44aHJHZW1NZ1BzMXA1NTE5UFRNaE9sWFVCMXRIbGhJb3JtN3ZBcnc3UUZsZ1ZhY2J6YlhDczk0RTZaa21WdzVoa1RTT0RHSTltVS04emFtVG12SEJielFDN3dFaUQwZ3g4YlRlbEVEYzFPTlF2Umt5aEFsa1E4TURqSzlKNTB0UEdzSExlQ1FFR1Y0Tzg5a2xiUldURjRILUwyVUFxdHV2RGswbjdRY2tNYVphckdaZmk4V2hheC1iQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVEVabS1PR3Z6UUkxdTNGZk1idTY1cGpiUkFmdFlKYXFrWlh0ZDNrWHZlNThEZ3RxNU1raC1McUR2WEFvd3J1emlDOENuZ3A0aG41d0s3VGVQSjJrWU9hQkZUYU1vY042amVFQ3FDcjFiYk9DdnF1NkZVSGFWekRsRDRxQ1JxcE5MSlpyQ3c0dmwwcU0xRWJNd2NBZFBIU0paVC1UcEJyRzJlS0c4SG1nZHIzR1Ffa0VTRks0elVfZ0ZzWUxGZ25KWHRtdTYzdUZRdTlMR0dtYTkteEQxTTJfTQ?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 11,
+      "sourceKind": "general"
+    },
+    {
+      "country": "Luxembourg",
+      "category": "Politics",
+      "source": "Le Parisien",
+      "published": "Thu, 26 Nov 2026 06:45:43 GMT",
+      "title": "« Dans l’intérêt de personne » : Chine, Brésil, Japon, UE… Les pays visés par de nouveaux droits de douane américains s’indignent",
+      "summary": "« Dans l’intérêt de personne » : Chine, Brésil, Japon, UE… Les pays visés par de nouveaux droits de douane américains s’indignent Le Parisien Les Américains sont à table et l'Europe se régale Zonebourse Après la débâcle des midterms, Donald Trump acte le retour de sa politique de droits de douane Mediapart Le directeur général de la société brésilienne...",
+      "why": "Relevant to Luxembourg's politics environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPVjBibnNmQThTb0ZjcG9BejVRT2ZWaVBma01FTld5NTRYUEFBWkJndmtQQnkxVXNSVEJfSjBHb3p2eFZMQmNkSDdmVlNXT3NGMmpxbkJQMWVvYUMxaVgyb0x3VzR5SldKdUxyMU1WRFVHVGpfUEdjWURzMm0waUJwNC1aeWg4bkdTUUVxaDZWdFh2dGdSd09INTk4WE80X1RVY0E4bGlORnVCMlU3X0RObFQtYzVSM3pjTjJySVhsaVpYUjFZMjN3bExvbDdyaFdxbkVVYTVRQU1XU3U3NG50T1d1TVBiM0FOZVZfSDVGaXRzUWd5QXdFT3RBSGJHWkJPblc4VGFGT19KZE1WcDBLbVpSUmU4Zml4Qm1CZTZnR25RXzBZOU9qZUtzOWNsdHFhdVd3Uw?oc=5",
       "image": "assets/news-fallback.svg",
       "relevance": 11,
       "sourceKind": "general"
@@ -1155,40 +1168,14 @@
       "country": "Luxembourg",
       "category": "Politics",
       "source": "Le Monde.fr",
-      "published": "Thu, 26 Nov 2026 12:32:28 GMT",
-      "title": "EN DIRECT, congrès des maires de France : David Lisnard est accusé de « compromission » avec l’extrême droite par Gérald Darmanin",
-      "summary": "EN DIRECT, congrès des maires de France : David Lisnard est accusé de « compromission » avec l’extrême droite par Gérald Darmanin Le Monde.fr Présidentielle 2027 : un débat plutôt qu’une primaire, la nouvelle piste à droite et au centre Le Figaro \"C'est la confirmation de mon identité politique\" : comment David Lisnard compte utiliser son image de maire...",
+      "published": "Wed, 25 Nov 2026 11:28:09 GMT",
+      "title": "Budget 2027 : au Sénat, un vote inattendu sur la mise à contribution des retraités",
+      "summary": "Budget 2027 : au Sénat, un vote inattendu sur la mise à contribution des retraités Le Monde.fr",
       "why": "Relevant to Luxembourg's politics environment and SW Europe market awareness.",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPR2p1c3o1NDdKbHlvQTZDSnFrTzV2cFozX0EwbmQwRGpwU19iUmc2b3dMTngxS0d4UnZybXpyamFKdndGazlMRUJVdGN1WmdRV2ZFVzZ4OXM1RnJIX1piNk9VN2o3ZG1NMWZSZm5lUWRuSndOM0hhZk43dWJQa0xBQWVSVkdQcXV3NGt2Mmc3eGhlamFwajNtdW5Qd1JCbnJRU3l6VjZfdnJVaW9UWU91UW9XRUppUzh5TDRhZ1VvWmNZMUQtNHdVTF9xYXQ1M01pSEhFZlBuRk9Yb2hLRGNNUXhlbUZwMTFNR05CeHJpRlpjY0N2bnJYdExUUVVYYkVraGR4OWJ6Q3dHd2xJNG1BWWhLdmRyRWZJU19F?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZmgwNWVoMlRhWU9fMl9WVWdLOE9JMGFUZWQxV0NGOW1fRkFyUU5FZmhXUHRaZ1ZVRjN0dzlaaXFaYjFFcHctdmlkbFFfOGxsWFlPMnYtV0d2T2xGdkZQWmtBMUp5eDY2a1BqLXpCa0pubEdYRjdnajliUWJwUGRoZmV1Y1lEUmNMdnludi1oeWFuT1UyS3pSLTFoTTNYelFzdFNKMURBYjhUNVNjZk5TTUVHdE81ZmJUSzFXODVzcGhvSVB6WHo3el9wQzUtN0RVNFJjaDlQTXhnWTVNOVVBRUpJRHRIUQ?oc=5",
       "image": "assets/news-fallback.svg",
       "relevance": 11,
       "sourceKind": "general"
-    },
-    {
-      "country": "Luxembourg",
-      "category": "Politics",
-      "source": "Orange Actualités",
-      "published": "Thu, 26 Nov 2026 10:03:51 GMT",
-      "title": "\"C’est sans précédent et assez inquiétant\" : le Giec au bord de l’asphyxie financière",
-      "summary": "\"C’est sans précédent et assez inquiétant\" : le Giec au bord de l’asphyxie financière Orange Actualités Lutte contre le changement climatique : échec de la COP31 Vie publique Climat : quelle voix la Nouvelle-Calédonie a-t-elle fait entendre à la COP31 ? Outre-mer La 1ère La COP échoue, mais des coalitions de pays prennent le relais Courrier international...",
-      "why": "Relevant to Luxembourg's politics environment and SW Europe market awareness.",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSzV6OXNlc191aVFEaEM2WWpPTXo1cU9LeHdsU0JhcEQxbVQ2U1E3Q1FETVAyQUhRNW1FU0lWRE01MzZtNExQNEgzQkFPamNodUw4SzdrLVJBVmpvOXljMVlUQmxMOVBZYnJUOHlDX2N2cXdZMWlQODB5ZDRfYk5UNWF0NTJZTS04QTlHdThEUS04WlFsMjliV0tUakZTaDF1S1NIUTVrczRsVmF2MFRxS3JfbDh0ODhWeGhJQjdfcFhjRkdubGZhdTltR1FHRmlVOHNQLW5hSQ?oc=5",
-      "image": "assets/news-fallback.svg",
-      "relevance": 11,
-      "sourceKind": "general"
-    },
-    {
-      "country": "Luxembourg",
-      "category": "Construction",
-      "source": "RTL Today",
-      "published": "Thu, 26 Nov 2026 06:00:00 GMT",
-      "title": "Small but mighty: Have you ever wondered who the most famous Luxembourger is?",
-      "summary": "Picture this: you're abroad, you tell someone you're from Luxembourg, and if they haven't mixed it up with Liechtenstein, they'll mention the banks, the size, or the language, but rarely a person, which raises the question: who is the best-known Luxembourger?",
-      "why": "Relevant to Luxembourg's construction environment and SW Europe market awareness.",
-      "url": "https://today.rtl.lu/news/luxembourg/have-you-ever-wondered-who-the-most-famous-luxembourger-is-2046149560",
-      "image": "assets/news-fallback.svg",
-      "relevance": 16,
-      "sourceKind": "direct"
     },
     {
       "country": "Luxembourg",
@@ -1208,7 +1195,7 @@
       "category": "Construction",
       "source": "RTL",
       "published": "Thu, 26 Nov 2026 08:19:37 GMT",
-      "title": "Virun Ibiza: Schëff mat 7.000 Tonnen Diesel u Bord ënnergaangen, een Doudegen",
+      "title": "Een Doudege virun Ibiza: Schëff mat 7.000 Tonnen Diesel u Bord ënnergaangen",
       "summary": "Virun der Küst vun der spuenescher Insel Ibiza ass en Donneschdeg de Moien e Schëff ënnergaangen, dat bis zu 7.000 Tonnen Diesel transportéiert huet. Dat mellen déi spuenesch Rettungsdéngschter.",
       "why": "Relevant to Luxembourg's construction environment and SW Europe market awareness.",
       "url": "https://www.rtl.lu/news/international/scheff-mat-7-000-tonnen-diesel-u-bord-ennergaangen-een-doudegen-55998996",
@@ -1231,13 +1218,26 @@
     },
     {
       "country": "Luxembourg",
+      "category": "Water",
+      "source": "Virgule",
+      "published": "Thu, 26 Nov 2026 04:00:00 GMT",
+      "title": "Le nouveau centre d’aide aux toxicomanes devrait être achevé fin 2029 - Virgule.lu",
+      "summary": "Le nouveau centre d’aide aux toxicomanes devrait être achevé fin 2029 Virgule.lu",
+      "why": "Relevant to Luxembourg's water environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb2Q5ejhZakczY2VlbzkzbWthdld4RmFEX2dweGFGQWVIM1loYnBRVnVVNHRWZVNUM3o5em5PVGlPZWhyNm0xb2stT0Y1NGZISWJwOVVjc3QwVzBJenZRRGdjTG9qdTAzTE41SjJHRzNod3RHUWNEeXJ6NmpjVk91S2Y5MFRTT0owaHl3aEg3OEpyaUdiMXprQlRDNVVVM29fWm1ycGUtUG54OUozdXNaczRYbHQ1VUQ0?oc=5",
+      "image": "assets/news-fallback.svg",
+      "relevance": 12,
+      "sourceKind": "mainstream"
+    },
+    {
+      "country": "Luxembourg",
       "category": "Construction",
-      "source": "Le Figaro",
-      "published": "Thu, 26 Nov 2026 08:01:40 GMT",
-      "title": "Espagne : un navire transportant du diesel coule au large d’Ibiza, un membre de l’équipage est mort",
-      "summary": "Espagne : un navire transportant du diesel coule au large d’Ibiza, un membre de l’équipage est mort Le Figaro Un navire transportant jusqu'à 7 000 tonnes de diesel coule au large de l'île espagnole d'Ibiza, faisant un mort parmi les membres de l'équipage franceinfo L'Espagne mobilisée pour éviter toute pollution majeure après le naufrage d'un navire au...",
+      "source": "20 Minutes",
+      "published": "Wed, 25 Nov 2026 22:06:00 GMT",
+      "title": "« La démocratie, c’est le vote »… Lisnard refuse le débat avec Philippe",
+      "summary": "« La démocratie, c’est le vote »… Lisnard refuse le débat avec Philippe 20 Minutes Présidentielle 2027 : Edouard Philippe passe à l’offensive face à David Lisnard Le Monde.fr Avec les maires aussi, les outrances de David Lisnard portent leurs fruits Mediapart Le baiser de la mort de Jean-Philippe Tanguy à David Lisnard Libération ÉDITO. David Lisnard...",
       "why": "Relevant to Luxembourg's construction environment and SW Europe market awareness.",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYWxEc0FZQ1NJd2dQYjJvN0FFUFZUczk2RHV1ejJmdXZnSDk4RWJTbVBsMThIb0JFcVlDOVFiZDkxTTZMUFNiMWhFMUNLVE53OHdrZ3FlUlVrTnE2aS1PRW1QZUxVZl9qZFBESDNINEpWVkZfbzlGSWJrTzhxWmJncGVyWk55VnFDV3BMMnpZZEJOM0dzeVlWU0FpUnd3U05CNDlGZlpnNmNvN2NaNjVaUXlsXzlXYk44ZlFZd1IzcXZpN09DZHU5amRhMVlESGZta2twX2Ntb1VWUHpqNUlUbHZkSlJDZ2tPempjNXR3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWmVxOF9LTjZXZl9hQmtuTmRwRTFodnNUYlFqbmh6dVJjejJFaXZPd2ZmZ090ZXRqVU5MVEJycEhsSXRBWmdhM0FOZGZBdzlhcUlUa1NBb25xWGMwYlFURllhSWNhWEpMU2ZQM09xOEY4QTBCNVFWTEtCOW93YWVaVkhHNWtaZjVuanRLRGEzYUZsbV9hSGw2RTVuWFJuYVlnNGY0SEdGZHVRd0ctT0pVYlVBQktRakhSYzJLYWRJSFpMVUE?oc=5",
       "image": "assets/news-fallback.svg",
       "relevance": 10,
       "sourceKind": "general"
@@ -1245,12 +1245,12 @@
     {
       "country": "Luxembourg",
       "category": "Construction",
-      "source": "Reporter.lu",
-      "published": "Thu, 26 Nov 2026 09:19:54 GMT",
-      "title": "Analyse: Les limites du tourisme à la pompe",
-      "summary": "Analyse: Les limites du tourisme à la pompe Reporter.lu",
+      "source": "Le Monde.fr",
+      "published": "Thu, 26 Nov 2026 13:00:51 GMT",
+      "title": "Espagne : le naufrage d’un pétrolier chargé de diesel fait un mort au large d’Ibiza, sans « indice de pollution » provisoirement observé",
+      "summary": "Espagne : le naufrage d’un pétrolier chargé de diesel fait un mort au large d’Ibiza, sans « indice de pollution » provisoirement observé Le Monde.fr Un navire transportant jusqu'à 7 000 tonnes de diesel coule au large de l'île espagnole d'Ibiza, faisant un mort parmi les membres de l'équipage franceinfo Au large d’Ibiza, quels risques présentent les 7000...",
       "why": "Relevant to Luxembourg's construction environment and SW Europe market awareness.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObWxGWWRSTDhyc2VCQWhUR2hBMnA2cTZhTVVWSHR2QTcwWU96TEJDWURlSzdMTlhyUWRwRUNTdFBoNVZxLUlZUklmOHdsNTMxTEZLMVlYdlF6ekM3N09LQU9CclFwZm1QQ2Z0MGZLem51eTVpOUpyNkY4TFdCLThlT3gzQkxySjAxTDhNQVNSZEtLVG9UN0Q4cHphcEt0V2JONXFieg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeTZEQzhHdDdkTWo1MUZSZEd2NndWcTltZ1piS2MxeENrdXBOT0lZTUppcEJ5R3Mzc2JzOHd6c3pmV3licVVCXzc3ZVZIVllQd3RFYzl5XzhEMUh1eTFESk95bzg2UnpZWGtKTHFPTWpES3U1UnluWFZ3UHhrSW8tS3hBMEJvLVpKMDhtNi1xbWp2ajMyX1lNcVAzZy1wWFRRTE9lNkJramo1SXNKNGNKTHR3aE9oZWI3MmdtUGEzZ055bGUyc2pMVHpLTG9vXzJmSy14RTFyNndaZzJTdjFObXJydEc?oc=5",
       "image": "assets/news-fallback.svg",
       "relevance": 10,
       "sourceKind": "general"
@@ -1341,11 +1341,11 @@
       "country": "France",
       "category": "Construction",
       "source": "Le Moniteur",
-      "published": "Thu, 26 Nov 2026 12:22:46 GMT",
-      "title": "Seine-Saint-Denis : poursuite de la construction de la résidence La Fabrique du lien, à Saint-Ouen-sur-Seine - Le Moniteur",
-      "summary": "Seine-Saint-Denis : poursuite de la construction de la résidence La Fabrique du lien, à Saint-Ouen-sur-Seine Le Moniteur",
+      "published": "Thu, 26 Nov 2026 13:30:00 GMT",
+      "title": "Avec une 4e opération de croissance externe en 2 ans, le réseau Union Matériaux maille méthodiquement le sud de la France - Le Moniteur",
+      "summary": "Avec une 4e opération de croissance externe en 2 ans, le réseau Union Matériaux maille méthodiquement le sud de la France Le Moniteur",
       "why": "Relevant to France's construction environment and SW Europe market awareness.",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQU2o3Q1VqVzdLUzE4Q09xXzZ4eEFTRkdZWHN2Xzh0eUdlN3NMT2cwcklhN1FJT3p3MUo4UlN0U3V4eVk4UThrd2kySkg1b0VmU2xpVTJRY3VnRkNpU21sd2ljXzZQLWZwWVp2clZzSUwtZlVJNzV4WV8wSmVMSVc4ank0alJCTjVMVEU0UU5oWi03dmxqRTV3bndxbGJBeWcyLXZZZlQ3ZW9hSWFucWcybU1ZZHYwMFcwUURDMVljSXBwSVJTbWJobnRnZVpYNFl4QW14YXQ4TlE4VTJJOGxyS3ZKTlBQT2hKOU9aTHBhdERpNTE0UVA2ZGFnUmFOWWFqeHZiczBrZWRTYVZLdHJfUVRQZ05jLU5GOHVmQnlseDI?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPWW4tcVVvV29PbnZrdFMyUFp0a0VtaXVTTXBJX3lraFlfOEtjdXNoeG5SckhjN2s4N0RyNGIwMVFYbGdfVjZBRWRpdktqM3pBaUZiSndsdXhPbUNYeXVTckQyOFdMeGZyNnppc0NoOWNlYmNVOVBncVJYa1RmQ0g3VDVXWVpaeDBad2FtdVNSemVwMngweGdMR0JjRTVITmJJeUlWVjVOXzd5M0dvX3cyX19GM092Um1WeHNYSE9ndUlmYUw2YjZKcE1HeFRxTDA4TUE4aDZRSDkyMElfNzd1RnVHT3ZKbnlmdUltUG1lY1NHMUJTRmhjMEtvdy1fOVlmdlgzUUI4RTAyUzNtLXJ3NVp5Zw?oc=5",
       "image": "assets/news-fallback.svg",
       "relevance": 15,
       "sourceKind": "sector"
@@ -1365,16 +1365,16 @@
     },
     {
       "country": "Italy",
-      "category": "Politics",
-      "source": "Linkiesta.it",
-      "published": "Thu, 26 Nov 2026 03:49:45 GMT",
-      "title": "Armata Brancaleone | Il campo largo non trova un accordo su Ucraina e tasse, e ora rischia di affidare tutto alle primarie",
-      "summary": "Armata Brancaleone | Il campo largo non trova un accordo su Ucraina e tasse, e ora rischia di affidare tutto alle primarie Linkiesta.it ++ Schlein, nodi nel centrosinistra sul fisco? Tavolo politico li scioglierà ++ ANSA Trenta: “Il M5s sulle armi ha bisogno di smarcarsi, dirà no a fini elettorali” la Repubblica Il sospetto del Pd: Conte vuol far...",
-      "why": "Relevant to Italy's politics environment and SW Europe market awareness.",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nU25sbGpsOF9YYnJMbmlaTm1jbmlWOC0yeE50RUg0RXFmUWlhREZEbzdwdXdVdEcwVVJVNjFZMzd1Z21vZ1BIN28wVy1VcjZyUk5QS0xOZHhiaWVKOUlXM2xod1dZTlV1eVBMNTJYdHFQMG9WUGdB?oc=5",
+      "category": "Construction",
+      "source": "Edilportale",
+      "published": "Thu, 26 Nov 2026 11:39:23 GMT",
+      "title": "Piano Casa, 400 milioni per l’edilizia pubblica e sociale: ecco dove saranno investiti - Edilportale",
+      "summary": "Piano Casa, 400 milioni per l’edilizia pubblica e sociale: ecco dove saranno investiti Edilportale",
+      "why": "Relevant to Italy's construction environment and SW Europe market awareness.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMVIzTW5FcS0tZjFPSTdrSTd0bExZN3pud3h1cWRFS0xMZkF0SFBvbXJzcDhaaHNNTnZxT0t3Q2lwTWI0Rm1DMU1PN1lRbGZ6YWJPX3BjS05SXzBycXhzU1NFVGU4MGpPdFJqTmxXeTlVTkZERTc4MHA3RThrUlgtN05OZXlMdWpIcFlqVURPaER0WEpmdV9GcWdldDJvLU9OcUIwUGZJa3RTLWNXSk9uUkYzekZaZEplYmFXa01nN3J2bFZzX1HSAcsBQVVfeXFMTldIMXlFaEY5V1hqc2hYS3NBclRNWWtJM29taHVIRjNCeU1mcGRLb2FzblIxQklGbUVBbFRSbjN2M2I1YlhqaWlfYkZ5R094UHJ2Q0Fia0RjMmhtWmhDb0wySDBJOXR4Wl8ydjRmNFkwNG5WR0owRVpDcktGcUl2WFM4eEp0YVJhWnk1QXMxMUpqLWd0M0M0VFBOZ0dvY2pBVUZqNmV3V3FKRlZVei15eWpYQ2lpbG0wVV9kVDhVRXhZR29Nb25rZG5UT3M?oc=5",
       "image": "assets/news-fallback.svg",
-      "relevance": 11,
-      "sourceKind": "general"
+      "relevance": 15,
+      "sourceKind": "sector"
     },
     {
       "country": "Portugal",
@@ -1382,7 +1382,7 @@
       "source": "RTP",
       "published": "Thu, 26 Nov 2026 06:50:57 GMT",
       "title": "Entrevista de Montenegro à RTP. IVA Zero não avança e IRS aplicado às rendas não será alterado",
-      "summary": "Entrevista de Montenegro à RTP. IVA Zero não avança e IRS aplicado às rendas não será alterado RTP Montenegro anuncia que Governo não vai cumprir IVA zero nos alimentos, nem mexer no IRS das rendas Expresso Tribunal Constitucional é que decide se medidas do OE se aplicam ou não RTP Governo tem margem para travar alterações ao Orçamento no Constitucional...",
+      "summary": "Entrevista de Montenegro à RTP. IVA Zero não avança e IRS aplicado às rendas não será alterado RTP Montenegro anuncia que Governo não vai cumprir IVA zero nos alimentos, nem mexer no IRS das rendas Expresso Governo tem margem para travar alterações ao Orçamento no Constitucional Diário de Notícias Montenegro tenta virar o jogo e desafia Carneiro, Ventura...",
       "why": "Relevant to Portugal's politics environment and SW Europe market awareness.",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY3dqT0twZkRrbHM4Y2Q2aDllb3p4RGtzcVp0REJNU1hlZHZkaTFVQ2llbWtZVmVSQUZ5cGN6QXVuRzEwUlR3RlE3a1FNdUlaWjREWGFjcHZwNTRIcTZJeGU3dVBDVFNyZWc2T2RXZDc3aDBpd1h6d2FkdVVnVjV5QjBzTUdlWkFFa2NYRDJKTlpjWWc4UlRZY2t0b2pIU3poTUs0WFBuaFUwZWlBR2kwZlZIakFQdTVwN2JNNE5NWDAxZmpMVzZNVk5hQkhhc0ZnTEZiNG13?oc=5",
       "image": "assets/news-fallback.svg",
@@ -1392,12 +1392,12 @@
     {
       "country": "Luxembourg",
       "category": "Politics",
-      "source": "20 Minutes",
-      "published": "Thu, 26 Nov 2026 08:16:00 GMT",
-      "title": "Colère des lycéens : Plus de 400 élèves exclus définitivement de leur lycée après des violences",
-      "summary": "Colère des lycéens : Plus de 400 élèves exclus définitivement de leur lycée après des violences 20 Minutes Lycées bloqués : le rapport accablant de l’Inspection générale sur le rôle des adultes Le Point \"Un grand jeu de répartition\" : les proviseurs face au casse-tête d'accueillir les élèves exclus d'autres lycées après les 3.000 conseils de discipline...",
+      "source": "Le HuffPost",
+      "published": "Thu, 26 Nov 2026 11:45:11 GMT",
+      "title": "Quand Bardella, jeune, s’en prenait à Mélenchon pour son soutien à Israël « de A a Z »",
+      "summary": "Quand Bardella, jeune, s’en prenait à Mélenchon pour son soutien à Israël « de A a Z » Le HuffPost EN DIRECT, congrès des maires de France, suites des propos antisémites de Bardella, campagne présidentielle : suivez l’actualité politique Le Monde.fr «Il y a beaucoup de choses qui s’accumulent quand même» : Robert Ménard réagit aux nouveaux éléments sur...",
       "why": "Relevant to Luxembourg's politics environment and SW Europe market awareness.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVm44aHJHZW1NZ1BzMXA1NTE5UFRNaE9sWFVCMXRIbGhJb3JtN3ZBcnc3UUZsZ1ZhY2J6YlhDczk0RTZaa21WdzVoa1RTT0RHSTltVS04emFtVG12SEJielFDN3dFaUQwZ3g4YlRlbEVEYzFPTlF2Umt5aEFsa1E4TURqSzlKNTB0UEdzSExlQ1FFR1Y0Tzg5a2xiUldURjRILUwyVUFxdHV2RGswbjdRY2tNYVphckdaZmk4V2hheC1iQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVEVabS1PR3Z6UUkxdTNGZk1idTY1cGpiUkFmdFlKYXFrWlh0ZDNrWHZlNThEZ3RxNU1raC1McUR2WEFvd3J1emlDOENuZ3A0aG41d0s3VGVQSjJrWU9hQkZUYU1vY042amVFQ3FDcjFiYk9DdnF1NkZVSGFWekRsRDRxQ1JxcE5MSlpyQ3c0dmwwcU0xRWJNd2NBZFBIU0paVC1UcEJyRzJlS0c4SG1nZHIzR1Ffa0VTRks0elVfZ0ZzWUxGZ25KWHRtdTYzdUZRdTlMR0dtYTkteEQxTTJfTQ?oc=5",
       "image": "assets/news-fallback.svg",
       "relevance": 11,
       "sourceKind": "general"
@@ -1408,139 +1408,139 @@
     "version": "spanish-political-cards-v3",
     "language": "es",
     "model": "gpt-6.1-sol",
-    "generatedAt": "2026-11-26T13:13:54.230433+00:00",
-    "executiveSummary": "Los presupuestos y la tensión institucional marcan la jornada. En Francia, fracasa el acuerdo parlamentario sobre las cuentas de la Seguridad Social para 2027, mientras el poder adquisitivo y la deuda dificultan que Europa y Ucrania ganen espacio en la precampaña presidencial. Portugal afronta una disputa sobre la aplicación de medidas presupuestarias, con llamadas al entendimiento y a la intervención del Tribunal Constitucional. España entra en el tramo final hacia las elecciones del 29 de noviembre entre acusaciones y dudas sobre la limpieza electoral que no deben confundirse con fraude acreditado; además, un naufragio frente a Ibiza deja un muerto. Italia revisa la fiscalidad de las grandes fortunas que abandonan el país y aprueba una ley educativa contestada. En Luxemburgo, destacan el debate sobre el salario mínimo y las críticas sociales al presupuesto.",
+    "generatedAt": "2026-11-26T15:05:41.959268+00:00",
+    "executiveSummary": "Los presupuestos y la tensión institucional marcan la jornada: en Francia fracasa el acuerdo parlamentario sobre la Seguridad Social para 2027; en Portugal, Montenegro rechaza aplicar algunas modificaciones presupuestarias aprobadas por los diputados y la oposición denuncia un desafío al Parlamento. España encara las elecciones del 29 de noviembre con una campaña muy polarizada, mientras Hernández de Cos obtiene el respaldo europeo para presidir el BCE, con las designaciones previstas en diciembre según ANSA. En Italia, el Gobierno revisa la fiscalidad de las grandes fortunas que abandonan el país y mantiene su enfrentamiento con la asociación de magistrados; además, dos técnicos italianos mueren en un ataque iraní en Kuwait. En Luxemburgo, siguen pendientes las reglas del salario mínimo y la Cámara de Empleados cuestiona las prioridades sociales del presupuesto.",
     "countryBriefs": [
       {
         "country": "France",
-        "politicalSummary": "El presupuesto de la Seguridad Social para 2027 vuelve a la Asamblea Nacional tras fracasar la negociación entre diputados y senadores. La precampaña presidencial combina preocupaciones económicas y controversias políticas: los defensores de una línea firme frente a Moscú encuentran dificultades para movilizar sobre Ucrania y Europa ante el peso del poder adquisitivo y la deuda. Entretanto, Jordan Bardella vuelve a negar formalmente la autoría de declaraciones antisemitas que Le Monde y Mediapart le atribuyen. En la izquierda, LFI rechaza reunirse con antiguos integrantes de L’Après para explorar una eventual coalición.",
+        "politicalSummary": "El presupuesto de la Seguridad Social para 2027 vuelve a la Asamblea tras fracasar la comisión de diputados y senadores encargada de buscar un acuerdo. En paralelo, el primer ministro plantea repensar la organización territorial ante el congreso de alcaldes. La presidencial de 2027 también condiciona el debate: los candidatos favorables a Ucrania y a una Europa fuerte encuentran dificultades para movilizar a un electorado más preocupado por el poder adquisitivo y la deuda. La visita de Mélenchon a Berlín añade tensión por su retórica hacia Alemania.",
         "topHeadlines": [
           {
             "title": "Sin acuerdo sobre el presupuesto de la Seguridad Social",
-            "context": "La comisión mixta de diputados y senadores termina sin consenso y el texto será devuelto a la Asamblea Nacional.",
+            "context": "La comisión mixta parlamentaria no logra conciliar posiciones y el texto regresará a la Asamblea.",
             "source": "Le Monde",
             "url": "https://www.lemonde.fr/politique/article/2026/11/26/budget-de-la-secu-2027-les-deputes-et-senateurs-echouent-a-s-accorder-en-commission-mixte-paritaire_6815507_823448.html"
           },
           {
-            "title": "La economía desplaza a Europa y Ucrania en la precampaña",
-            "context": "Los dirigentes proeuropeos y favorables a una posición firme ante Moscú tienen dificultades para imponer esos asuntos frente a las preocupaciones económicas.",
+            "title": "El Gobierno plantea revisar la organización territorial",
+            "context": "El primer ministro pide repensar la organización del país durante la clausura del congreso de alcaldes.",
             "source": "Le Monde",
-            "url": "https://www.lemonde.fr/politique/article/2026/11/26/presidentielle-2027-le-desarroi-des-partis-pro-ukraine-et-pro-europe-alors-que-ces-sujets-ne-mobilisent-pas-les-electeurs_6815508_823448.html"
+            "url": "https://www.lemonde.fr/politique/live/2026/11/26/en-direct-congres-des-maires-de-france-david-lisnard-est-accuse-de-compromission-avec-l-extreme-droite-par-gerald-darmanin_6815062_823448.html"
           },
           {
-            "title": "Bardella niega de nuevo las declaraciones antisemitas",
-            "context": "El presidente del RN rechaza formalmente su autoría después de que Le Monde y Mediapart publiquen nuevos elementos que se la atribuyen.",
+            "title": "Poder adquisitivo y deuda dominan las preocupaciones electorales",
+            "context": "Los aspirantes presidenciales proeuropeos y favorables a Ucrania tienen dificultades para situar la política internacional en el centro de la campaña.",
             "source": "Le Monde",
-            "url": "https://www.lemonde.fr/politique/article/2026/11/26/propos-antisemites-de-jordan-bardella-le-president-du-rn-reitere-sa-contestation-formelle-apres-des-revelations-du-monde-et-de-mediapart_6815516_823448.html"
+            "url": "https://www.lemonde.fr/politique/article/2026/11/26/presidentielle-2027-le-desarroi-des-partis-pro-ukraine-et-pro-europe-alors-que-ces-sujets-ne-mobilisent-pas-les-electeurs_6815508_823448.html"
           }
         ],
-        "industryNote": "Industria e infraestructuras: continúa la construcción de la residencia La Fabrique du lien, en Saint-Ouen-sur-Seine, en el departamento de Seine-Saint-Denis, según el titular de Le Moniteur."
+        "industryNote": "Industria e infraestructuras: Essonne despliega su dispositivo de mantenimiento de la vialidad invernal sobre 1.500 kilómetros de carreteras departamentales, según la información publicada por Le Moniteur."
       },
       {
         "country": "Spain",
-        "politicalSummary": "La campaña para las elecciones generales del 29 de noviembre llega a su tramo final con una fuerte confrontación entre bloques. La Vanguardia describe las dudas sobre la limpieza electoral como un intento de desacreditar a Sánchez y movilizar al electorado de PP y Vox, sin aportar en el fragmento pruebas de fraude. El debate entre Feijóo, Sánchez, Abascal y Colau centra la recta final. En paralelo, la Diputación Permanente convalida los cinco últimos decretos del Gobierno. Fuera de la campaña, el hundimiento de un buque con diésel frente a Ibiza deja un fallecido.",
+        "politicalSummary": "La campaña para las generales del 29 de noviembre entra en su recta final con fuerte polarización y un debate entre Feijóo, Sánchez, Abascal y Colau. Las alusiones a un posible fraude añaden tensión, sin que los fragmentos aporten pruebas de irregularidades. La diputación permanente aprueba los cinco últimos decretos del Gobierno en una sesión marcada por la ausencia de Vox y los choques con el PP. En el plano europeo, Hernández de Cos recibe el respaldo de los líderes para presidir el BCE. Vivienda e inmigración concentran también los enfrentamientos entre candidatos catalanes.",
         "topHeadlines": [
           {
-            "title": "Recta final electoral entre acusaciones y debate",
-            "context": "La campaña afronta el debate a cuatro en un clima de tensión por los mensajes que cuestionan la limpieza de los comicios.",
+            "title": "Hernández de Cos obtiene el respaldo para presidir el BCE",
+            "context": "Los líderes del Consejo Europeo apoyan que un español encabece por primera vez la autoridad monetaria.",
+            "source": "La Vanguardia",
+            "url": "https://www.lavanguardia.com/economia/20261126/11693870/espanol-pablo-hernandez-cos-sera-proximo-presidente-bce.html"
+          },
+          {
+            "title": "Recta final electoral bajo fuerte tensión",
+            "context": "Los avisos sobre un supuesto fraude y el debate a cuatro marcan los últimos días de campaña.",
             "source": "La Vanguardia",
             "url": "https://www.lavanguardia.com/politica/20261126/11693470/tension-electoral-avisos-sobre-posible-fraude-ultimo-cartucho-debate-cuatro.html"
           },
           {
-            "title": "Convalidados los cinco últimos decretos del Gobierno",
-            "context": "La Diputación Permanente da luz verde a los textos en la última sesión parlamentaria antes del 29-N, marcada por la ausencia de Vox y la confrontación del PP con Diana Morant.",
+            "title": "Aprobados los cinco últimos decretos del Gobierno",
+            "context": "La diputación permanente los convalida en la última sesión parlamentaria antes del 29-N.",
             "source": "La Vanguardia",
             "url": "https://www.lavanguardia.com/politica/20261126/11694060/diputacion-permanente-da-luz-verde-cinco-ultimos-decretos-gobierno.html"
-          },
-          {
-            "title": "Un muerto al hundirse un buque frente a Ibiza",
-            "context": "Según los servicios de rescate españoles citados por RTL, el barco transportaba hasta 7.000 toneladas de diésel.",
-            "source": "RTL",
-            "url": "https://www.rtl.lu/news/international/scheff-mat-7-000-tonnen-diesel-u-bord-ennergaangen-een-doudegen-55998996"
           }
         ],
-        "industryNote": "Industria e infraestructuras: Sacyr ha ganado la construcción de tres estaciones subterráneas de la línea Este del Metro de Fortaleza, en Brasil, por unos 190 millones de euros."
+        "industryNote": "Industria e infraestructuras: Sacyr gana la construcción de tres estaciones subterráneas de la línea Este del metro de Fortaleza, en Brasil, por unos 190 millones de euros, según Expansión."
       },
       {
         "country": "Italy",
-        "politicalSummary": "El Gobierno revisa en el presupuesto el impuesto de salida para grandes fortunas: afectará a rentas financieras superiores a dos millones de euros de quienes trasladen su residencia fiscal a países que no gravan las plusvalías, con exención para nuevos residentes acogidos al régimen de impuesto fijo. La Cámara convierte en ley el decreto educativo entre protestas de la oposición. También persiste la tensión entre Meloni y la Asociación Nacional de Magistrados, que reivindica el diálogo. En la oposición de centroizquierda continúan las discrepancias sobre Ucrania y fiscalidad.",
+        "politicalSummary": "El Gobierno modifica, dentro del presupuesto, el impuesto de salida para grandes fortunas: afectará a rentas financieras superiores a dos millones de euros cuando se traslade la residencia fiscal a países que no gravan las plusvalías, con una exención para determinados nuevos residentes. En el frente institucional, la asociación de magistrados responde a Meloni y reclama diálogo tras otra disputa sobre salarios. La política exterior gana urgencia por la muerte de dos técnicos italianos en un ataque iraní con drones en Kuwait. Meloni también advierte contra la extensión de la guerra al Mediterráneo.",
         "topHeadlines": [
           {
             "title": "El Gobierno redefine el impuesto de salida",
-            "context": "La revisión limita el gravamen a determinadas grandes rentas financieras y destinos fiscales, y exime a nuevos residentes beneficiarios del régimen de impuesto fijo.",
+            "context": "La revisión limita su alcance a determinadas rentas financieras y destinos fiscales, y exime a nuevos residentes acogidos al régimen de cuota fija.",
             "source": "la Repubblica",
             "url": "https://www.repubblica.it/economia/2026/11/26/news/manovra_il_governo_riscrive_l_exit_tax_cosi_cambia_l_imposta_per_i_paperoni_che_lasciano_l_italia-425751954/"
           },
           {
-            "title": "El decreto educativo se convierte en ley",
-            "context": "La Cámara lo aprueba por 142 votos a favor, 112 en contra y cuatro abstenciones; incluye versiones electrónicas de libros escolares a mitad del precio de las impresas.",
-            "source": "la Repubblica",
-            "url": "https://www.repubblica.it/politica/2026/11/26/news/dl_scuola_approvato_camera_ebook_tetto_stranieri-425751682/"
-          },
-          {
-            "title": "Los magistrados responden a Meloni",
-            "context": "La asociación judicial lamenta lo que considera otro ataque instrumental de la primera ministra y mantiene su disposición al diálogo.",
+            "title": "Nuevo choque entre Meloni y los magistrados",
+            "context": "La asociación judicial lamenta los ataques de la primera ministra y defiende el diálogo tras la controversia sobre la actualización salarial.",
             "source": "la Repubblica",
             "url": "https://www.repubblica.it/politica/2026/11/26/news/anm_replica_meloni_rinuncia_confronto_aumenti-425751546/"
+          },
+          {
+            "title": "Dos italianos muertos en un ataque en Kuwait",
+            "context": "Las víctimas son técnicos de Rheinmetall y el Gobierno expresa su solidaridad con las familias tras el ataque iraní con drones.",
+            "source": "La Stampa",
+            "url": "https://www.lastampa.it/esteri/2026/11/26/news/kuwait_italiani_feriti-15810123/"
           }
         ],
-        "industryNote": "Industria e infraestructuras: el Plan de Vivienda contempla 400 millones de euros para edificación pública y social, según Edilportale; el fragmento suministrado no detalla el reparto de los fondos."
+        "industryNote": "Industria e infraestructuras: Edilportale informa de una dotación de 400 millones de euros del Plan de Vivienda para edificación pública y social; el fragmento no detalla su distribución."
       },
       {
         "country": "Portugal",
-        "politicalSummary": "La aplicación del presupuesto de 2027 enfrenta al Gobierno y al Parlamento. Montenegro anuncia que no aplicará el IVA cero a los alimentos ni modificará el impuesto sobre las rentas del alquiler; constitucionalistas sostienen que la decisión última sobre las medidas corresponde al Tribunal Constitucional, no unilateralmente al Ejecutivo. Carneiro acusa al primer ministro de ajustar cuentas con el Parlamento, mientras Seguro pide entendimiento. En el ámbito regional, el plan anual de las Azores supera su primera votación. La huelga de maquinistas de CP cancela casi el 30% de los trenes previstos hasta mediodía.",
+        "politicalSummary": "Montenegro abre un conflicto con el Parlamento al anunciar que no aplicará algunas modificaciones al presupuesto de 2027, entre ellas el IVA cero y los cambios en la tributación de los alquileres. PS y Chega cuestionan la decisión, y el presidente de la Asamblea convoca una reunión extraordinaria de líderes parlamentarios. Seguro pide diálogo sin anticipar un envío del presupuesto al Constitucional, mientras representantes empresariales rechazan unas elecciones. En el ámbito social, el presidente reclama un pacto sanitario y un informe europeo alerta de violencia o discriminación contra jóvenes LGBTIQ+ en las escuelas.",
         "topHeadlines": [
           {
-            "title": "El conflicto presupuestario apunta al Constitucional",
-            "context": "Juristas ven motivos para solicitar el control de normas del presupuesto de 2027 y cuestionan que el Gobierno pueda decidir unilateralmente su aplicación.",
+            "title": "Montenegro rechaza aplicar cambios presupuestarios",
+            "context": "PS y Chega denuncian la negativa del Gobierno a ejecutar algunas medidas aprobadas por el Parlamento.",
             "source": "RTP Noticias",
-            "url": "https://www.rtp.pt/noticias/politica/constitucionalistas-veem-razoes-para-pedir-fiscalizacao-de-normas-do-oe-ao-tribunal-constitucional_n1781770"
+            "url": "https://www.rtp.pt/noticias/politica/crise-politica-por-birra-ps-e-chega-contestam-recusa-de-montenegro-em-cumprir-decisoes-do-parlamento_a1781774"
           },
           {
-            "title": "La huelga ferroviaria cancela 160 trenes",
-            "context": "CP registra la supresión de 160 de los 544 servicios programados hasta las 12:00, equivalentes al 29,4% de las conexiones.",
+            "title": "El presidente pide un pacto sanitario",
+            "context": "El llamamiento presidencial a un acuerdo en sanidad figura en el boletín de RTP, sin más detalles en el fragmento disponible.",
             "source": "RTP Noticias",
-            "url": "https://www.rtp.pt/noticias/economia/greve-dos-maquinistas-da-cp-suprime-quase-30-dos-comboios-ate-as-12h00_n1781784"
+            "url": "https://www.rtp.pt/noticias/noticiario-antena1/13h-presidente-pede-pacto-na-saude-e-deixa-aviso_a1_1781800"
           },
           {
-            "title": "Primer aval al plan de las Azores para 2027",
-            "context": "El Parlamento regional aprueba el plan en términos generales con los votos de PSD, CDS-PP y PPM y la abstención de PS y PAN.",
+            "title": "Alerta por discriminación escolar contra jóvenes LGBTIQ+",
+            "context": "Casi el 70% de los encuestados en un proyecto europeo refiere violencia o discriminación en el entorno escolar.",
             "source": "RTP Noticias",
-            "url": "https://www.rtp.pt/noticias/politica/plano-regional-dos-acores-para-2027-aprovado-na-generalidade_n1781767"
+            "url": "https://www.rtp.pt/noticias/pais/escolas-portuguesas-sao-lugar-de-risco-para-jovens-lgbtiq_n1781779"
           }
         ],
-        "industryNote": "Industria e infraestructuras: cambia la ruta de los despegues hacia el norte desde Lisboa para reducir el ruido sobre 35.000 personas; Loures afirma desconocer el impacto del desvío hacia el oeste."
+        "industryNote": "Industria e infraestructuras: Público informa de que paneles solares suministrarán electricidad a los trenes en Portugal; el titular disponible no precisa inversión, capacidad instalada ni calendario de ejecución."
       },
       {
         "country": "Luxembourg",
-        "politicalSummary": "El salario mínimo sigue pendiente de una definición regulatoria: Gobierno y agentes sociales acordaron en junio una subida del 3,8%, pero aún no se ha transpuesto la directiva europea ni fijado el método de cálculo futuro. La Cámara de Empleados critica el presupuesto por unas desigualdades crecientes y por el menor peso de vivienda y protección ambiental frente a defensa. En servicios públicos, el Gobierno presenta una oficina móvil de Guichet.lu. La cobertura suministrada es parcial y no permite ampliar el panorama económico general.",
+        "politicalSummary": "La aplicación de la directiva europea sobre salarios mínimos sigue pendiente: aunque Gobierno y agentes sociales acordaron en junio una subida del 3,8%, aún no está definido el método de cálculo futuro. La Cámara de Empleados critica el presupuesto y advierte de desigualdades crecientes, con una inversión en vivienda y protección ambiental que considera reducida frente al gasto en defensa. En la agenda territorial, el presidente de Syvicol reclama mayor apoyo estatal a la fusión de Nordstad. Además, un servicio móvil de Guichet.lu acercará la atención administrativa a los municipios desde la próxima semana.",
         "topHeadlines": [
           {
             "title": "Pendiente el método de cálculo del salario mínimo",
-            "context": "Pese al acuerdo de subida del 3,8% alcanzado en junio, siguen sin definirse la fórmula futura y la transposición de la directiva europea.",
+            "context": "La directiva europea sigue sin aplicarse pese al acuerdo de junio para elevar el salario mínimo un 3,8%.",
             "source": "RTL",
             "url": "https://www.rtl.lu/news/national/nach-net-dkugel-fonnt-fir-dberechnungsmethod-vum-mindestloun-1212370921"
           },
           {
             "title": "La Cámara de Empleados cuestiona el presupuesto",
-            "context": "La institución advierte del aumento de las desigualdades y contrasta la inversión en vivienda y protección ambiental con el gasto en defensa.",
+            "context": "La institución alerta del aumento de las desigualdades y contrapone la inversión en vivienda y medioambiente al gasto en defensa.",
             "source": "RTL Today",
             "url": "https://today.rtl.lu/news/luxembourg/social-inequalities-widen-as-major-challenges-remain-unaddressed-2060223854"
           },
           {
-            "title": "Guichet.lu llevará atención presencial a los municipios",
-            "context": "Una oficina móvil recorrerá localidades desde la próxima semana y ofrecerá la misma asistencia que el punto físico de la capital.",
-            "source": "RTL Today",
-            "url": "https://today.rtl.lu/news/luxembourg/new-guichet-lu-bus-brings-government-services-to-citizens-734809811"
+            "title": "Piden más apoyo estatal para la fusión de Nordstad",
+            "context": "Emile Eicher sostiene que los cuatro municipios necesitan una ayuda superior a la habitual para asumir su papel como polo de desarrollo.",
+            "source": "RTL",
+            "url": "https://www.rtl.lu/news/national/emile-eicher-president-vum-gemengesyndicat-syvicol-155185088"
           }
         ],
-        "industryNote": ""
+        "industryNote": "Industria e infraestructuras: El nuevo centro de atención a personas con drogodependencias debería estar terminado a finales de 2029, según la previsión publicada por Virgule."
       }
     ],
     "usage": {
-      "inputTokens": 20668,
-      "outputTokens": 3208,
-      "totalTokens": 23876
+      "inputTokens": 20714,
+      "outputTokens": 3027,
+      "totalTokens": 23741
     }
   }
 }
